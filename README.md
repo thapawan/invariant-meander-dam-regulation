@@ -1,19 +1,12 @@
 # **The Invariant Meander: Dam Regulation Suppresses Migration Rates but Conserves the Geometric Template of Erosion**
 
-**Authors:** [Your Names]  
-**Correspondence:** [Your Email]  
-**DOI:** [Link to paper once published]  
-**License:** [e.g., MIT License]
-
----
-
 ## **Overview**
 
 This repository contains the complete data and code to reproduce the analysis and figures for the manuscript **"The Invariant Meander: Dam Regulation Suppresses Migration Rates but Conserves the Geometric Template of Erosion"**.
 
 This study demonstrates a fundamental decoupling in meander migration: the **spatial pattern of erosion (phase lag)** is an intrinsic geometric property invariant to dam regulation, while the **rate of migration (erodibility coefficient)** is extrinsically suppressed. We combine multi-sensor remote sensing, hydrologic analysis, and statistical modeling to show that dam regulation induces a state of **geomorphic dormancy**, where the river's meandering blueprint remains intact but its execution is halted by dampened hydraulics and enhanced biotic stabilization.
 
-![Abstract Graphic](figures/abstract_graphic.png) *[Optional: Include a key figure from the paper]*
+![Abstract Graphic](Results/StudyArea_Final.jpg) *[Optional: Include a key figure from the paper]*
 
 ## **Key Findings**
 
@@ -120,10 +113,15 @@ This project is licensed under the [MIT License](LICENSE) - see the LICENSE file
 
 ## **Acknowledgements**
 
-We express our gratitude to the developers and contributors of the `Medial Axis Transform` and `curvaturepy` libraries. This material is based upon work supported by [Your Funding Agencies].
+We express our gratitude to the developers and contributors of the `Medial Axis Transform` and `curvaturepy` libraries.
+
+
+**Authors:** [Your Names]  
+**Correspondence:** [Your Email]  
+**DOI:** [Link to paper once published]  
+**License:** [e.g., MIT License]
 
 ---
-
 
 
 
