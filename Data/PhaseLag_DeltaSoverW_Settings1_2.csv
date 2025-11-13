@@ -1,0 +1,2801 @@
+sample_id,river,river_label,setting,tol_multiplier,min_pairs,delta_s_over_W
+1,regulated,Regulated (Black Warrior),Settings 1,1.0,5,0.292352
+2,regulated,Regulated (Black Warrior),Settings 1,1.0,5,0.263778
+3,regulated,Regulated (Black Warrior),Settings 1,1.0,5,0.299146
+4,regulated,Regulated (Black Warrior),Settings 1,1.0,5,0.338536
+5,regulated,Regulated (Black Warrior),Settings 1,1.0,5,0.259463
+6,regulated,Regulated (Black Warrior),Settings 1,1.0,5,0.259464
+7,regulated,Regulated (Black Warrior),Settings 1,1.0,5,0.341065
+8,regulated,Regulated (Black Warrior),Settings 1,1.0,5,0.304535
+9,regulated,Regulated (Black Warrior),Settings 1,1.0,5,0.248874
+10,regulated,Regulated (Black Warrior),Settings 1,1.0,5,0.294415
+11,regulated,Regulated (Black Warrior),Settings 1,1.0,5,0.249146
+12,regulated,Regulated (Black Warrior),Settings 1,1.0,5,0.249042
+13,regulated,Regulated (Black Warrior),Settings 1,1.0,5,0.280888
+14,regulated,Regulated (Black Warrior),Settings 1,1.0,5,0.183902
+15,regulated,Regulated (Black Warrior),Settings 1,1.0,5,0.192379
+16,regulated,Regulated (Black Warrior),Settings 1,1.0,5,0.244697
+17,regulated,Regulated (Black Warrior),Settings 1,1.0,5,0.224423
+18,regulated,Regulated (Black Warrior),Settings 1,1.0,5,0.284141
+19,regulated,Regulated (Black Warrior),Settings 1,1.0,5,0.229139
+20,regulated,Regulated (Black Warrior),Settings 1,1.0,5,0.206446
+21,regulated,Regulated (Black Warrior),Settings 1,1.0,5,0.335954
+22,regulated,Regulated (Black Warrior),Settings 1,1.0,5,0.25984
+23,regulated,Regulated (Black Warrior),Settings 1,1.0,5,0.273039
+24,regulated,Regulated (Black Warrior),Settings 1,1.0,5,0.205886
+25,regulated,Regulated (Black Warrior),Settings 1,1.0,5,0.245503
+26,regulated,Regulated (Black Warrior),Settings 1,1.0,5,0.274992
+27,regulated,Regulated (Black Warrior),Settings 1,1.0,5,0.218205
+28,regulated,Regulated (Black Warrior),Settings 1,1.0,5,0.286906
+29,regulated,Regulated (Black Warrior),Settings 1,1.0,5,0.242971
+30,regulated,Regulated (Black Warrior),Settings 1,1.0,5,0.256874
+31,regulated,Regulated (Black Warrior),Settings 1,1.0,5,0.242923
+32,regulated,Regulated (Black Warrior),Settings 1,1.0,5,0.353353
+33,regulated,Regulated (Black Warrior),Settings 1,1.0,5,0.269393
+34,regulated,Regulated (Black Warrior),Settings 1,1.0,5,0.222403
+35,regulated,Regulated (Black Warrior),Settings 1,1.0,5,0.307015
+36,regulated,Regulated (Black Warrior),Settings 1,1.0,5,0.215062
+37,regulated,Regulated (Black Warrior),Settings 1,1.0,5,0.279399
+38,regulated,Regulated (Black Warrior),Settings 1,1.0,5,0.181815
+39,regulated,Regulated (Black Warrior),Settings 1,1.0,5,0.210232
+40,regulated,Regulated (Black Warrior),Settings 1,1.0,5,0.278859
+41,regulated,Regulated (Black Warrior),Settings 1,1.0,5,0.303231
+42,regulated,Regulated (Black Warrior),Settings 1,1.0,5,0.277712
+43,regulated,Regulated (Black Warrior),Settings 1,1.0,5,0.264796
+44,regulated,Regulated (Black Warrior),Settings 1,1.0,5,0.25645
+45,regulated,Regulated (Black Warrior),Settings 1,1.0,5,0.203467
+46,regulated,Regulated (Black Warrior),Settings 1,1.0,5,0.237607
+47,regulated,Regulated (Black Warrior),Settings 1,1.0,5,0.249271
+48,regulated,Regulated (Black Warrior),Settings 1,1.0,5,0.317571
+49,regulated,Regulated (Black Warrior),Settings 1,1.0,5,0.285463
+50,regulated,Regulated (Black Warrior),Settings 1,1.0,5,0.190663
+51,regulated,Regulated (Black Warrior),Settings 1,1.0,5,0.284584
+52,regulated,Regulated (Black Warrior),Settings 1,1.0,5,0.252671
+53,regulated,Regulated (Black Warrior),Settings 1,1.0,5,0.239539
+54,regulated,Regulated (Black Warrior),Settings 1,1.0,5,0.297525
+55,regulated,Regulated (Black Warrior),Settings 1,1.0,5,0.316395
+56,regulated,Regulated (Black Warrior),Settings 1,1.0,5,0.311908
+57,regulated,Regulated (Black Warrior),Settings 1,1.0,5,0.232235
+58,regulated,Regulated (Black Warrior),Settings 1,1.0,5,0.256085
+59,regulated,Regulated (Black Warrior),Settings 1,1.0,5,0.284907
+60,regulated,Regulated (Black Warrior),Settings 1,1.0,5,0.3139
+61,regulated,Regulated (Black Warrior),Settings 1,1.0,5,0.248437
+62,regulated,Regulated (Black Warrior),Settings 1,1.0,5,0.261645
+63,regulated,Regulated (Black Warrior),Settings 1,1.0,5,0.220215
+64,regulated,Regulated (Black Warrior),Settings 1,1.0,5,0.216171
+65,regulated,Regulated (Black Warrior),Settings 1,1.0,5,0.306564
+66,regulated,Regulated (Black Warrior),Settings 1,1.0,5,0.331031
+67,regulated,Regulated (Black Warrior),Settings 1,1.0,5,0.26676
+68,regulated,Regulated (Black Warrior),Settings 1,1.0,5,0.315159
+69,regulated,Regulated (Black Warrior),Settings 1,1.0,5,0.286274
+70,regulated,Regulated (Black Warrior),Settings 1,1.0,5,0.24097
+71,regulated,Regulated (Black Warrior),Settings 1,1.0,5,0.286263
+72,regulated,Regulated (Black Warrior),Settings 1,1.0,5,0.339212
+73,regulated,Regulated (Black Warrior),Settings 1,1.0,5,0.268388
+74,regulated,Regulated (Black Warrior),Settings 1,1.0,5,0.340409
+75,regulated,Regulated (Black Warrior),Settings 1,1.0,5,0.152111
+76,regulated,Regulated (Black Warrior),Settings 1,1.0,5,0.306986
+77,regulated,Regulated (Black Warrior),Settings 1,1.0,5,0.273917
+78,regulated,Regulated (Black Warrior),Settings 1,1.0,5,0.256545
+79,regulated,Regulated (Black Warrior),Settings 1,1.0,5,0.274129
+80,regulated,Regulated (Black Warrior),Settings 1,1.0,5,0.180559
+81,regulated,Regulated (Black Warrior),Settings 1,1.0,5,0.260115
+82,regulated,Regulated (Black Warrior),Settings 1,1.0,5,0.28607
+83,regulated,Regulated (Black Warrior),Settings 1,1.0,5,0.336505
+84,regulated,Regulated (Black Warrior),Settings 1,1.0,5,0.246678
+85,regulated,Regulated (Black Warrior),Settings 1,1.0,5,0.233618
+86,regulated,Regulated (Black Warrior),Settings 1,1.0,5,0.247421
+87,regulated,Regulated (Black Warrior),Settings 1,1.0,5,0.311193
+88,regulated,Regulated (Black Warrior),Settings 1,1.0,5,0.284794
+89,regulated,Regulated (Black Warrior),Settings 1,1.0,5,0.246161
+90,regulated,Regulated (Black Warrior),Settings 1,1.0,5,0.293097
+91,regulated,Regulated (Black Warrior),Settings 1,1.0,5,0.274368
+92,regulated,Regulated (Black Warrior),Settings 1,1.0,5,0.313589
+93,regulated,Regulated (Black Warrior),Settings 1,1.0,5,0.238408
+94,regulated,Regulated (Black Warrior),Settings 1,1.0,5,0.255255
+95,regulated,Regulated (Black Warrior),Settings 1,1.0,5,0.252355
+96,regulated,Regulated (Black Warrior),Settings 1,1.0,5,0.204142
+97,regulated,Regulated (Black Warrior),Settings 1,1.0,5,0.283325
+98,regulated,Regulated (Black Warrior),Settings 1,1.0,5,0.281747
+99,regulated,Regulated (Black Warrior),Settings 1,1.0,5,0.27023
+100,regulated,Regulated (Black Warrior),Settings 1,1.0,5,0.259444
+101,regulated,Regulated (Black Warrior),Settings 1,1.0,5,0.206308
+102,regulated,Regulated (Black Warrior),Settings 1,1.0,5,0.251071
+103,regulated,Regulated (Black Warrior),Settings 1,1.0,5,0.254578
+104,regulated,Regulated (Black Warrior),Settings 1,1.0,5,0.233898
+105,regulated,Regulated (Black Warrior),Settings 1,1.0,5,0.262742
+106,regulated,Regulated (Black Warrior),Settings 1,1.0,5,0.288182
+107,regulated,Regulated (Black Warrior),Settings 1,1.0,5,0.354878
+108,regulated,Regulated (Black Warrior),Settings 1,1.0,5,0.277856
+109,regulated,Regulated (Black Warrior),Settings 1,1.0,5,0.28159
+110,regulated,Regulated (Black Warrior),Settings 1,1.0,5,0.26665
+111,regulated,Regulated (Black Warrior),Settings 1,1.0,5,0.183655
+112,regulated,Regulated (Black Warrior),Settings 1,1.0,5,0.268807
+113,regulated,Regulated (Black Warrior),Settings 1,1.0,5,0.27271
+114,regulated,Regulated (Black Warrior),Settings 1,1.0,5,0.380846
+115,regulated,Regulated (Black Warrior),Settings 1,1.0,5,0.261344
+116,regulated,Regulated (Black Warrior),Settings 1,1.0,5,0.28357
+117,regulated,Regulated (Black Warrior),Settings 1,1.0,5,0.268438
+118,regulated,Regulated (Black Warrior),Settings 1,1.0,5,0.217409
+119,regulated,Regulated (Black Warrior),Settings 1,1.0,5,0.321427
+120,regulated,Regulated (Black Warrior),Settings 1,1.0,5,0.303837
+121,regulated,Regulated (Black Warrior),Settings 1,1.0,5,0.305596
+122,regulated,Regulated (Black Warrior),Settings 1,1.0,5,0.229078
+123,regulated,Regulated (Black Warrior),Settings 1,1.0,5,0.333126
+124,regulated,Regulated (Black Warrior),Settings 1,1.0,5,0.206917
+125,regulated,Regulated (Black Warrior),Settings 1,1.0,5,0.296409
+126,regulated,Regulated (Black Warrior),Settings 1,1.0,5,0.368571
+127,regulated,Regulated (Black Warrior),Settings 1,1.0,5,0.225426
+128,regulated,Regulated (Black Warrior),Settings 1,1.0,5,0.244517
+129,regulated,Regulated (Black Warrior),Settings 1,1.0,5,0.274484
+130,regulated,Regulated (Black Warrior),Settings 1,1.0,5,0.247344
+131,regulated,Regulated (Black Warrior),Settings 1,1.0,5,0.20022
+132,regulated,Regulated (Black Warrior),Settings 1,1.0,5,0.273085
+133,regulated,Regulated (Black Warrior),Settings 1,1.0,5,0.222196
+134,regulated,Regulated (Black Warrior),Settings 1,1.0,5,0.291312
+135,regulated,Regulated (Black Warrior),Settings 1,1.0,5,0.228626
+136,regulated,Regulated (Black Warrior),Settings 1,1.0,5,0.339747
+137,regulated,Regulated (Black Warrior),Settings 1,1.0,5,0.234754
+138,regulated,Regulated (Black Warrior),Settings 1,1.0,5,0.255507
+139,regulated,Regulated (Black Warrior),Settings 1,1.0,5,0.306608
+140,regulated,Regulated (Black Warrior),Settings 1,1.0,5,0.214611
+141,regulated,Regulated (Black Warrior),Settings 1,1.0,5,0.280236
+142,regulated,Regulated (Black Warrior),Settings 1,1.0,5,0.328821
+143,regulated,Regulated (Black Warrior),Settings 1,1.0,5,0.197663
+144,regulated,Regulated (Black Warrior),Settings 1,1.0,5,0.278309
+145,regulated,Regulated (Black Warrior),Settings 1,1.0,5,0.281695
+146,regulated,Regulated (Black Warrior),Settings 1,1.0,5,0.305182
+147,regulated,Regulated (Black Warrior),Settings 1,1.0,5,0.214337
+148,regulated,Regulated (Black Warrior),Settings 1,1.0,5,0.210579
+149,regulated,Regulated (Black Warrior),Settings 1,1.0,5,0.293487
+150,regulated,Regulated (Black Warrior),Settings 1,1.0,5,0.283364
+151,regulated,Regulated (Black Warrior),Settings 1,1.0,5,0.281272
+152,regulated,Regulated (Black Warrior),Settings 1,1.0,5,0.28559
+153,regulated,Regulated (Black Warrior),Settings 1,1.0,5,0.239399
+154,regulated,Regulated (Black Warrior),Settings 1,1.0,5,0.280451
+155,regulated,Regulated (Black Warrior),Settings 1,1.0,5,0.283188
+156,regulated,Regulated (Black Warrior),Settings 1,1.0,5,0.237854
+157,regulated,Regulated (Black Warrior),Settings 1,1.0,5,0.35396
+158,regulated,Regulated (Black Warrior),Settings 1,1.0,5,0.291322
+159,regulated,Regulated (Black Warrior),Settings 1,1.0,5,0.216391
+160,regulated,Regulated (Black Warrior),Settings 1,1.0,5,0.299545
+161,regulated,Regulated (Black Warrior),Settings 1,1.0,5,0.226139
+162,regulated,Regulated (Black Warrior),Settings 1,1.0,5,0.305419
+163,regulated,Regulated (Black Warrior),Settings 1,1.0,5,0.322137
+164,regulated,Regulated (Black Warrior),Settings 1,1.0,5,0.233069
+165,regulated,Regulated (Black Warrior),Settings 1,1.0,5,0.313352
+166,regulated,Regulated (Black Warrior),Settings 1,1.0,5,0.288575
+167,regulated,Regulated (Black Warrior),Settings 1,1.0,5,0.306993
+168,regulated,Regulated (Black Warrior),Settings 1,1.0,5,0.355356
+169,regulated,Regulated (Black Warrior),Settings 1,1.0,5,0.258958
+170,regulated,Regulated (Black Warrior),Settings 1,1.0,5,0.236082
+171,regulated,Regulated (Black Warrior),Settings 1,1.0,5,0.229972
+172,regulated,Regulated (Black Warrior),Settings 1,1.0,5,0.233289
+173,regulated,Regulated (Black Warrior),Settings 1,1.0,5,0.26653
+174,regulated,Regulated (Black Warrior),Settings 1,1.0,5,0.285352
+175,regulated,Regulated (Black Warrior),Settings 1,1.0,5,0.282451
+176,regulated,Regulated (Black Warrior),Settings 1,1.0,5,0.307223
+177,regulated,Regulated (Black Warrior),Settings 1,1.0,5,0.270585
+178,regulated,Regulated (Black Warrior),Settings 1,1.0,5,0.335409
+179,regulated,Regulated (Black Warrior),Settings 1,1.0,5,0.25809
+180,regulated,Regulated (Black Warrior),Settings 1,1.0,5,0.392408
+181,regulated,Regulated (Black Warrior),Settings 1,1.0,5,0.298155
+182,regulated,Regulated (Black Warrior),Settings 1,1.0,5,0.231428
+183,regulated,Regulated (Black Warrior),Settings 1,1.0,5,0.22181
+184,regulated,Regulated (Black Warrior),Settings 1,1.0,5,0.291711
+185,regulated,Regulated (Black Warrior),Settings 1,1.0,5,0.259944
+186,regulated,Regulated (Black Warrior),Settings 1,1.0,5,0.30213
+187,regulated,Regulated (Black Warrior),Settings 1,1.0,5,0.291296
+188,regulated,Regulated (Black Warrior),Settings 1,1.0,5,0.266723
+189,regulated,Regulated (Black Warrior),Settings 1,1.0,5,0.231894
+190,regulated,Regulated (Black Warrior),Settings 1,1.0,5,0.201832
+191,regulated,Regulated (Black Warrior),Settings 1,1.0,5,0.249907
+192,regulated,Regulated (Black Warrior),Settings 1,1.0,5,0.308538
+193,regulated,Regulated (Black Warrior),Settings 1,1.0,5,0.279634
+194,regulated,Regulated (Black Warrior),Settings 1,1.0,5,0.213942
+195,regulated,Regulated (Black Warrior),Settings 1,1.0,5,0.277793
+196,regulated,Regulated (Black Warrior),Settings 1,1.0,5,0.287339
+197,regulated,Regulated (Black Warrior),Settings 1,1.0,5,0.230226
+198,regulated,Regulated (Black Warrior),Settings 1,1.0,5,0.276918
+199,regulated,Regulated (Black Warrior),Settings 1,1.0,5,0.272619
+200,regulated,Regulated (Black Warrior),Settings 1,1.0,5,0.218566
+201,regulated,Regulated (Black Warrior),Settings 1,1.0,5,0.2861
+202,regulated,Regulated (Black Warrior),Settings 1,1.0,5,0.295235
+203,regulated,Regulated (Black Warrior),Settings 1,1.0,5,0.318737
+204,regulated,Regulated (Black Warrior),Settings 1,1.0,5,0.317421
+205,regulated,Regulated (Black Warrior),Settings 1,1.0,5,0.208005
+206,regulated,Regulated (Black Warrior),Settings 1,1.0,5,0.227798
+207,regulated,Regulated (Black Warrior),Settings 1,1.0,5,0.293177
+208,regulated,Regulated (Black Warrior),Settings 1,1.0,5,0.29312
+209,regulated,Regulated (Black Warrior),Settings 1,1.0,5,0.293177
+210,regulated,Regulated (Black Warrior),Settings 1,1.0,5,0.443373
+211,regulated,Regulated (Black Warrior),Settings 1,1.0,5,0.29569
+212,regulated,Regulated (Black Warrior),Settings 1,1.0,5,0.3211
+213,regulated,Regulated (Black Warrior),Settings 1,1.0,5,0.31293
+214,regulated,Regulated (Black Warrior),Settings 1,1.0,5,0.299313
+215,regulated,Regulated (Black Warrior),Settings 1,1.0,5,0.255813
+216,regulated,Regulated (Black Warrior),Settings 1,1.0,5,0.304154
+217,regulated,Regulated (Black Warrior),Settings 1,1.0,5,0.235223
+218,regulated,Regulated (Black Warrior),Settings 1,1.0,5,0.259343
+219,regulated,Regulated (Black Warrior),Settings 1,1.0,5,0.248159
+220,regulated,Regulated (Black Warrior),Settings 1,1.0,5,0.273684
+221,regulated,Regulated (Black Warrior),Settings 1,1.0,5,0.37416
+222,regulated,Regulated (Black Warrior),Settings 1,1.0,5,0.185973
+223,regulated,Regulated (Black Warrior),Settings 1,1.0,5,0.300882
+224,regulated,Regulated (Black Warrior),Settings 1,1.0,5,0.197428
+225,regulated,Regulated (Black Warrior),Settings 1,1.0,5,0.248763
+226,regulated,Regulated (Black Warrior),Settings 1,1.0,5,0.319003
+227,regulated,Regulated (Black Warrior),Settings 1,1.0,5,0.272893
+228,regulated,Regulated (Black Warrior),Settings 1,1.0,5,0.221501
+229,regulated,Regulated (Black Warrior),Settings 1,1.0,5,0.237811
+230,regulated,Regulated (Black Warrior),Settings 1,1.0,5,0.300582
+231,regulated,Regulated (Black Warrior),Settings 1,1.0,5,0.237134
+232,regulated,Regulated (Black Warrior),Settings 1,1.0,5,0.279741
+233,regulated,Regulated (Black Warrior),Settings 1,1.0,5,0.272051
+234,regulated,Regulated (Black Warrior),Settings 1,1.0,5,0.240678
+235,regulated,Regulated (Black Warrior),Settings 1,1.0,5,0.366477
+236,regulated,Regulated (Black Warrior),Settings 1,1.0,5,0.298526
+237,regulated,Regulated (Black Warrior),Settings 1,1.0,5,0.178869
+238,regulated,Regulated (Black Warrior),Settings 1,1.0,5,0.27839
+239,regulated,Regulated (Black Warrior),Settings 1,1.0,5,0.24022
+240,regulated,Regulated (Black Warrior),Settings 1,1.0,5,0.30836
+241,regulated,Regulated (Black Warrior),Settings 1,1.0,5,0.234337
+242,regulated,Regulated (Black Warrior),Settings 1,1.0,5,0.264837
+243,regulated,Regulated (Black Warrior),Settings 1,1.0,5,0.292724
+244,regulated,Regulated (Black Warrior),Settings 1,1.0,5,0.308959
+245,regulated,Regulated (Black Warrior),Settings 1,1.0,5,0.215987
+246,regulated,Regulated (Black Warrior),Settings 1,1.0,5,0.254947
+247,regulated,Regulated (Black Warrior),Settings 1,1.0,5,0.248627
+248,regulated,Regulated (Black Warrior),Settings 1,1.0,5,0.2406
+249,regulated,Regulated (Black Warrior),Settings 1,1.0,5,0.349445
+250,regulated,Regulated (Black Warrior),Settings 1,1.0,5,0.288224
+251,regulated,Regulated (Black Warrior),Settings 1,1.0,5,0.21326
+252,regulated,Regulated (Black Warrior),Settings 1,1.0,5,0.311304
+253,regulated,Regulated (Black Warrior),Settings 1,1.0,5,0.365497
+254,regulated,Regulated (Black Warrior),Settings 1,1.0,5,0.316461
+255,regulated,Regulated (Black Warrior),Settings 1,1.0,5,0.201628
+256,regulated,Regulated (Black Warrior),Settings 1,1.0,5,0.248209
+257,regulated,Regulated (Black Warrior),Settings 1,1.0,5,0.327011
+258,regulated,Regulated (Black Warrior),Settings 1,1.0,5,0.238155
+259,regulated,Regulated (Black Warrior),Settings 1,1.0,5,0.289972
+260,regulated,Regulated (Black Warrior),Settings 1,1.0,5,0.304859
+261,regulated,Regulated (Black Warrior),Settings 1,1.0,5,0.228288
+262,regulated,Regulated (Black Warrior),Settings 1,1.0,5,0.267321
+263,regulated,Regulated (Black Warrior),Settings 1,1.0,5,0.124143
+264,regulated,Regulated (Black Warrior),Settings 1,1.0,5,0.223903
+265,regulated,Regulated (Black Warrior),Settings 1,1.0,5,0.258634
+266,regulated,Regulated (Black Warrior),Settings 1,1.0,5,0.21385
+267,regulated,Regulated (Black Warrior),Settings 1,1.0,5,0.343459
+268,regulated,Regulated (Black Warrior),Settings 1,1.0,5,0.205644
+269,regulated,Regulated (Black Warrior),Settings 1,1.0,5,0.250198
+270,regulated,Regulated (Black Warrior),Settings 1,1.0,5,0.275883
+271,regulated,Regulated (Black Warrior),Settings 1,1.0,5,0.334857
+272,regulated,Regulated (Black Warrior),Settings 1,1.0,5,0.205386
+273,regulated,Regulated (Black Warrior),Settings 1,1.0,5,0.322342
+274,regulated,Regulated (Black Warrior),Settings 1,1.0,5,0.27046
+275,regulated,Regulated (Black Warrior),Settings 1,1.0,5,0.225832
+276,regulated,Regulated (Black Warrior),Settings 1,1.0,5,0.290795
+277,regulated,Regulated (Black Warrior),Settings 1,1.0,5,0.278958
+278,regulated,Regulated (Black Warrior),Settings 1,1.0,5,0.24299
+279,regulated,Regulated (Black Warrior),Settings 1,1.0,5,0.273141
+280,regulated,Regulated (Black Warrior),Settings 1,1.0,5,0.252661
+281,regulated,Regulated (Black Warrior),Settings 1,1.0,5,0.275108
+282,regulated,Regulated (Black Warrior),Settings 1,1.0,5,0.299796
+283,regulated,Regulated (Black Warrior),Settings 1,1.0,5,0.341371
+284,regulated,Regulated (Black Warrior),Settings 1,1.0,5,0.214298
+285,regulated,Regulated (Black Warrior),Settings 1,1.0,5,0.365987
+286,regulated,Regulated (Black Warrior),Settings 1,1.0,5,0.182156
+287,regulated,Regulated (Black Warrior),Settings 1,1.0,5,0.26317
+288,regulated,Regulated (Black Warrior),Settings 1,1.0,5,0.296474
+289,regulated,Regulated (Black Warrior),Settings 1,1.0,5,0.282645
+290,regulated,Regulated (Black Warrior),Settings 1,1.0,5,0.241979
+291,regulated,Regulated (Black Warrior),Settings 1,1.0,5,0.260634
+292,regulated,Regulated (Black Warrior),Settings 1,1.0,5,0.247815
+293,regulated,Regulated (Black Warrior),Settings 1,1.0,5,0.243479
+294,regulated,Regulated (Black Warrior),Settings 1,1.0,5,0.308232
+295,regulated,Regulated (Black Warrior),Settings 1,1.0,5,0.286066
+296,regulated,Regulated (Black Warrior),Settings 1,1.0,5,0.238819
+297,regulated,Regulated (Black Warrior),Settings 1,1.0,5,0.310482
+298,regulated,Regulated (Black Warrior),Settings 1,1.0,5,0.283828
+299,regulated,Regulated (Black Warrior),Settings 1,1.0,5,0.306579
+300,regulated,Regulated (Black Warrior),Settings 1,1.0,5,0.298333
+301,regulated,Regulated (Black Warrior),Settings 1,1.0,5,0.232695
+302,regulated,Regulated (Black Warrior),Settings 1,1.0,5,0.244792
+303,regulated,Regulated (Black Warrior),Settings 1,1.0,5,0.303628
+304,regulated,Regulated (Black Warrior),Settings 1,1.0,5,0.297467
+305,regulated,Regulated (Black Warrior),Settings 1,1.0,5,0.269059
+306,regulated,Regulated (Black Warrior),Settings 1,1.0,5,0.27528
+307,regulated,Regulated (Black Warrior),Settings 1,1.0,5,0.327495
+308,regulated,Regulated (Black Warrior),Settings 1,1.0,5,0.243379
+309,regulated,Regulated (Black Warrior),Settings 1,1.0,5,0.294619
+310,regulated,Regulated (Black Warrior),Settings 1,1.0,5,0.260901
+311,regulated,Regulated (Black Warrior),Settings 1,1.0,5,0.260204
+312,regulated,Regulated (Black Warrior),Settings 1,1.0,5,0.319445
+313,regulated,Regulated (Black Warrior),Settings 1,1.0,5,0.307144
+314,regulated,Regulated (Black Warrior),Settings 1,1.0,5,0.306608
+315,regulated,Regulated (Black Warrior),Settings 1,1.0,5,0.328747
+316,regulated,Regulated (Black Warrior),Settings 1,1.0,5,0.270945
+317,regulated,Regulated (Black Warrior),Settings 1,1.0,5,0.300688
+318,regulated,Regulated (Black Warrior),Settings 1,1.0,5,0.256038
+319,regulated,Regulated (Black Warrior),Settings 1,1.0,5,0.284587
+320,regulated,Regulated (Black Warrior),Settings 1,1.0,5,0.264144
+321,regulated,Regulated (Black Warrior),Settings 1,1.0,5,0.274365
+322,regulated,Regulated (Black Warrior),Settings 1,1.0,5,0.296782
+323,regulated,Regulated (Black Warrior),Settings 1,1.0,5,0.23318
+324,regulated,Regulated (Black Warrior),Settings 1,1.0,5,0.364157
+325,regulated,Regulated (Black Warrior),Settings 1,1.0,5,0.224729
+326,regulated,Regulated (Black Warrior),Settings 1,1.0,5,0.215362
+327,regulated,Regulated (Black Warrior),Settings 1,1.0,5,0.322115
+328,regulated,Regulated (Black Warrior),Settings 1,1.0,5,0.305625
+329,regulated,Regulated (Black Warrior),Settings 1,1.0,5,0.298085
+330,regulated,Regulated (Black Warrior),Settings 1,1.0,5,0.298276
+331,regulated,Regulated (Black Warrior),Settings 1,1.0,5,0.269449
+332,regulated,Regulated (Black Warrior),Settings 1,1.0,5,0.229624
+333,regulated,Regulated (Black Warrior),Settings 1,1.0,5,0.273411
+334,regulated,Regulated (Black Warrior),Settings 1,1.0,5,0.239528
+335,regulated,Regulated (Black Warrior),Settings 1,1.0,5,0.31388
+336,regulated,Regulated (Black Warrior),Settings 1,1.0,5,0.263382
+337,regulated,Regulated (Black Warrior),Settings 1,1.0,5,0.232853
+338,regulated,Regulated (Black Warrior),Settings 1,1.0,5,0.255538
+339,regulated,Regulated (Black Warrior),Settings 1,1.0,5,0.288582
+340,regulated,Regulated (Black Warrior),Settings 1,1.0,5,0.244632
+341,regulated,Regulated (Black Warrior),Settings 1,1.0,5,0.233
+342,regulated,Regulated (Black Warrior),Settings 1,1.0,5,0.280966
+343,regulated,Regulated (Black Warrior),Settings 1,1.0,5,0.281023
+344,regulated,Regulated (Black Warrior),Settings 1,1.0,5,0.247188
+345,regulated,Regulated (Black Warrior),Settings 1,1.0,5,0.248803
+346,regulated,Regulated (Black Warrior),Settings 1,1.0,5,0.280442
+347,regulated,Regulated (Black Warrior),Settings 1,1.0,5,0.204836
+348,regulated,Regulated (Black Warrior),Settings 1,1.0,5,0.206664
+349,regulated,Regulated (Black Warrior),Settings 1,1.0,5,0.23767
+350,regulated,Regulated (Black Warrior),Settings 1,1.0,5,0.260395
+351,regulated,Regulated (Black Warrior),Settings 1,1.0,5,0.283991
+352,regulated,Regulated (Black Warrior),Settings 1,1.0,5,0.336391
+353,regulated,Regulated (Black Warrior),Settings 1,1.0,5,0.308595
+354,regulated,Regulated (Black Warrior),Settings 1,1.0,5,0.262803
+355,regulated,Regulated (Black Warrior),Settings 1,1.0,5,0.269144
+356,regulated,Regulated (Black Warrior),Settings 1,1.0,5,0.224886
+357,regulated,Regulated (Black Warrior),Settings 1,1.0,5,0.269167
+358,regulated,Regulated (Black Warrior),Settings 1,1.0,5,0.25701
+359,regulated,Regulated (Black Warrior),Settings 1,1.0,5,0.284522
+360,regulated,Regulated (Black Warrior),Settings 1,1.0,5,0.232775
+361,regulated,Regulated (Black Warrior),Settings 1,1.0,5,0.293371
+362,regulated,Regulated (Black Warrior),Settings 1,1.0,5,0.338973
+363,regulated,Regulated (Black Warrior),Settings 1,1.0,5,0.265106
+364,regulated,Regulated (Black Warrior),Settings 1,1.0,5,0.288077
+365,regulated,Regulated (Black Warrior),Settings 1,1.0,5,0.301056
+366,regulated,Regulated (Black Warrior),Settings 1,1.0,5,0.251945
+367,regulated,Regulated (Black Warrior),Settings 1,1.0,5,0.280084
+368,regulated,Regulated (Black Warrior),Settings 1,1.0,5,0.270567
+369,regulated,Regulated (Black Warrior),Settings 1,1.0,5,0.274395
+370,regulated,Regulated (Black Warrior),Settings 1,1.0,5,0.235215
+371,regulated,Regulated (Black Warrior),Settings 1,1.0,5,0.271103
+372,regulated,Regulated (Black Warrior),Settings 1,1.0,5,0.29241
+373,regulated,Regulated (Black Warrior),Settings 1,1.0,5,0.335301
+374,regulated,Regulated (Black Warrior),Settings 1,1.0,5,0.313167
+375,regulated,Regulated (Black Warrior),Settings 1,1.0,5,0.366893
+376,regulated,Regulated (Black Warrior),Settings 1,1.0,5,0.235469
+377,regulated,Regulated (Black Warrior),Settings 1,1.0,5,0.309254
+378,regulated,Regulated (Black Warrior),Settings 1,1.0,5,0.27825
+379,regulated,Regulated (Black Warrior),Settings 1,1.0,5,0.368541
+380,regulated,Regulated (Black Warrior),Settings 1,1.0,5,0.233627
+381,regulated,Regulated (Black Warrior),Settings 1,1.0,5,0.232213
+382,regulated,Regulated (Black Warrior),Settings 1,1.0,5,0.243027
+383,regulated,Regulated (Black Warrior),Settings 1,1.0,5,0.174425
+384,regulated,Regulated (Black Warrior),Settings 1,1.0,5,0.246341
+385,regulated,Regulated (Black Warrior),Settings 1,1.0,5,0.235839
+386,regulated,Regulated (Black Warrior),Settings 1,1.0,5,0.276768
+387,regulated,Regulated (Black Warrior),Settings 1,1.0,5,0.285379
+388,regulated,Regulated (Black Warrior),Settings 1,1.0,5,0.354428
+389,regulated,Regulated (Black Warrior),Settings 1,1.0,5,0.312769
+390,regulated,Regulated (Black Warrior),Settings 1,1.0,5,0.244039
+391,regulated,Regulated (Black Warrior),Settings 1,1.0,5,0.229571
+392,regulated,Regulated (Black Warrior),Settings 1,1.0,5,0.292136
+393,regulated,Regulated (Black Warrior),Settings 1,1.0,5,0.21059
+394,regulated,Regulated (Black Warrior),Settings 1,1.0,5,0.352416
+395,regulated,Regulated (Black Warrior),Settings 1,1.0,5,0.323075
+396,regulated,Regulated (Black Warrior),Settings 1,1.0,5,0.248887
+397,regulated,Regulated (Black Warrior),Settings 1,1.0,5,0.192909
+398,regulated,Regulated (Black Warrior),Settings 1,1.0,5,0.330924
+399,regulated,Regulated (Black Warrior),Settings 1,1.0,5,0.264846
+400,regulated,Regulated (Black Warrior),Settings 1,1.0,5,0.325702
+401,regulated,Regulated (Black Warrior),Settings 1,1.0,5,0.198251
+402,regulated,Regulated (Black Warrior),Settings 1,1.0,5,0.243028
+403,regulated,Regulated (Black Warrior),Settings 1,1.0,5,0.270236
+404,regulated,Regulated (Black Warrior),Settings 1,1.0,5,0.272114
+405,regulated,Regulated (Black Warrior),Settings 1,1.0,5,0.249747
+406,regulated,Regulated (Black Warrior),Settings 1,1.0,5,0.298028
+407,regulated,Regulated (Black Warrior),Settings 1,1.0,5,0.221957
+408,regulated,Regulated (Black Warrior),Settings 1,1.0,5,0.263593
+409,regulated,Regulated (Black Warrior),Settings 1,1.0,5,0.275413
+410,regulated,Regulated (Black Warrior),Settings 1,1.0,5,0.29315
+411,regulated,Regulated (Black Warrior),Settings 1,1.0,5,0.302023
+412,regulated,Regulated (Black Warrior),Settings 1,1.0,5,0.219391
+413,regulated,Regulated (Black Warrior),Settings 1,1.0,5,0.200965
+414,regulated,Regulated (Black Warrior),Settings 1,1.0,5,0.327495
+415,regulated,Regulated (Black Warrior),Settings 1,1.0,5,0.284954
+416,regulated,Regulated (Black Warrior),Settings 1,1.0,5,0.236318
+417,regulated,Regulated (Black Warrior),Settings 1,1.0,5,0.339802
+418,regulated,Regulated (Black Warrior),Settings 1,1.0,5,0.275205
+419,regulated,Regulated (Black Warrior),Settings 1,1.0,5,0.323068
+420,regulated,Regulated (Black Warrior),Settings 1,1.0,5,0.273038
+421,regulated,Regulated (Black Warrior),Settings 1,1.0,5,0.362734
+422,regulated,Regulated (Black Warrior),Settings 1,1.0,5,0.34899
+423,regulated,Regulated (Black Warrior),Settings 1,1.0,5,0.258797
+424,regulated,Regulated (Black Warrior),Settings 1,1.0,5,0.313721
+425,regulated,Regulated (Black Warrior),Settings 1,1.0,5,0.299042
+426,regulated,Regulated (Black Warrior),Settings 1,1.0,5,0.331588
+427,regulated,Regulated (Black Warrior),Settings 1,1.0,5,0.226578
+428,regulated,Regulated (Black Warrior),Settings 1,1.0,5,0.300872
+429,regulated,Regulated (Black Warrior),Settings 1,1.0,5,0.317629
+430,regulated,Regulated (Black Warrior),Settings 1,1.0,5,0.190857
+431,regulated,Regulated (Black Warrior),Settings 1,1.0,5,0.216753
+432,regulated,Regulated (Black Warrior),Settings 1,1.0,5,0.178235
+433,regulated,Regulated (Black Warrior),Settings 1,1.0,5,0.257877
+434,regulated,Regulated (Black Warrior),Settings 1,1.0,5,0.302289
+435,regulated,Regulated (Black Warrior),Settings 1,1.0,5,0.337606
+436,regulated,Regulated (Black Warrior),Settings 1,1.0,5,0.273334
+437,regulated,Regulated (Black Warrior),Settings 1,1.0,5,0.343288
+438,regulated,Regulated (Black Warrior),Settings 1,1.0,5,0.207895
+439,regulated,Regulated (Black Warrior),Settings 1,1.0,5,0.193348
+440,regulated,Regulated (Black Warrior),Settings 1,1.0,5,0.2675
+441,regulated,Regulated (Black Warrior),Settings 1,1.0,5,0.287283
+442,regulated,Regulated (Black Warrior),Settings 1,1.0,5,0.268529
+443,regulated,Regulated (Black Warrior),Settings 1,1.0,5,0.176965
+444,regulated,Regulated (Black Warrior),Settings 1,1.0,5,0.26599
+445,regulated,Regulated (Black Warrior),Settings 1,1.0,5,0.211299
+446,regulated,Regulated (Black Warrior),Settings 1,1.0,5,0.300135
+447,regulated,Regulated (Black Warrior),Settings 1,1.0,5,0.286497
+448,regulated,Regulated (Black Warrior),Settings 1,1.0,5,0.227705
+449,regulated,Regulated (Black Warrior),Settings 1,1.0,5,0.246876
+450,regulated,Regulated (Black Warrior),Settings 1,1.0,5,0.222335
+451,regulated,Regulated (Black Warrior),Settings 1,1.0,5,0.267179
+452,regulated,Regulated (Black Warrior),Settings 1,1.0,5,0.312981
+453,regulated,Regulated (Black Warrior),Settings 1,1.0,5,0.225642
+454,regulated,Regulated (Black Warrior),Settings 1,1.0,5,0.292682
+455,regulated,Regulated (Black Warrior),Settings 1,1.0,5,0.246138
+456,regulated,Regulated (Black Warrior),Settings 1,1.0,5,0.234321
+457,regulated,Regulated (Black Warrior),Settings 1,1.0,5,0.265184
+458,regulated,Regulated (Black Warrior),Settings 1,1.0,5,0.223414
+459,regulated,Regulated (Black Warrior),Settings 1,1.0,5,0.245086
+460,regulated,Regulated (Black Warrior),Settings 1,1.0,5,0.216095
+461,regulated,Regulated (Black Warrior),Settings 1,1.0,5,0.358413
+462,regulated,Regulated (Black Warrior),Settings 1,1.0,5,0.271587
+463,regulated,Regulated (Black Warrior),Settings 1,1.0,5,0.238512
+464,regulated,Regulated (Black Warrior),Settings 1,1.0,5,0.279629
+465,regulated,Regulated (Black Warrior),Settings 1,1.0,5,0.264945
+466,regulated,Regulated (Black Warrior),Settings 1,1.0,5,0.260056
+467,regulated,Regulated (Black Warrior),Settings 1,1.0,5,0.297638
+468,regulated,Regulated (Black Warrior),Settings 1,1.0,5,0.304088
+469,regulated,Regulated (Black Warrior),Settings 1,1.0,5,0.246127
+470,regulated,Regulated (Black Warrior),Settings 1,1.0,5,0.244088
+471,regulated,Regulated (Black Warrior),Settings 1,1.0,5,0.257623
+472,regulated,Regulated (Black Warrior),Settings 1,1.0,5,0.166414
+473,regulated,Regulated (Black Warrior),Settings 1,1.0,5,0.201816
+474,regulated,Regulated (Black Warrior),Settings 1,1.0,5,0.331509
+475,regulated,Regulated (Black Warrior),Settings 1,1.0,5,0.344024
+476,regulated,Regulated (Black Warrior),Settings 1,1.0,5,0.258793
+477,regulated,Regulated (Black Warrior),Settings 1,1.0,5,0.295945
+478,regulated,Regulated (Black Warrior),Settings 1,1.0,5,0.284006
+479,regulated,Regulated (Black Warrior),Settings 1,1.0,5,0.40855
+480,regulated,Regulated (Black Warrior),Settings 1,1.0,5,0.320381
+481,regulated,Regulated (Black Warrior),Settings 1,1.0,5,0.264244
+482,regulated,Regulated (Black Warrior),Settings 1,1.0,5,0.227001
+483,regulated,Regulated (Black Warrior),Settings 1,1.0,5,0.19771
+484,regulated,Regulated (Black Warrior),Settings 1,1.0,5,0.279156
+485,regulated,Regulated (Black Warrior),Settings 1,1.0,5,0.235964
+486,regulated,Regulated (Black Warrior),Settings 1,1.0,5,0.205999
+487,regulated,Regulated (Black Warrior),Settings 1,1.0,5,0.240904
+488,regulated,Regulated (Black Warrior),Settings 1,1.0,5,0.22133
+489,regulated,Regulated (Black Warrior),Settings 1,1.0,5,0.345921
+490,regulated,Regulated (Black Warrior),Settings 1,1.0,5,0.309674
+491,regulated,Regulated (Black Warrior),Settings 1,1.0,5,0.269641
+492,regulated,Regulated (Black Warrior),Settings 1,1.0,5,0.336597
+493,regulated,Regulated (Black Warrior),Settings 1,1.0,5,0.273482
+494,regulated,Regulated (Black Warrior),Settings 1,1.0,5,0.231242
+495,regulated,Regulated (Black Warrior),Settings 1,1.0,5,0.338541
+496,regulated,Regulated (Black Warrior),Settings 1,1.0,5,0.294251
+497,regulated,Regulated (Black Warrior),Settings 1,1.0,5,0.223324
+498,regulated,Regulated (Black Warrior),Settings 1,1.0,5,0.261435
+499,regulated,Regulated (Black Warrior),Settings 1,1.0,5,0.230597
+500,regulated,Regulated (Black Warrior),Settings 1,1.0,5,0.207774
+501,regulated,Regulated (Black Warrior),Settings 1,1.0,5,0.311678
+502,regulated,Regulated (Black Warrior),Settings 1,1.0,5,0.355924
+503,regulated,Regulated (Black Warrior),Settings 1,1.0,5,0.207064
+504,regulated,Regulated (Black Warrior),Settings 1,1.0,5,0.295334
+505,regulated,Regulated (Black Warrior),Settings 1,1.0,5,0.240721
+506,regulated,Regulated (Black Warrior),Settings 1,1.0,5,0.248079
+507,regulated,Regulated (Black Warrior),Settings 1,1.0,5,0.243342
+508,regulated,Regulated (Black Warrior),Settings 1,1.0,5,0.23112
+509,regulated,Regulated (Black Warrior),Settings 1,1.0,5,0.272183
+510,regulated,Regulated (Black Warrior),Settings 1,1.0,5,0.232607
+511,regulated,Regulated (Black Warrior),Settings 1,1.0,5,0.282171
+512,regulated,Regulated (Black Warrior),Settings 1,1.0,5,0.267739
+513,regulated,Regulated (Black Warrior),Settings 1,1.0,5,0.259247
+514,regulated,Regulated (Black Warrior),Settings 1,1.0,5,0.22916
+515,regulated,Regulated (Black Warrior),Settings 1,1.0,5,0.244045
+516,regulated,Regulated (Black Warrior),Settings 1,1.0,5,0.303993
+517,regulated,Regulated (Black Warrior),Settings 1,1.0,5,0.292541
+518,regulated,Regulated (Black Warrior),Settings 1,1.0,5,0.22601
+519,regulated,Regulated (Black Warrior),Settings 1,1.0,5,0.27447
+520,regulated,Regulated (Black Warrior),Settings 1,1.0,5,0.303812
+521,regulated,Regulated (Black Warrior),Settings 1,1.0,5,0.194877
+522,regulated,Regulated (Black Warrior),Settings 1,1.0,5,0.294451
+523,regulated,Regulated (Black Warrior),Settings 1,1.0,5,0.240182
+524,regulated,Regulated (Black Warrior),Settings 1,1.0,5,0.295677
+525,regulated,Regulated (Black Warrior),Settings 1,1.0,5,0.235653
+526,regulated,Regulated (Black Warrior),Settings 1,1.0,5,0.18878
+527,regulated,Regulated (Black Warrior),Settings 1,1.0,5,0.196761
+528,regulated,Regulated (Black Warrior),Settings 1,1.0,5,0.272164
+529,regulated,Regulated (Black Warrior),Settings 1,1.0,5,0.281688
+530,regulated,Regulated (Black Warrior),Settings 1,1.0,5,0.229306
+531,regulated,Regulated (Black Warrior),Settings 1,1.0,5,0.298737
+532,regulated,Regulated (Black Warrior),Settings 1,1.0,5,0.195232
+533,regulated,Regulated (Black Warrior),Settings 1,1.0,5,0.267026
+534,regulated,Regulated (Black Warrior),Settings 1,1.0,5,0.215504
+535,regulated,Regulated (Black Warrior),Settings 1,1.0,5,0.240667
+536,regulated,Regulated (Black Warrior),Settings 1,1.0,5,0.272133
+537,regulated,Regulated (Black Warrior),Settings 1,1.0,5,0.231281
+538,regulated,Regulated (Black Warrior),Settings 1,1.0,5,0.252695
+539,regulated,Regulated (Black Warrior),Settings 1,1.0,5,0.315283
+540,regulated,Regulated (Black Warrior),Settings 1,1.0,5,0.24404
+541,regulated,Regulated (Black Warrior),Settings 1,1.0,5,0.307606
+542,regulated,Regulated (Black Warrior),Settings 1,1.0,5,0.219163
+543,regulated,Regulated (Black Warrior),Settings 1,1.0,5,0.293841
+544,regulated,Regulated (Black Warrior),Settings 1,1.0,5,0.334871
+545,regulated,Regulated (Black Warrior),Settings 1,1.0,5,0.158776
+546,regulated,Regulated (Black Warrior),Settings 1,1.0,5,0.23414
+547,regulated,Regulated (Black Warrior),Settings 1,1.0,5,0.295968
+548,regulated,Regulated (Black Warrior),Settings 1,1.0,5,0.260863
+549,regulated,Regulated (Black Warrior),Settings 1,1.0,5,0.286702
+550,regulated,Regulated (Black Warrior),Settings 1,1.0,5,0.242821
+551,regulated,Regulated (Black Warrior),Settings 1,1.0,5,0.273897
+552,regulated,Regulated (Black Warrior),Settings 1,1.0,5,0.262995
+553,regulated,Regulated (Black Warrior),Settings 1,1.0,5,0.32255
+554,regulated,Regulated (Black Warrior),Settings 1,1.0,5,0.281449
+555,regulated,Regulated (Black Warrior),Settings 1,1.0,5,0.285192
+556,regulated,Regulated (Black Warrior),Settings 1,1.0,5,0.251466
+557,regulated,Regulated (Black Warrior),Settings 1,1.0,5,0.248058
+558,regulated,Regulated (Black Warrior),Settings 1,1.0,5,0.250535
+559,regulated,Regulated (Black Warrior),Settings 1,1.0,5,0.28775
+560,regulated,Regulated (Black Warrior),Settings 1,1.0,5,0.251056
+561,regulated,Regulated (Black Warrior),Settings 1,1.0,5,0.28304
+562,regulated,Regulated (Black Warrior),Settings 1,1.0,5,0.363393
+563,regulated,Regulated (Black Warrior),Settings 1,1.0,5,0.309201
+564,regulated,Regulated (Black Warrior),Settings 1,1.0,5,0.255329
+565,regulated,Regulated (Black Warrior),Settings 1,1.0,5,0.324055
+566,regulated,Regulated (Black Warrior),Settings 1,1.0,5,0.251637
+567,regulated,Regulated (Black Warrior),Settings 1,1.0,5,0.178284
+568,regulated,Regulated (Black Warrior),Settings 1,1.0,5,0.224636
+569,regulated,Regulated (Black Warrior),Settings 1,1.0,5,0.185814
+570,regulated,Regulated (Black Warrior),Settings 1,1.0,5,0.254182
+571,regulated,Regulated (Black Warrior),Settings 1,1.0,5,0.270829
+572,regulated,Regulated (Black Warrior),Settings 1,1.0,5,0.34544
+573,regulated,Regulated (Black Warrior),Settings 1,1.0,5,0.284712
+574,regulated,Regulated (Black Warrior),Settings 1,1.0,5,0.26014
+575,regulated,Regulated (Black Warrior),Settings 1,1.0,5,0.307323
+576,regulated,Regulated (Black Warrior),Settings 1,1.0,5,0.170499
+577,regulated,Regulated (Black Warrior),Settings 1,1.0,5,0.280603
+578,regulated,Regulated (Black Warrior),Settings 1,1.0,5,0.304689
+579,regulated,Regulated (Black Warrior),Settings 1,1.0,5,0.203464
+580,regulated,Regulated (Black Warrior),Settings 1,1.0,5,0.321469
+581,regulated,Regulated (Black Warrior),Settings 1,1.0,5,0.285232
+582,regulated,Regulated (Black Warrior),Settings 1,1.0,5,0.251312
+583,regulated,Regulated (Black Warrior),Settings 1,1.0,5,0.298475
+584,regulated,Regulated (Black Warrior),Settings 1,1.0,5,0.372181
+585,regulated,Regulated (Black Warrior),Settings 1,1.0,5,0.278184
+586,regulated,Regulated (Black Warrior),Settings 1,1.0,5,0.28117
+587,regulated,Regulated (Black Warrior),Settings 1,1.0,5,0.249329
+588,regulated,Regulated (Black Warrior),Settings 1,1.0,5,0.231757
+589,regulated,Regulated (Black Warrior),Settings 1,1.0,5,0.307365
+590,regulated,Regulated (Black Warrior),Settings 1,1.0,5,0.231476
+591,regulated,Regulated (Black Warrior),Settings 1,1.0,5,0.27322
+592,regulated,Regulated (Black Warrior),Settings 1,1.0,5,0.248505
+593,regulated,Regulated (Black Warrior),Settings 1,1.0,5,0.291554
+594,regulated,Regulated (Black Warrior),Settings 1,1.0,5,0.285015
+595,regulated,Regulated (Black Warrior),Settings 1,1.0,5,0.316689
+596,regulated,Regulated (Black Warrior),Settings 1,1.0,5,0.247049
+597,regulated,Regulated (Black Warrior),Settings 1,1.0,5,0.257856
+598,regulated,Regulated (Black Warrior),Settings 1,1.0,5,0.225956
+599,regulated,Regulated (Black Warrior),Settings 1,1.0,5,0.250007
+600,regulated,Regulated (Black Warrior),Settings 1,1.0,5,0.286979
+601,regulated,Regulated (Black Warrior),Settings 1,1.0,5,0.304064
+602,regulated,Regulated (Black Warrior),Settings 1,1.0,5,0.228503
+603,regulated,Regulated (Black Warrior),Settings 1,1.0,5,0.309132
+604,regulated,Regulated (Black Warrior),Settings 1,1.0,5,0.331004
+605,regulated,Regulated (Black Warrior),Settings 1,1.0,5,0.288605
+606,regulated,Regulated (Black Warrior),Settings 1,1.0,5,0.354456
+607,regulated,Regulated (Black Warrior),Settings 1,1.0,5,0.235179
+608,regulated,Regulated (Black Warrior),Settings 1,1.0,5,0.213991
+609,regulated,Regulated (Black Warrior),Settings 1,1.0,5,0.189958
+610,regulated,Regulated (Black Warrior),Settings 1,1.0,5,0.337322
+611,regulated,Regulated (Black Warrior),Settings 1,1.0,5,0.299446
+612,regulated,Regulated (Black Warrior),Settings 1,1.0,5,0.267499
+613,regulated,Regulated (Black Warrior),Settings 1,1.0,5,0.282599
+614,regulated,Regulated (Black Warrior),Settings 1,1.0,5,0.219353
+615,regulated,Regulated (Black Warrior),Settings 1,1.0,5,0.380059
+616,regulated,Regulated (Black Warrior),Settings 1,1.0,5,0.275815
+617,regulated,Regulated (Black Warrior),Settings 1,1.0,5,0.274923
+618,regulated,Regulated (Black Warrior),Settings 1,1.0,5,0.302659
+619,regulated,Regulated (Black Warrior),Settings 1,1.0,5,0.291645
+620,regulated,Regulated (Black Warrior),Settings 1,1.0,5,0.280075
+621,regulated,Regulated (Black Warrior),Settings 1,1.0,5,0.234429
+622,regulated,Regulated (Black Warrior),Settings 1,1.0,5,0.291216
+623,regulated,Regulated (Black Warrior),Settings 1,1.0,5,0.354691
+624,regulated,Regulated (Black Warrior),Settings 1,1.0,5,0.330544
+625,regulated,Regulated (Black Warrior),Settings 1,1.0,5,0.341693
+626,regulated,Regulated (Black Warrior),Settings 1,1.0,5,0.246995
+627,regulated,Regulated (Black Warrior),Settings 1,1.0,5,0.225468
+628,regulated,Regulated (Black Warrior),Settings 1,1.0,5,0.26434
+629,regulated,Regulated (Black Warrior),Settings 1,1.0,5,0.272508
+630,regulated,Regulated (Black Warrior),Settings 1,1.0,5,0.319239
+631,regulated,Regulated (Black Warrior),Settings 1,1.0,5,0.193839
+632,regulated,Regulated (Black Warrior),Settings 1,1.0,5,0.33883
+633,regulated,Regulated (Black Warrior),Settings 1,1.0,5,0.26289
+634,regulated,Regulated (Black Warrior),Settings 1,1.0,5,0.25079
+635,regulated,Regulated (Black Warrior),Settings 1,1.0,5,0.224455
+636,regulated,Regulated (Black Warrior),Settings 1,1.0,5,0.195531
+637,regulated,Regulated (Black Warrior),Settings 1,1.0,5,0.307043
+638,regulated,Regulated (Black Warrior),Settings 1,1.0,5,0.273299
+639,regulated,Regulated (Black Warrior),Settings 1,1.0,5,0.211952
+640,regulated,Regulated (Black Warrior),Settings 1,1.0,5,0.211721
+641,regulated,Regulated (Black Warrior),Settings 1,1.0,5,0.25489
+642,regulated,Regulated (Black Warrior),Settings 1,1.0,5,0.345106
+643,regulated,Regulated (Black Warrior),Settings 1,1.0,5,0.258318
+644,regulated,Regulated (Black Warrior),Settings 1,1.0,5,0.202359
+645,regulated,Regulated (Black Warrior),Settings 1,1.0,5,0.258942
+646,regulated,Regulated (Black Warrior),Settings 1,1.0,5,0.257727
+647,regulated,Regulated (Black Warrior),Settings 1,1.0,5,0.14864
+648,regulated,Regulated (Black Warrior),Settings 1,1.0,5,0.267557
+649,regulated,Regulated (Black Warrior),Settings 1,1.0,5,0.259608
+650,regulated,Regulated (Black Warrior),Settings 1,1.0,5,0.301329
+651,regulated,Regulated (Black Warrior),Settings 1,1.0,5,0.353203
+652,regulated,Regulated (Black Warrior),Settings 1,1.0,5,0.320695
+653,regulated,Regulated (Black Warrior),Settings 1,1.0,5,0.2579
+654,regulated,Regulated (Black Warrior),Settings 1,1.0,5,0.220206
+655,regulated,Regulated (Black Warrior),Settings 1,1.0,5,0.385801
+656,regulated,Regulated (Black Warrior),Settings 1,1.0,5,0.272665
+657,regulated,Regulated (Black Warrior),Settings 1,1.0,5,0.270627
+658,regulated,Regulated (Black Warrior),Settings 1,1.0,5,0.268914
+659,regulated,Regulated (Black Warrior),Settings 1,1.0,5,0.278914
+660,regulated,Regulated (Black Warrior),Settings 1,1.0,5,0.263504
+661,regulated,Regulated (Black Warrior),Settings 1,1.0,5,0.244185
+662,regulated,Regulated (Black Warrior),Settings 1,1.0,5,0.245391
+663,regulated,Regulated (Black Warrior),Settings 1,1.0,5,0.268526
+664,regulated,Regulated (Black Warrior),Settings 1,1.0,5,0.245546
+665,regulated,Regulated (Black Warrior),Settings 1,1.0,5,0.237922
+666,regulated,Regulated (Black Warrior),Settings 1,1.0,5,0.274789
+667,regulated,Regulated (Black Warrior),Settings 1,1.0,5,0.258526
+668,regulated,Regulated (Black Warrior),Settings 1,1.0,5,0.33768
+669,regulated,Regulated (Black Warrior),Settings 1,1.0,5,0.150706
+670,regulated,Regulated (Black Warrior),Settings 1,1.0,5,0.319118
+671,regulated,Regulated (Black Warrior),Settings 1,1.0,5,0.326074
+672,regulated,Regulated (Black Warrior),Settings 1,1.0,5,0.176697
+673,regulated,Regulated (Black Warrior),Settings 1,1.0,5,0.254579
+674,regulated,Regulated (Black Warrior),Settings 1,1.0,5,0.253285
+675,regulated,Regulated (Black Warrior),Settings 1,1.0,5,0.206662
+676,regulated,Regulated (Black Warrior),Settings 1,1.0,5,0.234998
+677,regulated,Regulated (Black Warrior),Settings 1,1.0,5,0.220024
+678,regulated,Regulated (Black Warrior),Settings 1,1.0,5,0.348852
+679,regulated,Regulated (Black Warrior),Settings 1,1.0,5,0.312106
+680,regulated,Regulated (Black Warrior),Settings 1,1.0,5,0.32722
+681,regulated,Regulated (Black Warrior),Settings 1,1.0,5,0.302475
+682,regulated,Regulated (Black Warrior),Settings 1,1.0,5,0.219193
+683,regulated,Regulated (Black Warrior),Settings 1,1.0,5,0.246397
+684,regulated,Regulated (Black Warrior),Settings 1,1.0,5,0.292022
+685,regulated,Regulated (Black Warrior),Settings 1,1.0,5,0.215004
+686,regulated,Regulated (Black Warrior),Settings 1,1.0,5,0.302085
+687,regulated,Regulated (Black Warrior),Settings 1,1.0,5,0.259185
+688,regulated,Regulated (Black Warrior),Settings 1,1.0,5,0.253133
+689,regulated,Regulated (Black Warrior),Settings 1,1.0,5,0.301993
+690,regulated,Regulated (Black Warrior),Settings 1,1.0,5,0.289992
+691,regulated,Regulated (Black Warrior),Settings 1,1.0,5,0.253757
+692,regulated,Regulated (Black Warrior),Settings 1,1.0,5,0.32217
+693,regulated,Regulated (Black Warrior),Settings 1,1.0,5,0.221352
+694,regulated,Regulated (Black Warrior),Settings 1,1.0,5,0.297717
+695,regulated,Regulated (Black Warrior),Settings 1,1.0,5,0.29669
+696,regulated,Regulated (Black Warrior),Settings 1,1.0,5,0.25607
+697,regulated,Regulated (Black Warrior),Settings 1,1.0,5,0.284676
+698,regulated,Regulated (Black Warrior),Settings 1,1.0,5,0.2137
+699,regulated,Regulated (Black Warrior),Settings 1,1.0,5,0.311581
+700,regulated,Regulated (Black Warrior),Settings 1,1.0,5,0.261679
+1,unregulated,Unregulated (Cahaba),Settings 1,1.0,5,0.241477
+2,unregulated,Unregulated (Cahaba),Settings 1,1.0,5,0.312205
+3,unregulated,Unregulated (Cahaba),Settings 1,1.0,5,0.233305
+4,unregulated,Unregulated (Cahaba),Settings 1,1.0,5,0.201619
+5,unregulated,Unregulated (Cahaba),Settings 1,1.0,5,0.194952
+6,unregulated,Unregulated (Cahaba),Settings 1,1.0,5,0.29227
+7,unregulated,Unregulated (Cahaba),Settings 1,1.0,5,0.207381
+8,unregulated,Unregulated (Cahaba),Settings 1,1.0,5,0.343966
+9,unregulated,Unregulated (Cahaba),Settings 1,1.0,5,0.171313
+10,unregulated,Unregulated (Cahaba),Settings 1,1.0,5,0.341341
+11,unregulated,Unregulated (Cahaba),Settings 1,1.0,5,0.274496
+12,unregulated,Unregulated (Cahaba),Settings 1,1.0,5,0.260648
+13,unregulated,Unregulated (Cahaba),Settings 1,1.0,5,0.240479
+14,unregulated,Unregulated (Cahaba),Settings 1,1.0,5,0.282961
+15,unregulated,Unregulated (Cahaba),Settings 1,1.0,5,0.263306
+16,unregulated,Unregulated (Cahaba),Settings 1,1.0,5,0.314649
+17,unregulated,Unregulated (Cahaba),Settings 1,1.0,5,0.27014
+18,unregulated,Unregulated (Cahaba),Settings 1,1.0,5,0.271764
+19,unregulated,Unregulated (Cahaba),Settings 1,1.0,5,0.248637
+20,unregulated,Unregulated (Cahaba),Settings 1,1.0,5,0.262437
+21,unregulated,Unregulated (Cahaba),Settings 1,1.0,5,0.278851
+22,unregulated,Unregulated (Cahaba),Settings 1,1.0,5,0.188042
+23,unregulated,Unregulated (Cahaba),Settings 1,1.0,5,0.204332
+24,unregulated,Unregulated (Cahaba),Settings 1,1.0,5,0.298447
+25,unregulated,Unregulated (Cahaba),Settings 1,1.0,5,0.272689
+26,unregulated,Unregulated (Cahaba),Settings 1,1.0,5,0.256721
+27,unregulated,Unregulated (Cahaba),Settings 1,1.0,5,0.26583
+28,unregulated,Unregulated (Cahaba),Settings 1,1.0,5,0.280641
+29,unregulated,Unregulated (Cahaba),Settings 1,1.0,5,0.240711
+30,unregulated,Unregulated (Cahaba),Settings 1,1.0,5,0.229976
+31,unregulated,Unregulated (Cahaba),Settings 1,1.0,5,0.273813
+32,unregulated,Unregulated (Cahaba),Settings 1,1.0,5,0.220973
+33,unregulated,Unregulated (Cahaba),Settings 1,1.0,5,0.283371
+34,unregulated,Unregulated (Cahaba),Settings 1,1.0,5,0.188384
+35,unregulated,Unregulated (Cahaba),Settings 1,1.0,5,0.311312
+36,unregulated,Unregulated (Cahaba),Settings 1,1.0,5,0.286267
+37,unregulated,Unregulated (Cahaba),Settings 1,1.0,5,0.276521
+38,unregulated,Unregulated (Cahaba),Settings 1,1.0,5,0.309221
+39,unregulated,Unregulated (Cahaba),Settings 1,1.0,5,0.339946
+40,unregulated,Unregulated (Cahaba),Settings 1,1.0,5,0.310647
+41,unregulated,Unregulated (Cahaba),Settings 1,1.0,5,0.182161
+42,unregulated,Unregulated (Cahaba),Settings 1,1.0,5,0.207419
+43,unregulated,Unregulated (Cahaba),Settings 1,1.0,5,0.236883
+44,unregulated,Unregulated (Cahaba),Settings 1,1.0,5,0.266174
+45,unregulated,Unregulated (Cahaba),Settings 1,1.0,5,0.288295
+46,unregulated,Unregulated (Cahaba),Settings 1,1.0,5,0.232342
+47,unregulated,Unregulated (Cahaba),Settings 1,1.0,5,0.273405
+48,unregulated,Unregulated (Cahaba),Settings 1,1.0,5,0.231008
+49,unregulated,Unregulated (Cahaba),Settings 1,1.0,5,0.237482
+50,unregulated,Unregulated (Cahaba),Settings 1,1.0,5,0.2017
+51,unregulated,Unregulated (Cahaba),Settings 1,1.0,5,0.223455
+52,unregulated,Unregulated (Cahaba),Settings 1,1.0,5,0.204174
+53,unregulated,Unregulated (Cahaba),Settings 1,1.0,5,0.221086
+54,unregulated,Unregulated (Cahaba),Settings 1,1.0,5,0.312414
+55,unregulated,Unregulated (Cahaba),Settings 1,1.0,5,0.222277
+56,unregulated,Unregulated (Cahaba),Settings 1,1.0,5,0.383457
+57,unregulated,Unregulated (Cahaba),Settings 1,1.0,5,0.287199
+58,unregulated,Unregulated (Cahaba),Settings 1,1.0,5,0.273318
+59,unregulated,Unregulated (Cahaba),Settings 1,1.0,5,0.226374
+60,unregulated,Unregulated (Cahaba),Settings 1,1.0,5,0.296514
+61,unregulated,Unregulated (Cahaba),Settings 1,1.0,5,0.239096
+62,unregulated,Unregulated (Cahaba),Settings 1,1.0,5,0.27049
+63,unregulated,Unregulated (Cahaba),Settings 1,1.0,5,0.380204
+64,unregulated,Unregulated (Cahaba),Settings 1,1.0,5,0.260677
+65,unregulated,Unregulated (Cahaba),Settings 1,1.0,5,0.316717
+66,unregulated,Unregulated (Cahaba),Settings 1,1.0,5,0.233357
+67,unregulated,Unregulated (Cahaba),Settings 1,1.0,5,0.263426
+68,unregulated,Unregulated (Cahaba),Settings 1,1.0,5,0.344686
+69,unregulated,Unregulated (Cahaba),Settings 1,1.0,5,0.236786
+70,unregulated,Unregulated (Cahaba),Settings 1,1.0,5,0.34656
+71,unregulated,Unregulated (Cahaba),Settings 1,1.0,5,0.296849
+72,unregulated,Unregulated (Cahaba),Settings 1,1.0,5,0.239689
+73,unregulated,Unregulated (Cahaba),Settings 1,1.0,5,0.293458
+74,unregulated,Unregulated (Cahaba),Settings 1,1.0,5,0.308765
+75,unregulated,Unregulated (Cahaba),Settings 1,1.0,5,0.292981
+76,unregulated,Unregulated (Cahaba),Settings 1,1.0,5,0.19434
+77,unregulated,Unregulated (Cahaba),Settings 1,1.0,5,0.232279
+78,unregulated,Unregulated (Cahaba),Settings 1,1.0,5,0.253862
+79,unregulated,Unregulated (Cahaba),Settings 1,1.0,5,0.26165
+80,unregulated,Unregulated (Cahaba),Settings 1,1.0,5,0.29293
+81,unregulated,Unregulated (Cahaba),Settings 1,1.0,5,0.272997
+82,unregulated,Unregulated (Cahaba),Settings 1,1.0,5,0.20491
+83,unregulated,Unregulated (Cahaba),Settings 1,1.0,5,0.282109
+84,unregulated,Unregulated (Cahaba),Settings 1,1.0,5,0.292476
+85,unregulated,Unregulated (Cahaba),Settings 1,1.0,5,0.290191
+86,unregulated,Unregulated (Cahaba),Settings 1,1.0,5,0.313635
+87,unregulated,Unregulated (Cahaba),Settings 1,1.0,5,0.302526
+88,unregulated,Unregulated (Cahaba),Settings 1,1.0,5,0.285663
+89,unregulated,Unregulated (Cahaba),Settings 1,1.0,5,0.261843
+90,unregulated,Unregulated (Cahaba),Settings 1,1.0,5,0.190257
+91,unregulated,Unregulated (Cahaba),Settings 1,1.0,5,0.284333
+92,unregulated,Unregulated (Cahaba),Settings 1,1.0,5,0.274346
+93,unregulated,Unregulated (Cahaba),Settings 1,1.0,5,0.277221
+94,unregulated,Unregulated (Cahaba),Settings 1,1.0,5,0.207546
+95,unregulated,Unregulated (Cahaba),Settings 1,1.0,5,0.216352
+96,unregulated,Unregulated (Cahaba),Settings 1,1.0,5,0.312392
+97,unregulated,Unregulated (Cahaba),Settings 1,1.0,5,0.26322
+98,unregulated,Unregulated (Cahaba),Settings 1,1.0,5,0.295668
+99,unregulated,Unregulated (Cahaba),Settings 1,1.0,5,0.266274
+100,unregulated,Unregulated (Cahaba),Settings 1,1.0,5,0.266339
+101,unregulated,Unregulated (Cahaba),Settings 1,1.0,5,0.307223
+102,unregulated,Unregulated (Cahaba),Settings 1,1.0,5,0.241778
+103,unregulated,Unregulated (Cahaba),Settings 1,1.0,5,0.269325
+104,unregulated,Unregulated (Cahaba),Settings 1,1.0,5,0.244198
+105,unregulated,Unregulated (Cahaba),Settings 1,1.0,5,0.245448
+106,unregulated,Unregulated (Cahaba),Settings 1,1.0,5,0.251087
+107,unregulated,Unregulated (Cahaba),Settings 1,1.0,5,0.274996
+108,unregulated,Unregulated (Cahaba),Settings 1,1.0,5,0.243456
+109,unregulated,Unregulated (Cahaba),Settings 1,1.0,5,0.321509
+110,unregulated,Unregulated (Cahaba),Settings 1,1.0,5,0.224743
+111,unregulated,Unregulated (Cahaba),Settings 1,1.0,5,0.256591
+112,unregulated,Unregulated (Cahaba),Settings 1,1.0,5,0.245212
+113,unregulated,Unregulated (Cahaba),Settings 1,1.0,5,0.330114
+114,unregulated,Unregulated (Cahaba),Settings 1,1.0,5,0.273845
+115,unregulated,Unregulated (Cahaba),Settings 1,1.0,5,0.311433
+116,unregulated,Unregulated (Cahaba),Settings 1,1.0,5,0.19815
+117,unregulated,Unregulated (Cahaba),Settings 1,1.0,5,0.277017
+118,unregulated,Unregulated (Cahaba),Settings 1,1.0,5,0.305033
+119,unregulated,Unregulated (Cahaba),Settings 1,1.0,5,0.268703
+120,unregulated,Unregulated (Cahaba),Settings 1,1.0,5,0.312947
+121,unregulated,Unregulated (Cahaba),Settings 1,1.0,5,0.241722
+122,unregulated,Unregulated (Cahaba),Settings 1,1.0,5,0.328421
+123,unregulated,Unregulated (Cahaba),Settings 1,1.0,5,0.36845
+124,unregulated,Unregulated (Cahaba),Settings 1,1.0,5,0.248672
+125,unregulated,Unregulated (Cahaba),Settings 1,1.0,5,0.244952
+126,unregulated,Unregulated (Cahaba),Settings 1,1.0,5,0.330402
+127,unregulated,Unregulated (Cahaba),Settings 1,1.0,5,0.336081
+128,unregulated,Unregulated (Cahaba),Settings 1,1.0,5,0.241471
+129,unregulated,Unregulated (Cahaba),Settings 1,1.0,5,0.246092
+130,unregulated,Unregulated (Cahaba),Settings 1,1.0,5,0.25232
+131,unregulated,Unregulated (Cahaba),Settings 1,1.0,5,0.2045
+132,unregulated,Unregulated (Cahaba),Settings 1,1.0,5,0.223661
+133,unregulated,Unregulated (Cahaba),Settings 1,1.0,5,0.219814
+134,unregulated,Unregulated (Cahaba),Settings 1,1.0,5,0.230449
+135,unregulated,Unregulated (Cahaba),Settings 1,1.0,5,0.263439
+136,unregulated,Unregulated (Cahaba),Settings 1,1.0,5,0.27554
+137,unregulated,Unregulated (Cahaba),Settings 1,1.0,5,0.334773
+138,unregulated,Unregulated (Cahaba),Settings 1,1.0,5,0.220074
+139,unregulated,Unregulated (Cahaba),Settings 1,1.0,5,0.309295
+140,unregulated,Unregulated (Cahaba),Settings 1,1.0,5,0.255371
+141,unregulated,Unregulated (Cahaba),Settings 1,1.0,5,0.262774
+142,unregulated,Unregulated (Cahaba),Settings 1,1.0,5,0.295367
+143,unregulated,Unregulated (Cahaba),Settings 1,1.0,5,0.214478
+144,unregulated,Unregulated (Cahaba),Settings 1,1.0,5,0.282208
+145,unregulated,Unregulated (Cahaba),Settings 1,1.0,5,0.27249
+146,unregulated,Unregulated (Cahaba),Settings 1,1.0,5,0.28716
+147,unregulated,Unregulated (Cahaba),Settings 1,1.0,5,0.278013
+148,unregulated,Unregulated (Cahaba),Settings 1,1.0,5,0.375489
+149,unregulated,Unregulated (Cahaba),Settings 1,1.0,5,0.236302
+150,unregulated,Unregulated (Cahaba),Settings 1,1.0,5,0.241105
+151,unregulated,Unregulated (Cahaba),Settings 1,1.0,5,0.236959
+152,unregulated,Unregulated (Cahaba),Settings 1,1.0,5,0.240004
+153,unregulated,Unregulated (Cahaba),Settings 1,1.0,5,0.236318
+154,unregulated,Unregulated (Cahaba),Settings 1,1.0,5,0.318506
+155,unregulated,Unregulated (Cahaba),Settings 1,1.0,5,0.328923
+156,unregulated,Unregulated (Cahaba),Settings 1,1.0,5,0.239316
+157,unregulated,Unregulated (Cahaba),Settings 1,1.0,5,0.227544
+158,unregulated,Unregulated (Cahaba),Settings 1,1.0,5,0.286214
+159,unregulated,Unregulated (Cahaba),Settings 1,1.0,5,0.24015
+160,unregulated,Unregulated (Cahaba),Settings 1,1.0,5,0.293482
+161,unregulated,Unregulated (Cahaba),Settings 1,1.0,5,0.274132
+162,unregulated,Unregulated (Cahaba),Settings 1,1.0,5,0.196792
+163,unregulated,Unregulated (Cahaba),Settings 1,1.0,5,0.334638
+164,unregulated,Unregulated (Cahaba),Settings 1,1.0,5,0.345814
+165,unregulated,Unregulated (Cahaba),Settings 1,1.0,5,0.237425
+166,unregulated,Unregulated (Cahaba),Settings 1,1.0,5,0.247553
+167,unregulated,Unregulated (Cahaba),Settings 1,1.0,5,0.277864
+168,unregulated,Unregulated (Cahaba),Settings 1,1.0,5,0.280051
+169,unregulated,Unregulated (Cahaba),Settings 1,1.0,5,0.294634
+170,unregulated,Unregulated (Cahaba),Settings 1,1.0,5,0.355459
+171,unregulated,Unregulated (Cahaba),Settings 1,1.0,5,0.257037
+172,unregulated,Unregulated (Cahaba),Settings 1,1.0,5,0.229077
+173,unregulated,Unregulated (Cahaba),Settings 1,1.0,5,0.202931
+174,unregulated,Unregulated (Cahaba),Settings 1,1.0,5,0.232108
+175,unregulated,Unregulated (Cahaba),Settings 1,1.0,5,0.263509
+176,unregulated,Unregulated (Cahaba),Settings 1,1.0,5,0.345755
+177,unregulated,Unregulated (Cahaba),Settings 1,1.0,5,0.241707
+178,unregulated,Unregulated (Cahaba),Settings 1,1.0,5,0.27507
+179,unregulated,Unregulated (Cahaba),Settings 1,1.0,5,0.264261
+180,unregulated,Unregulated (Cahaba),Settings 1,1.0,5,0.318478
+181,unregulated,Unregulated (Cahaba),Settings 1,1.0,5,0.378712
+182,unregulated,Unregulated (Cahaba),Settings 1,1.0,5,0.241111
+183,unregulated,Unregulated (Cahaba),Settings 1,1.0,5,0.242975
+184,unregulated,Unregulated (Cahaba),Settings 1,1.0,5,0.311987
+185,unregulated,Unregulated (Cahaba),Settings 1,1.0,5,0.295685
+186,unregulated,Unregulated (Cahaba),Settings 1,1.0,5,0.348102
+187,unregulated,Unregulated (Cahaba),Settings 1,1.0,5,0.291277
+188,unregulated,Unregulated (Cahaba),Settings 1,1.0,5,0.248832
+189,unregulated,Unregulated (Cahaba),Settings 1,1.0,5,0.291579
+190,unregulated,Unregulated (Cahaba),Settings 1,1.0,5,0.314892
+191,unregulated,Unregulated (Cahaba),Settings 1,1.0,5,0.301922
+192,unregulated,Unregulated (Cahaba),Settings 1,1.0,5,0.287827
+193,unregulated,Unregulated (Cahaba),Settings 1,1.0,5,0.313
+194,unregulated,Unregulated (Cahaba),Settings 1,1.0,5,0.317618
+195,unregulated,Unregulated (Cahaba),Settings 1,1.0,5,0.327197
+196,unregulated,Unregulated (Cahaba),Settings 1,1.0,5,0.294192
+197,unregulated,Unregulated (Cahaba),Settings 1,1.0,5,0.25748
+198,unregulated,Unregulated (Cahaba),Settings 1,1.0,5,0.271602
+199,unregulated,Unregulated (Cahaba),Settings 1,1.0,5,0.319293
+200,unregulated,Unregulated (Cahaba),Settings 1,1.0,5,0.228238
+201,unregulated,Unregulated (Cahaba),Settings 1,1.0,5,0.28159
+202,unregulated,Unregulated (Cahaba),Settings 1,1.0,5,0.2473
+203,unregulated,Unregulated (Cahaba),Settings 1,1.0,5,0.266294
+204,unregulated,Unregulated (Cahaba),Settings 1,1.0,5,0.32253
+205,unregulated,Unregulated (Cahaba),Settings 1,1.0,5,0.273599
+206,unregulated,Unregulated (Cahaba),Settings 1,1.0,5,0.26709
+207,unregulated,Unregulated (Cahaba),Settings 1,1.0,5,0.203806
+208,unregulated,Unregulated (Cahaba),Settings 1,1.0,5,0.298581
+209,unregulated,Unregulated (Cahaba),Settings 1,1.0,5,0.294047
+210,unregulated,Unregulated (Cahaba),Settings 1,1.0,5,0.362346
+211,unregulated,Unregulated (Cahaba),Settings 1,1.0,5,0.25115
+212,unregulated,Unregulated (Cahaba),Settings 1,1.0,5,0.274862
+213,unregulated,Unregulated (Cahaba),Settings 1,1.0,5,0.276222
+214,unregulated,Unregulated (Cahaba),Settings 1,1.0,5,0.335985
+215,unregulated,Unregulated (Cahaba),Settings 1,1.0,5,0.260712
+216,unregulated,Unregulated (Cahaba),Settings 1,1.0,5,0.277556
+217,unregulated,Unregulated (Cahaba),Settings 1,1.0,5,0.292355
+218,unregulated,Unregulated (Cahaba),Settings 1,1.0,5,0.273397
+219,unregulated,Unregulated (Cahaba),Settings 1,1.0,5,0.24491
+220,unregulated,Unregulated (Cahaba),Settings 1,1.0,5,0.273734
+221,unregulated,Unregulated (Cahaba),Settings 1,1.0,5,0.313313
+222,unregulated,Unregulated (Cahaba),Settings 1,1.0,5,0.218807
+223,unregulated,Unregulated (Cahaba),Settings 1,1.0,5,0.270984
+224,unregulated,Unregulated (Cahaba),Settings 1,1.0,5,0.233495
+225,unregulated,Unregulated (Cahaba),Settings 1,1.0,5,0.318777
+226,unregulated,Unregulated (Cahaba),Settings 1,1.0,5,0.196457
+227,unregulated,Unregulated (Cahaba),Settings 1,1.0,5,0.239849
+228,unregulated,Unregulated (Cahaba),Settings 1,1.0,5,0.281975
+229,unregulated,Unregulated (Cahaba),Settings 1,1.0,5,0.335449
+230,unregulated,Unregulated (Cahaba),Settings 1,1.0,5,0.262041
+231,unregulated,Unregulated (Cahaba),Settings 1,1.0,5,0.240016
+232,unregulated,Unregulated (Cahaba),Settings 1,1.0,5,0.349652
+233,unregulated,Unregulated (Cahaba),Settings 1,1.0,5,0.199839
+234,unregulated,Unregulated (Cahaba),Settings 1,1.0,5,0.166054
+235,unregulated,Unregulated (Cahaba),Settings 1,1.0,5,0.284801
+236,unregulated,Unregulated (Cahaba),Settings 1,1.0,5,0.242408
+237,unregulated,Unregulated (Cahaba),Settings 1,1.0,5,0.219045
+238,unregulated,Unregulated (Cahaba),Settings 1,1.0,5,0.296876
+239,unregulated,Unregulated (Cahaba),Settings 1,1.0,5,0.275971
+240,unregulated,Unregulated (Cahaba),Settings 1,1.0,5,0.239616
+241,unregulated,Unregulated (Cahaba),Settings 1,1.0,5,0.207386
+242,unregulated,Unregulated (Cahaba),Settings 1,1.0,5,0.304261
+243,unregulated,Unregulated (Cahaba),Settings 1,1.0,5,0.294259
+244,unregulated,Unregulated (Cahaba),Settings 1,1.0,5,0.260537
+245,unregulated,Unregulated (Cahaba),Settings 1,1.0,5,0.348099
+246,unregulated,Unregulated (Cahaba),Settings 1,1.0,5,0.216846
+247,unregulated,Unregulated (Cahaba),Settings 1,1.0,5,0.196351
+248,unregulated,Unregulated (Cahaba),Settings 1,1.0,5,0.233864
+249,unregulated,Unregulated (Cahaba),Settings 1,1.0,5,0.262949
+250,unregulated,Unregulated (Cahaba),Settings 1,1.0,5,0.27595
+251,unregulated,Unregulated (Cahaba),Settings 1,1.0,5,0.254144
+252,unregulated,Unregulated (Cahaba),Settings 1,1.0,5,0.280842
+253,unregulated,Unregulated (Cahaba),Settings 1,1.0,5,0.208681
+254,unregulated,Unregulated (Cahaba),Settings 1,1.0,5,0.329969
+255,unregulated,Unregulated (Cahaba),Settings 1,1.0,5,0.261303
+256,unregulated,Unregulated (Cahaba),Settings 1,1.0,5,0.315278
+257,unregulated,Unregulated (Cahaba),Settings 1,1.0,5,0.280423
+258,unregulated,Unregulated (Cahaba),Settings 1,1.0,5,0.285554
+259,unregulated,Unregulated (Cahaba),Settings 1,1.0,5,0.29064
+260,unregulated,Unregulated (Cahaba),Settings 1,1.0,5,0.285147
+261,unregulated,Unregulated (Cahaba),Settings 1,1.0,5,0.293923
+262,unregulated,Unregulated (Cahaba),Settings 1,1.0,5,0.324812
+263,unregulated,Unregulated (Cahaba),Settings 1,1.0,5,0.273843
+264,unregulated,Unregulated (Cahaba),Settings 1,1.0,5,0.296905
+265,unregulated,Unregulated (Cahaba),Settings 1,1.0,5,0.260962
+266,unregulated,Unregulated (Cahaba),Settings 1,1.0,5,0.329805
+267,unregulated,Unregulated (Cahaba),Settings 1,1.0,5,0.234562
+268,unregulated,Unregulated (Cahaba),Settings 1,1.0,5,0.346042
+269,unregulated,Unregulated (Cahaba),Settings 1,1.0,5,0.263193
+270,unregulated,Unregulated (Cahaba),Settings 1,1.0,5,0.200615
+271,unregulated,Unregulated (Cahaba),Settings 1,1.0,5,0.270765
+272,unregulated,Unregulated (Cahaba),Settings 1,1.0,5,0.234353
+273,unregulated,Unregulated (Cahaba),Settings 1,1.0,5,0.302829
+274,unregulated,Unregulated (Cahaba),Settings 1,1.0,5,0.235632
+275,unregulated,Unregulated (Cahaba),Settings 1,1.0,5,0.244922
+276,unregulated,Unregulated (Cahaba),Settings 1,1.0,5,0.179971
+277,unregulated,Unregulated (Cahaba),Settings 1,1.0,5,0.244646
+278,unregulated,Unregulated (Cahaba),Settings 1,1.0,5,0.155925
+279,unregulated,Unregulated (Cahaba),Settings 1,1.0,5,0.193724
+280,unregulated,Unregulated (Cahaba),Settings 1,1.0,5,0.299219
+281,unregulated,Unregulated (Cahaba),Settings 1,1.0,5,0.300361
+282,unregulated,Unregulated (Cahaba),Settings 1,1.0,5,0.284146
+283,unregulated,Unregulated (Cahaba),Settings 1,1.0,5,0.221486
+284,unregulated,Unregulated (Cahaba),Settings 1,1.0,5,0.262853
+285,unregulated,Unregulated (Cahaba),Settings 1,1.0,5,0.264838
+286,unregulated,Unregulated (Cahaba),Settings 1,1.0,5,0.212874
+287,unregulated,Unregulated (Cahaba),Settings 1,1.0,5,0.332653
+288,unregulated,Unregulated (Cahaba),Settings 1,1.0,5,0.304481
+289,unregulated,Unregulated (Cahaba),Settings 1,1.0,5,0.255057
+290,unregulated,Unregulated (Cahaba),Settings 1,1.0,5,0.26621
+291,unregulated,Unregulated (Cahaba),Settings 1,1.0,5,0.274377
+292,unregulated,Unregulated (Cahaba),Settings 1,1.0,5,0.173122
+293,unregulated,Unregulated (Cahaba),Settings 1,1.0,5,0.253877
+294,unregulated,Unregulated (Cahaba),Settings 1,1.0,5,0.234311
+295,unregulated,Unregulated (Cahaba),Settings 1,1.0,5,0.219927
+296,unregulated,Unregulated (Cahaba),Settings 1,1.0,5,0.25235
+297,unregulated,Unregulated (Cahaba),Settings 1,1.0,5,0.345896
+298,unregulated,Unregulated (Cahaba),Settings 1,1.0,5,0.293838
+299,unregulated,Unregulated (Cahaba),Settings 1,1.0,5,0.239297
+300,unregulated,Unregulated (Cahaba),Settings 1,1.0,5,0.290766
+301,unregulated,Unregulated (Cahaba),Settings 1,1.0,5,0.327971
+302,unregulated,Unregulated (Cahaba),Settings 1,1.0,5,0.306609
+303,unregulated,Unregulated (Cahaba),Settings 1,1.0,5,0.267683
+304,unregulated,Unregulated (Cahaba),Settings 1,1.0,5,0.235888
+305,unregulated,Unregulated (Cahaba),Settings 1,1.0,5,0.29642
+306,unregulated,Unregulated (Cahaba),Settings 1,1.0,5,0.282707
+307,unregulated,Unregulated (Cahaba),Settings 1,1.0,5,0.305284
+308,unregulated,Unregulated (Cahaba),Settings 1,1.0,5,0.293583
+309,unregulated,Unregulated (Cahaba),Settings 1,1.0,5,0.31223
+310,unregulated,Unregulated (Cahaba),Settings 1,1.0,5,0.240914
+311,unregulated,Unregulated (Cahaba),Settings 1,1.0,5,0.324283
+312,unregulated,Unregulated (Cahaba),Settings 1,1.0,5,0.273892
+313,unregulated,Unregulated (Cahaba),Settings 1,1.0,5,0.358387
+314,unregulated,Unregulated (Cahaba),Settings 1,1.0,5,0.233987
+315,unregulated,Unregulated (Cahaba),Settings 1,1.0,5,0.343118
+316,unregulated,Unregulated (Cahaba),Settings 1,1.0,5,0.273906
+317,unregulated,Unregulated (Cahaba),Settings 1,1.0,5,0.235686
+318,unregulated,Unregulated (Cahaba),Settings 1,1.0,5,0.243225
+319,unregulated,Unregulated (Cahaba),Settings 1,1.0,5,0.250584
+320,unregulated,Unregulated (Cahaba),Settings 1,1.0,5,0.284087
+321,unregulated,Unregulated (Cahaba),Settings 1,1.0,5,0.288528
+322,unregulated,Unregulated (Cahaba),Settings 1,1.0,5,0.239183
+323,unregulated,Unregulated (Cahaba),Settings 1,1.0,5,0.263904
+324,unregulated,Unregulated (Cahaba),Settings 1,1.0,5,0.361402
+325,unregulated,Unregulated (Cahaba),Settings 1,1.0,5,0.342739
+326,unregulated,Unregulated (Cahaba),Settings 1,1.0,5,0.284635
+327,unregulated,Unregulated (Cahaba),Settings 1,1.0,5,0.26671
+328,unregulated,Unregulated (Cahaba),Settings 1,1.0,5,0.270401
+329,unregulated,Unregulated (Cahaba),Settings 1,1.0,5,0.292608
+330,unregulated,Unregulated (Cahaba),Settings 1,1.0,5,0.218974
+331,unregulated,Unregulated (Cahaba),Settings 1,1.0,5,0.253418
+332,unregulated,Unregulated (Cahaba),Settings 1,1.0,5,0.189914
+333,unregulated,Unregulated (Cahaba),Settings 1,1.0,5,0.282965
+334,unregulated,Unregulated (Cahaba),Settings 1,1.0,5,0.294124
+335,unregulated,Unregulated (Cahaba),Settings 1,1.0,5,0.243257
+336,unregulated,Unregulated (Cahaba),Settings 1,1.0,5,0.335829
+337,unregulated,Unregulated (Cahaba),Settings 1,1.0,5,0.209841
+338,unregulated,Unregulated (Cahaba),Settings 1,1.0,5,0.199103
+339,unregulated,Unregulated (Cahaba),Settings 1,1.0,5,0.2751
+340,unregulated,Unregulated (Cahaba),Settings 1,1.0,5,0.312119
+341,unregulated,Unregulated (Cahaba),Settings 1,1.0,5,0.340777
+342,unregulated,Unregulated (Cahaba),Settings 1,1.0,5,0.24435
+343,unregulated,Unregulated (Cahaba),Settings 1,1.0,5,0.313541
+344,unregulated,Unregulated (Cahaba),Settings 1,1.0,5,0.263267
+345,unregulated,Unregulated (Cahaba),Settings 1,1.0,5,0.257232
+346,unregulated,Unregulated (Cahaba),Settings 1,1.0,5,0.304765
+347,unregulated,Unregulated (Cahaba),Settings 1,1.0,5,0.294355
+348,unregulated,Unregulated (Cahaba),Settings 1,1.0,5,0.194062
+349,unregulated,Unregulated (Cahaba),Settings 1,1.0,5,0.331444
+350,unregulated,Unregulated (Cahaba),Settings 1,1.0,5,0.327104
+351,unregulated,Unregulated (Cahaba),Settings 1,1.0,5,0.23685
+352,unregulated,Unregulated (Cahaba),Settings 1,1.0,5,0.282811
+353,unregulated,Unregulated (Cahaba),Settings 1,1.0,5,0.287231
+354,unregulated,Unregulated (Cahaba),Settings 1,1.0,5,0.27673
+355,unregulated,Unregulated (Cahaba),Settings 1,1.0,5,0.240236
+356,unregulated,Unregulated (Cahaba),Settings 1,1.0,5,0.234777
+357,unregulated,Unregulated (Cahaba),Settings 1,1.0,5,0.26385
+358,unregulated,Unregulated (Cahaba),Settings 1,1.0,5,0.317773
+359,unregulated,Unregulated (Cahaba),Settings 1,1.0,5,0.289462
+360,unregulated,Unregulated (Cahaba),Settings 1,1.0,5,0.248322
+361,unregulated,Unregulated (Cahaba),Settings 1,1.0,5,0.299726
+362,unregulated,Unregulated (Cahaba),Settings 1,1.0,5,0.136816
+363,unregulated,Unregulated (Cahaba),Settings 1,1.0,5,0.316694
+364,unregulated,Unregulated (Cahaba),Settings 1,1.0,5,0.186713
+365,unregulated,Unregulated (Cahaba),Settings 1,1.0,5,0.24869
+366,unregulated,Unregulated (Cahaba),Settings 1,1.0,5,0.214615
+367,unregulated,Unregulated (Cahaba),Settings 1,1.0,5,0.206739
+368,unregulated,Unregulated (Cahaba),Settings 1,1.0,5,0.317237
+369,unregulated,Unregulated (Cahaba),Settings 1,1.0,5,0.243953
+370,unregulated,Unregulated (Cahaba),Settings 1,1.0,5,0.280593
+371,unregulated,Unregulated (Cahaba),Settings 1,1.0,5,0.262889
+372,unregulated,Unregulated (Cahaba),Settings 1,1.0,5,0.286467
+373,unregulated,Unregulated (Cahaba),Settings 1,1.0,5,0.268457
+374,unregulated,Unregulated (Cahaba),Settings 1,1.0,5,0.207265
+375,unregulated,Unregulated (Cahaba),Settings 1,1.0,5,0.309832
+376,unregulated,Unregulated (Cahaba),Settings 1,1.0,5,0.242781
+377,unregulated,Unregulated (Cahaba),Settings 1,1.0,5,0.194954
+378,unregulated,Unregulated (Cahaba),Settings 1,1.0,5,0.245735
+379,unregulated,Unregulated (Cahaba),Settings 1,1.0,5,0.332534
+380,unregulated,Unregulated (Cahaba),Settings 1,1.0,5,0.30326
+381,unregulated,Unregulated (Cahaba),Settings 1,1.0,5,0.249311
+382,unregulated,Unregulated (Cahaba),Settings 1,1.0,5,0.249283
+383,unregulated,Unregulated (Cahaba),Settings 1,1.0,5,0.250526
+384,unregulated,Unregulated (Cahaba),Settings 1,1.0,5,0.358454
+385,unregulated,Unregulated (Cahaba),Settings 1,1.0,5,0.282187
+386,unregulated,Unregulated (Cahaba),Settings 1,1.0,5,0.284352
+387,unregulated,Unregulated (Cahaba),Settings 1,1.0,5,0.311363
+388,unregulated,Unregulated (Cahaba),Settings 1,1.0,5,0.275746
+389,unregulated,Unregulated (Cahaba),Settings 1,1.0,5,0.253343
+390,unregulated,Unregulated (Cahaba),Settings 1,1.0,5,0.256164
+391,unregulated,Unregulated (Cahaba),Settings 1,1.0,5,0.261778
+392,unregulated,Unregulated (Cahaba),Settings 1,1.0,5,0.263325
+393,unregulated,Unregulated (Cahaba),Settings 1,1.0,5,0.297743
+394,unregulated,Unregulated (Cahaba),Settings 1,1.0,5,0.267338
+395,unregulated,Unregulated (Cahaba),Settings 1,1.0,5,0.297969
+396,unregulated,Unregulated (Cahaba),Settings 1,1.0,5,0.261368
+397,unregulated,Unregulated (Cahaba),Settings 1,1.0,5,0.268539
+398,unregulated,Unregulated (Cahaba),Settings 1,1.0,5,0.175081
+399,unregulated,Unregulated (Cahaba),Settings 1,1.0,5,0.306235
+400,unregulated,Unregulated (Cahaba),Settings 1,1.0,5,0.280592
+401,unregulated,Unregulated (Cahaba),Settings 1,1.0,5,0.30991
+402,unregulated,Unregulated (Cahaba),Settings 1,1.0,5,0.134669
+403,unregulated,Unregulated (Cahaba),Settings 1,1.0,5,0.358977
+404,unregulated,Unregulated (Cahaba),Settings 1,1.0,5,0.258718
+405,unregulated,Unregulated (Cahaba),Settings 1,1.0,5,0.314868
+406,unregulated,Unregulated (Cahaba),Settings 1,1.0,5,0.218204
+407,unregulated,Unregulated (Cahaba),Settings 1,1.0,5,0.292575
+408,unregulated,Unregulated (Cahaba),Settings 1,1.0,5,0.217596
+409,unregulated,Unregulated (Cahaba),Settings 1,1.0,5,0.23693
+410,unregulated,Unregulated (Cahaba),Settings 1,1.0,5,0.351131
+411,unregulated,Unregulated (Cahaba),Settings 1,1.0,5,0.256419
+412,unregulated,Unregulated (Cahaba),Settings 1,1.0,5,0.274784
+413,unregulated,Unregulated (Cahaba),Settings 1,1.0,5,0.304153
+414,unregulated,Unregulated (Cahaba),Settings 1,1.0,5,0.287306
+415,unregulated,Unregulated (Cahaba),Settings 1,1.0,5,0.271769
+416,unregulated,Unregulated (Cahaba),Settings 1,1.0,5,0.281423
+417,unregulated,Unregulated (Cahaba),Settings 1,1.0,5,0.373154
+418,unregulated,Unregulated (Cahaba),Settings 1,1.0,5,0.262407
+419,unregulated,Unregulated (Cahaba),Settings 1,1.0,5,0.274049
+420,unregulated,Unregulated (Cahaba),Settings 1,1.0,5,0.312279
+421,unregulated,Unregulated (Cahaba),Settings 1,1.0,5,0.314749
+422,unregulated,Unregulated (Cahaba),Settings 1,1.0,5,0.318416
+423,unregulated,Unregulated (Cahaba),Settings 1,1.0,5,0.293743
+424,unregulated,Unregulated (Cahaba),Settings 1,1.0,5,0.213565
+425,unregulated,Unregulated (Cahaba),Settings 1,1.0,5,0.338504
+426,unregulated,Unregulated (Cahaba),Settings 1,1.0,5,0.213414
+427,unregulated,Unregulated (Cahaba),Settings 1,1.0,5,0.278619
+428,unregulated,Unregulated (Cahaba),Settings 1,1.0,5,0.231058
+429,unregulated,Unregulated (Cahaba),Settings 1,1.0,5,0.262114
+430,unregulated,Unregulated (Cahaba),Settings 1,1.0,5,0.279794
+431,unregulated,Unregulated (Cahaba),Settings 1,1.0,5,0.279461
+432,unregulated,Unregulated (Cahaba),Settings 1,1.0,5,0.283986
+433,unregulated,Unregulated (Cahaba),Settings 1,1.0,5,0.337617
+434,unregulated,Unregulated (Cahaba),Settings 1,1.0,5,0.285409
+435,unregulated,Unregulated (Cahaba),Settings 1,1.0,5,0.254013
+436,unregulated,Unregulated (Cahaba),Settings 1,1.0,5,0.308384
+437,unregulated,Unregulated (Cahaba),Settings 1,1.0,5,0.318526
+438,unregulated,Unregulated (Cahaba),Settings 1,1.0,5,0.209758
+439,unregulated,Unregulated (Cahaba),Settings 1,1.0,5,0.291883
+440,unregulated,Unregulated (Cahaba),Settings 1,1.0,5,0.296553
+441,unregulated,Unregulated (Cahaba),Settings 1,1.0,5,0.25161
+442,unregulated,Unregulated (Cahaba),Settings 1,1.0,5,0.326907
+443,unregulated,Unregulated (Cahaba),Settings 1,1.0,5,0.258247
+444,unregulated,Unregulated (Cahaba),Settings 1,1.0,5,0.270651
+445,unregulated,Unregulated (Cahaba),Settings 1,1.0,5,0.257212
+446,unregulated,Unregulated (Cahaba),Settings 1,1.0,5,0.265701
+447,unregulated,Unregulated (Cahaba),Settings 1,1.0,5,0.215668
+448,unregulated,Unregulated (Cahaba),Settings 1,1.0,5,0.200198
+449,unregulated,Unregulated (Cahaba),Settings 1,1.0,5,0.336753
+450,unregulated,Unregulated (Cahaba),Settings 1,1.0,5,0.226887
+451,unregulated,Unregulated (Cahaba),Settings 1,1.0,5,0.220387
+452,unregulated,Unregulated (Cahaba),Settings 1,1.0,5,0.168097
+453,unregulated,Unregulated (Cahaba),Settings 1,1.0,5,0.236247
+454,unregulated,Unregulated (Cahaba),Settings 1,1.0,5,0.205461
+455,unregulated,Unregulated (Cahaba),Settings 1,1.0,5,0.338891
+456,unregulated,Unregulated (Cahaba),Settings 1,1.0,5,0.310442
+457,unregulated,Unregulated (Cahaba),Settings 1,1.0,5,0.234033
+458,unregulated,Unregulated (Cahaba),Settings 1,1.0,5,0.36636
+459,unregulated,Unregulated (Cahaba),Settings 1,1.0,5,0.309179
+460,unregulated,Unregulated (Cahaba),Settings 1,1.0,5,0.250383
+461,unregulated,Unregulated (Cahaba),Settings 1,1.0,5,0.152527
+462,unregulated,Unregulated (Cahaba),Settings 1,1.0,5,0.368092
+463,unregulated,Unregulated (Cahaba),Settings 1,1.0,5,0.202469
+464,unregulated,Unregulated (Cahaba),Settings 1,1.0,5,0.190957
+465,unregulated,Unregulated (Cahaba),Settings 1,1.0,5,0.311016
+466,unregulated,Unregulated (Cahaba),Settings 1,1.0,5,0.374789
+467,unregulated,Unregulated (Cahaba),Settings 1,1.0,5,0.327292
+468,unregulated,Unregulated (Cahaba),Settings 1,1.0,5,0.290376
+469,unregulated,Unregulated (Cahaba),Settings 1,1.0,5,0.291764
+470,unregulated,Unregulated (Cahaba),Settings 1,1.0,5,0.303404
+471,unregulated,Unregulated (Cahaba),Settings 1,1.0,5,0.299152
+472,unregulated,Unregulated (Cahaba),Settings 1,1.0,5,0.277654
+473,unregulated,Unregulated (Cahaba),Settings 1,1.0,5,0.269689
+474,unregulated,Unregulated (Cahaba),Settings 1,1.0,5,0.262183
+475,unregulated,Unregulated (Cahaba),Settings 1,1.0,5,0.231072
+476,unregulated,Unregulated (Cahaba),Settings 1,1.0,5,0.25237
+477,unregulated,Unregulated (Cahaba),Settings 1,1.0,5,0.188817
+478,unregulated,Unregulated (Cahaba),Settings 1,1.0,5,0.260575
+479,unregulated,Unregulated (Cahaba),Settings 1,1.0,5,0.220513
+480,unregulated,Unregulated (Cahaba),Settings 1,1.0,5,0.215338
+481,unregulated,Unregulated (Cahaba),Settings 1,1.0,5,0.273095
+482,unregulated,Unregulated (Cahaba),Settings 1,1.0,5,0.32764
+483,unregulated,Unregulated (Cahaba),Settings 1,1.0,5,0.306324
+484,unregulated,Unregulated (Cahaba),Settings 1,1.0,5,0.194327
+485,unregulated,Unregulated (Cahaba),Settings 1,1.0,5,0.220467
+486,unregulated,Unregulated (Cahaba),Settings 1,1.0,5,0.307335
+487,unregulated,Unregulated (Cahaba),Settings 1,1.0,5,0.220788
+488,unregulated,Unregulated (Cahaba),Settings 1,1.0,5,0.254892
+489,unregulated,Unregulated (Cahaba),Settings 1,1.0,5,0.289752
+490,unregulated,Unregulated (Cahaba),Settings 1,1.0,5,0.221424
+491,unregulated,Unregulated (Cahaba),Settings 1,1.0,5,0.269742
+492,unregulated,Unregulated (Cahaba),Settings 1,1.0,5,0.204969
+493,unregulated,Unregulated (Cahaba),Settings 1,1.0,5,0.237938
+494,unregulated,Unregulated (Cahaba),Settings 1,1.0,5,0.27939
+495,unregulated,Unregulated (Cahaba),Settings 1,1.0,5,0.193315
+496,unregulated,Unregulated (Cahaba),Settings 1,1.0,5,0.284821
+497,unregulated,Unregulated (Cahaba),Settings 1,1.0,5,0.264116
+498,unregulated,Unregulated (Cahaba),Settings 1,1.0,5,0.289862
+499,unregulated,Unregulated (Cahaba),Settings 1,1.0,5,0.275076
+500,unregulated,Unregulated (Cahaba),Settings 1,1.0,5,0.326386
+501,unregulated,Unregulated (Cahaba),Settings 1,1.0,5,0.270635
+502,unregulated,Unregulated (Cahaba),Settings 1,1.0,5,0.245677
+503,unregulated,Unregulated (Cahaba),Settings 1,1.0,5,0.270503
+504,unregulated,Unregulated (Cahaba),Settings 1,1.0,5,0.289448
+505,unregulated,Unregulated (Cahaba),Settings 1,1.0,5,0.267199
+506,unregulated,Unregulated (Cahaba),Settings 1,1.0,5,0.266827
+507,unregulated,Unregulated (Cahaba),Settings 1,1.0,5,0.23341
+508,unregulated,Unregulated (Cahaba),Settings 1,1.0,5,0.235169
+509,unregulated,Unregulated (Cahaba),Settings 1,1.0,5,0.201883
+510,unregulated,Unregulated (Cahaba),Settings 1,1.0,5,0.343731
+511,unregulated,Unregulated (Cahaba),Settings 1,1.0,5,0.209026
+512,unregulated,Unregulated (Cahaba),Settings 1,1.0,5,0.233819
+513,unregulated,Unregulated (Cahaba),Settings 1,1.0,5,0.232672
+514,unregulated,Unregulated (Cahaba),Settings 1,1.0,5,0.305272
+515,unregulated,Unregulated (Cahaba),Settings 1,1.0,5,0.251727
+516,unregulated,Unregulated (Cahaba),Settings 1,1.0,5,0.321148
+517,unregulated,Unregulated (Cahaba),Settings 1,1.0,5,0.234693
+518,unregulated,Unregulated (Cahaba),Settings 1,1.0,5,0.277555
+519,unregulated,Unregulated (Cahaba),Settings 1,1.0,5,0.227409
+520,unregulated,Unregulated (Cahaba),Settings 1,1.0,5,0.361532
+521,unregulated,Unregulated (Cahaba),Settings 1,1.0,5,0.211558
+522,unregulated,Unregulated (Cahaba),Settings 1,1.0,5,0.278942
+523,unregulated,Unregulated (Cahaba),Settings 1,1.0,5,0.29352
+524,unregulated,Unregulated (Cahaba),Settings 1,1.0,5,0.283621
+525,unregulated,Unregulated (Cahaba),Settings 1,1.0,5,0.256662
+526,unregulated,Unregulated (Cahaba),Settings 1,1.0,5,0.259158
+527,unregulated,Unregulated (Cahaba),Settings 1,1.0,5,0.266972
+528,unregulated,Unregulated (Cahaba),Settings 1,1.0,5,0.258385
+529,unregulated,Unregulated (Cahaba),Settings 1,1.0,5,0.308375
+530,unregulated,Unregulated (Cahaba),Settings 1,1.0,5,0.364474
+531,unregulated,Unregulated (Cahaba),Settings 1,1.0,5,0.239913
+532,unregulated,Unregulated (Cahaba),Settings 1,1.0,5,0.203359
+533,unregulated,Unregulated (Cahaba),Settings 1,1.0,5,0.261027
+534,unregulated,Unregulated (Cahaba),Settings 1,1.0,5,0.381087
+535,unregulated,Unregulated (Cahaba),Settings 1,1.0,5,0.228835
+536,unregulated,Unregulated (Cahaba),Settings 1,1.0,5,0.33876
+537,unregulated,Unregulated (Cahaba),Settings 1,1.0,5,0.340497
+538,unregulated,Unregulated (Cahaba),Settings 1,1.0,5,0.240089
+539,unregulated,Unregulated (Cahaba),Settings 1,1.0,5,0.290604
+540,unregulated,Unregulated (Cahaba),Settings 1,1.0,5,0.338278
+541,unregulated,Unregulated (Cahaba),Settings 1,1.0,5,0.247939
+542,unregulated,Unregulated (Cahaba),Settings 1,1.0,5,0.255839
+543,unregulated,Unregulated (Cahaba),Settings 1,1.0,5,0.238824
+544,unregulated,Unregulated (Cahaba),Settings 1,1.0,5,0.219336
+545,unregulated,Unregulated (Cahaba),Settings 1,1.0,5,0.235783
+546,unregulated,Unregulated (Cahaba),Settings 1,1.0,5,0.209923
+547,unregulated,Unregulated (Cahaba),Settings 1,1.0,5,0.266534
+548,unregulated,Unregulated (Cahaba),Settings 1,1.0,5,0.230351
+549,unregulated,Unregulated (Cahaba),Settings 1,1.0,5,0.27552
+550,unregulated,Unregulated (Cahaba),Settings 1,1.0,5,0.194985
+551,unregulated,Unregulated (Cahaba),Settings 1,1.0,5,0.27989
+552,unregulated,Unregulated (Cahaba),Settings 1,1.0,5,0.302509
+553,unregulated,Unregulated (Cahaba),Settings 1,1.0,5,0.175282
+554,unregulated,Unregulated (Cahaba),Settings 1,1.0,5,0.281833
+555,unregulated,Unregulated (Cahaba),Settings 1,1.0,5,0.320245
+556,unregulated,Unregulated (Cahaba),Settings 1,1.0,5,0.210566
+557,unregulated,Unregulated (Cahaba),Settings 1,1.0,5,0.340266
+558,unregulated,Unregulated (Cahaba),Settings 1,1.0,5,0.283856
+559,unregulated,Unregulated (Cahaba),Settings 1,1.0,5,0.233274
+560,unregulated,Unregulated (Cahaba),Settings 1,1.0,5,0.26249
+561,unregulated,Unregulated (Cahaba),Settings 1,1.0,5,0.290125
+562,unregulated,Unregulated (Cahaba),Settings 1,1.0,5,0.26842
+563,unregulated,Unregulated (Cahaba),Settings 1,1.0,5,0.289244
+564,unregulated,Unregulated (Cahaba),Settings 1,1.0,5,0.22357
+565,unregulated,Unregulated (Cahaba),Settings 1,1.0,5,0.272621
+566,unregulated,Unregulated (Cahaba),Settings 1,1.0,5,0.201383
+567,unregulated,Unregulated (Cahaba),Settings 1,1.0,5,0.259995
+568,unregulated,Unregulated (Cahaba),Settings 1,1.0,5,0.224324
+569,unregulated,Unregulated (Cahaba),Settings 1,1.0,5,0.231901
+570,unregulated,Unregulated (Cahaba),Settings 1,1.0,5,0.320624
+571,unregulated,Unregulated (Cahaba),Settings 1,1.0,5,0.314109
+572,unregulated,Unregulated (Cahaba),Settings 1,1.0,5,0.292411
+573,unregulated,Unregulated (Cahaba),Settings 1,1.0,5,0.215846
+574,unregulated,Unregulated (Cahaba),Settings 1,1.0,5,0.250762
+575,unregulated,Unregulated (Cahaba),Settings 1,1.0,5,0.319589
+576,unregulated,Unregulated (Cahaba),Settings 1,1.0,5,0.271377
+577,unregulated,Unregulated (Cahaba),Settings 1,1.0,5,0.36937
+578,unregulated,Unregulated (Cahaba),Settings 1,1.0,5,0.282699
+579,unregulated,Unregulated (Cahaba),Settings 1,1.0,5,0.273642
+580,unregulated,Unregulated (Cahaba),Settings 1,1.0,5,0.25109
+581,unregulated,Unregulated (Cahaba),Settings 1,1.0,5,0.271009
+582,unregulated,Unregulated (Cahaba),Settings 1,1.0,5,0.258139
+583,unregulated,Unregulated (Cahaba),Settings 1,1.0,5,0.296865
+584,unregulated,Unregulated (Cahaba),Settings 1,1.0,5,0.308052
+585,unregulated,Unregulated (Cahaba),Settings 1,1.0,5,0.22963
+586,unregulated,Unregulated (Cahaba),Settings 1,1.0,5,0.205095
+587,unregulated,Unregulated (Cahaba),Settings 1,1.0,5,0.182371
+588,unregulated,Unregulated (Cahaba),Settings 1,1.0,5,0.28786
+589,unregulated,Unregulated (Cahaba),Settings 1,1.0,5,0.215349
+590,unregulated,Unregulated (Cahaba),Settings 1,1.0,5,0.16812
+591,unregulated,Unregulated (Cahaba),Settings 1,1.0,5,0.282486
+592,unregulated,Unregulated (Cahaba),Settings 1,1.0,5,0.377185
+593,unregulated,Unregulated (Cahaba),Settings 1,1.0,5,0.264727
+594,unregulated,Unregulated (Cahaba),Settings 1,1.0,5,0.302732
+595,unregulated,Unregulated (Cahaba),Settings 1,1.0,5,0.268682
+596,unregulated,Unregulated (Cahaba),Settings 1,1.0,5,0.26055
+597,unregulated,Unregulated (Cahaba),Settings 1,1.0,5,0.306358
+598,unregulated,Unregulated (Cahaba),Settings 1,1.0,5,0.251938
+599,unregulated,Unregulated (Cahaba),Settings 1,1.0,5,0.277033
+600,unregulated,Unregulated (Cahaba),Settings 1,1.0,5,0.279476
+601,unregulated,Unregulated (Cahaba),Settings 1,1.0,5,0.234936
+602,unregulated,Unregulated (Cahaba),Settings 1,1.0,5,0.309642
+603,unregulated,Unregulated (Cahaba),Settings 1,1.0,5,0.257127
+604,unregulated,Unregulated (Cahaba),Settings 1,1.0,5,0.230991
+605,unregulated,Unregulated (Cahaba),Settings 1,1.0,5,0.289143
+606,unregulated,Unregulated (Cahaba),Settings 1,1.0,5,0.224569
+607,unregulated,Unregulated (Cahaba),Settings 1,1.0,5,0.266268
+608,unregulated,Unregulated (Cahaba),Settings 1,1.0,5,0.26459
+609,unregulated,Unregulated (Cahaba),Settings 1,1.0,5,0.313865
+610,unregulated,Unregulated (Cahaba),Settings 1,1.0,5,0.286361
+611,unregulated,Unregulated (Cahaba),Settings 1,1.0,5,0.263874
+612,unregulated,Unregulated (Cahaba),Settings 1,1.0,5,0.301799
+613,unregulated,Unregulated (Cahaba),Settings 1,1.0,5,0.327559
+614,unregulated,Unregulated (Cahaba),Settings 1,1.0,5,0.290101
+615,unregulated,Unregulated (Cahaba),Settings 1,1.0,5,0.265466
+616,unregulated,Unregulated (Cahaba),Settings 1,1.0,5,0.205967
+617,unregulated,Unregulated (Cahaba),Settings 1,1.0,5,0.21707
+618,unregulated,Unregulated (Cahaba),Settings 1,1.0,5,0.251265
+619,unregulated,Unregulated (Cahaba),Settings 1,1.0,5,0.237572
+620,unregulated,Unregulated (Cahaba),Settings 1,1.0,5,0.256586
+621,unregulated,Unregulated (Cahaba),Settings 1,1.0,5,0.267549
+622,unregulated,Unregulated (Cahaba),Settings 1,1.0,5,0.288836
+623,unregulated,Unregulated (Cahaba),Settings 1,1.0,5,0.261828
+624,unregulated,Unregulated (Cahaba),Settings 1,1.0,5,0.286893
+625,unregulated,Unregulated (Cahaba),Settings 1,1.0,5,0.267901
+626,unregulated,Unregulated (Cahaba),Settings 1,1.0,5,0.176104
+627,unregulated,Unregulated (Cahaba),Settings 1,1.0,5,0.22273
+628,unregulated,Unregulated (Cahaba),Settings 1,1.0,5,0.258516
+629,unregulated,Unregulated (Cahaba),Settings 1,1.0,5,0.210564
+630,unregulated,Unregulated (Cahaba),Settings 1,1.0,5,0.291997
+631,unregulated,Unregulated (Cahaba),Settings 1,1.0,5,0.333884
+632,unregulated,Unregulated (Cahaba),Settings 1,1.0,5,0.319844
+633,unregulated,Unregulated (Cahaba),Settings 1,1.0,5,0.255395
+634,unregulated,Unregulated (Cahaba),Settings 1,1.0,5,0.332083
+635,unregulated,Unregulated (Cahaba),Settings 1,1.0,5,0.27169
+636,unregulated,Unregulated (Cahaba),Settings 1,1.0,5,0.249831
+637,unregulated,Unregulated (Cahaba),Settings 1,1.0,5,0.237397
+638,unregulated,Unregulated (Cahaba),Settings 1,1.0,5,0.251389
+639,unregulated,Unregulated (Cahaba),Settings 1,1.0,5,0.247532
+640,unregulated,Unregulated (Cahaba),Settings 1,1.0,5,0.272669
+641,unregulated,Unregulated (Cahaba),Settings 1,1.0,5,0.272226
+642,unregulated,Unregulated (Cahaba),Settings 1,1.0,5,0.265137
+643,unregulated,Unregulated (Cahaba),Settings 1,1.0,5,0.284662
+644,unregulated,Unregulated (Cahaba),Settings 1,1.0,5,0.318579
+645,unregulated,Unregulated (Cahaba),Settings 1,1.0,5,0.30773
+646,unregulated,Unregulated (Cahaba),Settings 1,1.0,5,0.19818
+647,unregulated,Unregulated (Cahaba),Settings 1,1.0,5,0.150074
+648,unregulated,Unregulated (Cahaba),Settings 1,1.0,5,0.307044
+649,unregulated,Unregulated (Cahaba),Settings 1,1.0,5,0.20349
+650,unregulated,Unregulated (Cahaba),Settings 1,1.0,5,0.254886
+651,unregulated,Unregulated (Cahaba),Settings 1,1.0,5,0.212345
+652,unregulated,Unregulated (Cahaba),Settings 1,1.0,5,0.183911
+653,unregulated,Unregulated (Cahaba),Settings 1,1.0,5,0.289366
+654,unregulated,Unregulated (Cahaba),Settings 1,1.0,5,0.299162
+655,unregulated,Unregulated (Cahaba),Settings 1,1.0,5,0.239057
+656,unregulated,Unregulated (Cahaba),Settings 1,1.0,5,0.148403
+657,unregulated,Unregulated (Cahaba),Settings 1,1.0,5,0.240419
+658,unregulated,Unregulated (Cahaba),Settings 1,1.0,5,0.282631
+659,unregulated,Unregulated (Cahaba),Settings 1,1.0,5,0.198449
+660,unregulated,Unregulated (Cahaba),Settings 1,1.0,5,0.273251
+661,unregulated,Unregulated (Cahaba),Settings 1,1.0,5,0.264311
+662,unregulated,Unregulated (Cahaba),Settings 1,1.0,5,0.291068
+663,unregulated,Unregulated (Cahaba),Settings 1,1.0,5,0.270381
+664,unregulated,Unregulated (Cahaba),Settings 1,1.0,5,0.221212
+665,unregulated,Unregulated (Cahaba),Settings 1,1.0,5,0.318846
+666,unregulated,Unregulated (Cahaba),Settings 1,1.0,5,0.257866
+667,unregulated,Unregulated (Cahaba),Settings 1,1.0,5,0.263771
+668,unregulated,Unregulated (Cahaba),Settings 1,1.0,5,0.223003
+669,unregulated,Unregulated (Cahaba),Settings 1,1.0,5,0.245052
+670,unregulated,Unregulated (Cahaba),Settings 1,1.0,5,0.225184
+671,unregulated,Unregulated (Cahaba),Settings 1,1.0,5,0.257217
+672,unregulated,Unregulated (Cahaba),Settings 1,1.0,5,0.342027
+673,unregulated,Unregulated (Cahaba),Settings 1,1.0,5,0.203264
+674,unregulated,Unregulated (Cahaba),Settings 1,1.0,5,0.19239
+675,unregulated,Unregulated (Cahaba),Settings 1,1.0,5,0.331203
+676,unregulated,Unregulated (Cahaba),Settings 1,1.0,5,0.25558
+677,unregulated,Unregulated (Cahaba),Settings 1,1.0,5,0.234892
+678,unregulated,Unregulated (Cahaba),Settings 1,1.0,5,0.311796
+679,unregulated,Unregulated (Cahaba),Settings 1,1.0,5,0.237747
+680,unregulated,Unregulated (Cahaba),Settings 1,1.0,5,0.34717
+681,unregulated,Unregulated (Cahaba),Settings 1,1.0,5,0.295507
+682,unregulated,Unregulated (Cahaba),Settings 1,1.0,5,0.243044
+683,unregulated,Unregulated (Cahaba),Settings 1,1.0,5,0.362079
+684,unregulated,Unregulated (Cahaba),Settings 1,1.0,5,0.237743
+685,unregulated,Unregulated (Cahaba),Settings 1,1.0,5,0.298394
+686,unregulated,Unregulated (Cahaba),Settings 1,1.0,5,0.278468
+687,unregulated,Unregulated (Cahaba),Settings 1,1.0,5,0.323578
+688,unregulated,Unregulated (Cahaba),Settings 1,1.0,5,0.335268
+689,unregulated,Unregulated (Cahaba),Settings 1,1.0,5,0.26644
+690,unregulated,Unregulated (Cahaba),Settings 1,1.0,5,0.231096
+691,unregulated,Unregulated (Cahaba),Settings 1,1.0,5,0.285699
+692,unregulated,Unregulated (Cahaba),Settings 1,1.0,5,0.234503
+693,unregulated,Unregulated (Cahaba),Settings 1,1.0,5,0.355602
+694,unregulated,Unregulated (Cahaba),Settings 1,1.0,5,0.271144
+695,unregulated,Unregulated (Cahaba),Settings 1,1.0,5,0.248561
+696,unregulated,Unregulated (Cahaba),Settings 1,1.0,5,0.273311
+697,unregulated,Unregulated (Cahaba),Settings 1,1.0,5,0.204379
+698,unregulated,Unregulated (Cahaba),Settings 1,1.0,5,0.221277
+699,unregulated,Unregulated (Cahaba),Settings 1,1.0,5,0.319019
+700,unregulated,Unregulated (Cahaba),Settings 1,1.0,5,0.23544
+1,regulated,Regulated (Black Warrior),Settings 2,2.0,5,0.21742
+2,regulated,Regulated (Black Warrior),Settings 2,2.0,5,0.304516
+3,regulated,Regulated (Black Warrior),Settings 2,2.0,5,0.340214
+4,regulated,Regulated (Black Warrior),Settings 2,2.0,5,0.314542
+5,regulated,Regulated (Black Warrior),Settings 2,2.0,5,0.329783
+6,regulated,Regulated (Black Warrior),Settings 2,2.0,5,0.233376
+7,regulated,Regulated (Black Warrior),Settings 2,2.0,5,0.1968
+8,regulated,Regulated (Black Warrior),Settings 2,2.0,5,0.357573
+9,regulated,Regulated (Black Warrior),Settings 2,2.0,5,0.257253
+10,regulated,Regulated (Black Warrior),Settings 2,2.0,5,0.261204
+11,regulated,Regulated (Black Warrior),Settings 2,2.0,5,0.348051
+12,regulated,Regulated (Black Warrior),Settings 2,2.0,5,0.305593
+13,regulated,Regulated (Black Warrior),Settings 2,2.0,5,0.300074
+14,regulated,Regulated (Black Warrior),Settings 2,2.0,5,0.394075
+15,regulated,Regulated (Black Warrior),Settings 2,2.0,5,0.239606
+16,regulated,Regulated (Black Warrior),Settings 2,2.0,5,0.326031
+17,regulated,Regulated (Black Warrior),Settings 2,2.0,5,0.278136
+18,regulated,Regulated (Black Warrior),Settings 2,2.0,5,0.289773
+19,regulated,Regulated (Black Warrior),Settings 2,2.0,5,0.359066
+20,regulated,Regulated (Black Warrior),Settings 2,2.0,5,0.302931
+21,regulated,Regulated (Black Warrior),Settings 2,2.0,5,0.304606
+22,regulated,Regulated (Black Warrior),Settings 2,2.0,5,0.333988
+23,regulated,Regulated (Black Warrior),Settings 2,2.0,5,0.254928
+24,regulated,Regulated (Black Warrior),Settings 2,2.0,5,0.228843
+25,regulated,Regulated (Black Warrior),Settings 2,2.0,5,0.217535
+26,regulated,Regulated (Black Warrior),Settings 2,2.0,5,0.16685
+27,regulated,Regulated (Black Warrior),Settings 2,2.0,5,0.388091
+28,regulated,Regulated (Black Warrior),Settings 2,2.0,5,0.214324
+29,regulated,Regulated (Black Warrior),Settings 2,2.0,5,0.262831
+30,regulated,Regulated (Black Warrior),Settings 2,2.0,5,0.259775
+31,regulated,Regulated (Black Warrior),Settings 2,2.0,5,0.291907
+32,regulated,Regulated (Black Warrior),Settings 2,2.0,5,0.319866
+33,regulated,Regulated (Black Warrior),Settings 2,2.0,5,0.322326
+34,regulated,Regulated (Black Warrior),Settings 2,2.0,5,0.242931
+35,regulated,Regulated (Black Warrior),Settings 2,2.0,5,0.265808
+36,regulated,Regulated (Black Warrior),Settings 2,2.0,5,0.290542
+37,regulated,Regulated (Black Warrior),Settings 2,2.0,5,0.261322
+38,regulated,Regulated (Black Warrior),Settings 2,2.0,5,0.363404
+39,regulated,Regulated (Black Warrior),Settings 2,2.0,5,0.302004
+40,regulated,Regulated (Black Warrior),Settings 2,2.0,5,0.315418
+41,regulated,Regulated (Black Warrior),Settings 2,2.0,5,0.311458
+42,regulated,Regulated (Black Warrior),Settings 2,2.0,5,0.339541
+43,regulated,Regulated (Black Warrior),Settings 2,2.0,5,0.284956
+44,regulated,Regulated (Black Warrior),Settings 2,2.0,5,0.203674
+45,regulated,Regulated (Black Warrior),Settings 2,2.0,5,0.296983
+46,regulated,Regulated (Black Warrior),Settings 2,2.0,5,0.239175
+47,regulated,Regulated (Black Warrior),Settings 2,2.0,5,0.245926
+48,regulated,Regulated (Black Warrior),Settings 2,2.0,5,0.30725
+49,regulated,Regulated (Black Warrior),Settings 2,2.0,5,0.343106
+50,regulated,Regulated (Black Warrior),Settings 2,2.0,5,0.27617
+51,regulated,Regulated (Black Warrior),Settings 2,2.0,5,0.291986
+52,regulated,Regulated (Black Warrior),Settings 2,2.0,5,0.368622
+53,regulated,Regulated (Black Warrior),Settings 2,2.0,5,0.288241
+54,regulated,Regulated (Black Warrior),Settings 2,2.0,5,0.418093
+55,regulated,Regulated (Black Warrior),Settings 2,2.0,5,0.306103
+56,regulated,Regulated (Black Warrior),Settings 2,2.0,5,0.178158
+57,regulated,Regulated (Black Warrior),Settings 2,2.0,5,0.316434
+58,regulated,Regulated (Black Warrior),Settings 2,2.0,5,0.295964
+59,regulated,Regulated (Black Warrior),Settings 2,2.0,5,0.345936
+60,regulated,Regulated (Black Warrior),Settings 2,2.0,5,0.312025
+61,regulated,Regulated (Black Warrior),Settings 2,2.0,5,0.267385
+62,regulated,Regulated (Black Warrior),Settings 2,2.0,5,0.207664
+63,regulated,Regulated (Black Warrior),Settings 2,2.0,5,0.263504
+64,regulated,Regulated (Black Warrior),Settings 2,2.0,5,0.228221
+65,regulated,Regulated (Black Warrior),Settings 2,2.0,5,0.243071
+66,regulated,Regulated (Black Warrior),Settings 2,2.0,5,0.307372
+67,regulated,Regulated (Black Warrior),Settings 2,2.0,5,0.366845
+68,regulated,Regulated (Black Warrior),Settings 2,2.0,5,0.296707
+69,regulated,Regulated (Black Warrior),Settings 2,2.0,5,0.209226
+70,regulated,Regulated (Black Warrior),Settings 2,2.0,5,0.299453
+71,regulated,Regulated (Black Warrior),Settings 2,2.0,5,0.340815
+72,regulated,Regulated (Black Warrior),Settings 2,2.0,5,0.241462
+73,regulated,Regulated (Black Warrior),Settings 2,2.0,5,0.267629
+74,regulated,Regulated (Black Warrior),Settings 2,2.0,5,0.275808
+75,regulated,Regulated (Black Warrior),Settings 2,2.0,5,0.231831
+76,regulated,Regulated (Black Warrior),Settings 2,2.0,5,0.310655
+77,regulated,Regulated (Black Warrior),Settings 2,2.0,5,0.268348
+78,regulated,Regulated (Black Warrior),Settings 2,2.0,5,0.298074
+79,regulated,Regulated (Black Warrior),Settings 2,2.0,5,0.226188
+80,regulated,Regulated (Black Warrior),Settings 2,2.0,5,0.25094
+81,regulated,Regulated (Black Warrior),Settings 2,2.0,5,0.314731
+82,regulated,Regulated (Black Warrior),Settings 2,2.0,5,0.254494
+83,regulated,Regulated (Black Warrior),Settings 2,2.0,5,0.369983
+84,regulated,Regulated (Black Warrior),Settings 2,2.0,5,0.25302
+85,regulated,Regulated (Black Warrior),Settings 2,2.0,5,0.287358
+86,regulated,Regulated (Black Warrior),Settings 2,2.0,5,0.326292
+87,regulated,Regulated (Black Warrior),Settings 2,2.0,5,0.19699
+88,regulated,Regulated (Black Warrior),Settings 2,2.0,5,0.178156
+89,regulated,Regulated (Black Warrior),Settings 2,2.0,5,0.191089
+90,regulated,Regulated (Black Warrior),Settings 2,2.0,5,0.344442
+91,regulated,Regulated (Black Warrior),Settings 2,2.0,5,0.244648
+92,regulated,Regulated (Black Warrior),Settings 2,2.0,5,0.415701
+93,regulated,Regulated (Black Warrior),Settings 2,2.0,5,0.243966
+94,regulated,Regulated (Black Warrior),Settings 2,2.0,5,0.28515
+95,regulated,Regulated (Black Warrior),Settings 2,2.0,5,0.359816
+96,regulated,Regulated (Black Warrior),Settings 2,2.0,5,0.385335
+97,regulated,Regulated (Black Warrior),Settings 2,2.0,5,0.388383
+98,regulated,Regulated (Black Warrior),Settings 2,2.0,5,0.34146
+99,regulated,Regulated (Black Warrior),Settings 2,2.0,5,0.331323
+100,regulated,Regulated (Black Warrior),Settings 2,2.0,5,0.307589
+101,regulated,Regulated (Black Warrior),Settings 2,2.0,5,0.31781
+102,regulated,Regulated (Black Warrior),Settings 2,2.0,5,0.244685
+103,regulated,Regulated (Black Warrior),Settings 2,2.0,5,0.229999
+104,regulated,Regulated (Black Warrior),Settings 2,2.0,5,0.274814
+105,regulated,Regulated (Black Warrior),Settings 2,2.0,5,0.26564
+106,regulated,Regulated (Black Warrior),Settings 2,2.0,5,0.250072
+107,regulated,Regulated (Black Warrior),Settings 2,2.0,5,0.313301
+108,regulated,Regulated (Black Warrior),Settings 2,2.0,5,0.327542
+109,regulated,Regulated (Black Warrior),Settings 2,2.0,5,0.279862
+110,regulated,Regulated (Black Warrior),Settings 2,2.0,5,0.356264
+111,regulated,Regulated (Black Warrior),Settings 2,2.0,5,0.212207
+112,regulated,Regulated (Black Warrior),Settings 2,2.0,5,0.264349
+113,regulated,Regulated (Black Warrior),Settings 2,2.0,5,0.235575
+114,regulated,Regulated (Black Warrior),Settings 2,2.0,5,0.17234
+115,regulated,Regulated (Black Warrior),Settings 2,2.0,5,0.270453
+116,regulated,Regulated (Black Warrior),Settings 2,2.0,5,0.268304
+117,regulated,Regulated (Black Warrior),Settings 2,2.0,5,0.35824
+118,regulated,Regulated (Black Warrior),Settings 2,2.0,5,0.309695
+119,regulated,Regulated (Black Warrior),Settings 2,2.0,5,0.21867
+120,regulated,Regulated (Black Warrior),Settings 2,2.0,5,0.376975
+121,regulated,Regulated (Black Warrior),Settings 2,2.0,5,0.342157
+122,regulated,Regulated (Black Warrior),Settings 2,2.0,5,0.307015
+123,regulated,Regulated (Black Warrior),Settings 2,2.0,5,0.262543
+124,regulated,Regulated (Black Warrior),Settings 2,2.0,5,0.222231
+125,regulated,Regulated (Black Warrior),Settings 2,2.0,5,0.254529
+126,regulated,Regulated (Black Warrior),Settings 2,2.0,5,0.334881
+127,regulated,Regulated (Black Warrior),Settings 2,2.0,5,0.378652
+128,regulated,Regulated (Black Warrior),Settings 2,2.0,5,0.359878
+129,regulated,Regulated (Black Warrior),Settings 2,2.0,5,0.248113
+130,regulated,Regulated (Black Warrior),Settings 2,2.0,5,0.213421
+131,regulated,Regulated (Black Warrior),Settings 2,2.0,5,0.282749
+132,regulated,Regulated (Black Warrior),Settings 2,2.0,5,0.177736
+133,regulated,Regulated (Black Warrior),Settings 2,2.0,5,0.292774
+134,regulated,Regulated (Black Warrior),Settings 2,2.0,5,0.266882
+135,regulated,Regulated (Black Warrior),Settings 2,2.0,5,0.249368
+136,regulated,Regulated (Black Warrior),Settings 2,2.0,5,0.187291
+137,regulated,Regulated (Black Warrior),Settings 2,2.0,5,0.303248
+138,regulated,Regulated (Black Warrior),Settings 2,2.0,5,0.245701
+139,regulated,Regulated (Black Warrior),Settings 2,2.0,5,0.210655
+140,regulated,Regulated (Black Warrior),Settings 2,2.0,5,0.117026
+141,regulated,Regulated (Black Warrior),Settings 2,2.0,5,0.273487
+142,regulated,Regulated (Black Warrior),Settings 2,2.0,5,0.372474
+143,regulated,Regulated (Black Warrior),Settings 2,2.0,5,0.366369
+144,regulated,Regulated (Black Warrior),Settings 2,2.0,5,0.24986
+145,regulated,Regulated (Black Warrior),Settings 2,2.0,5,0.241878
+146,regulated,Regulated (Black Warrior),Settings 2,2.0,5,0.300783
+147,regulated,Regulated (Black Warrior),Settings 2,2.0,5,0.220089
+148,regulated,Regulated (Black Warrior),Settings 2,2.0,5,0.291599
+149,regulated,Regulated (Black Warrior),Settings 2,2.0,5,0.317134
+150,regulated,Regulated (Black Warrior),Settings 2,2.0,5,0.342481
+151,regulated,Regulated (Black Warrior),Settings 2,2.0,5,0.269492
+152,regulated,Regulated (Black Warrior),Settings 2,2.0,5,0.263798
+153,regulated,Regulated (Black Warrior),Settings 2,2.0,5,0.226711
+154,regulated,Regulated (Black Warrior),Settings 2,2.0,5,0.229522
+155,regulated,Regulated (Black Warrior),Settings 2,2.0,5,0.262544
+156,regulated,Regulated (Black Warrior),Settings 2,2.0,5,0.295205
+157,regulated,Regulated (Black Warrior),Settings 2,2.0,5,0.325247
+158,regulated,Regulated (Black Warrior),Settings 2,2.0,5,0.230825
+159,regulated,Regulated (Black Warrior),Settings 2,2.0,5,0.357098
+160,regulated,Regulated (Black Warrior),Settings 2,2.0,5,0.260088
+161,regulated,Regulated (Black Warrior),Settings 2,2.0,5,0.273825
+162,regulated,Regulated (Black Warrior),Settings 2,2.0,5,0.233903
+163,regulated,Regulated (Black Warrior),Settings 2,2.0,5,0.141667
+164,regulated,Regulated (Black Warrior),Settings 2,2.0,5,0.323622
+165,regulated,Regulated (Black Warrior),Settings 2,2.0,5,0.315526
+166,regulated,Regulated (Black Warrior),Settings 2,2.0,5,0.259527
+167,regulated,Regulated (Black Warrior),Settings 2,2.0,5,0.278684
+168,regulated,Regulated (Black Warrior),Settings 2,2.0,5,0.303377
+169,regulated,Regulated (Black Warrior),Settings 2,2.0,5,0.18906
+170,regulated,Regulated (Black Warrior),Settings 2,2.0,5,0.245902
+171,regulated,Regulated (Black Warrior),Settings 2,2.0,5,0.318685
+172,regulated,Regulated (Black Warrior),Settings 2,2.0,5,0.206014
+173,regulated,Regulated (Black Warrior),Settings 2,2.0,5,0.291146
+174,regulated,Regulated (Black Warrior),Settings 2,2.0,5,0.200388
+175,regulated,Regulated (Black Warrior),Settings 2,2.0,5,0.300654
+176,regulated,Regulated (Black Warrior),Settings 2,2.0,5,0.27304
+177,regulated,Regulated (Black Warrior),Settings 2,2.0,5,0.186168
+178,regulated,Regulated (Black Warrior),Settings 2,2.0,5,0.339061
+179,regulated,Regulated (Black Warrior),Settings 2,2.0,5,0.234597
+180,regulated,Regulated (Black Warrior),Settings 2,2.0,5,0.230436
+181,regulated,Regulated (Black Warrior),Settings 2,2.0,5,0.286031
+182,regulated,Regulated (Black Warrior),Settings 2,2.0,5,0.338175
+183,regulated,Regulated (Black Warrior),Settings 2,2.0,5,0.21913
+184,regulated,Regulated (Black Warrior),Settings 2,2.0,5,0.278392
+185,regulated,Regulated (Black Warrior),Settings 2,2.0,5,0.298585
+186,regulated,Regulated (Black Warrior),Settings 2,2.0,5,0.313121
+187,regulated,Regulated (Black Warrior),Settings 2,2.0,5,0.284704
+188,regulated,Regulated (Black Warrior),Settings 2,2.0,5,0.254813
+189,regulated,Regulated (Black Warrior),Settings 2,2.0,5,0.229483
+190,regulated,Regulated (Black Warrior),Settings 2,2.0,5,0.279738
+191,regulated,Regulated (Black Warrior),Settings 2,2.0,5,0.216032
+192,regulated,Regulated (Black Warrior),Settings 2,2.0,5,0.114326
+193,regulated,Regulated (Black Warrior),Settings 2,2.0,5,0.299011
+194,regulated,Regulated (Black Warrior),Settings 2,2.0,5,0.324716
+195,regulated,Regulated (Black Warrior),Settings 2,2.0,5,0.145039
+196,regulated,Regulated (Black Warrior),Settings 2,2.0,5,0.219465
+197,regulated,Regulated (Black Warrior),Settings 2,2.0,5,0.309053
+198,regulated,Regulated (Black Warrior),Settings 2,2.0,5,0.388162
+199,regulated,Regulated (Black Warrior),Settings 2,2.0,5,0.276144
+200,regulated,Regulated (Black Warrior),Settings 2,2.0,5,0.23496
+201,regulated,Regulated (Black Warrior),Settings 2,2.0,5,0.264941
+202,regulated,Regulated (Black Warrior),Settings 2,2.0,5,0.350618
+203,regulated,Regulated (Black Warrior),Settings 2,2.0,5,0.239472
+204,regulated,Regulated (Black Warrior),Settings 2,2.0,5,0.231044
+205,regulated,Regulated (Black Warrior),Settings 2,2.0,5,0.248449
+206,regulated,Regulated (Black Warrior),Settings 2,2.0,5,0.222567
+207,regulated,Regulated (Black Warrior),Settings 2,2.0,5,0.281747
+208,regulated,Regulated (Black Warrior),Settings 2,2.0,5,0.364357
+209,regulated,Regulated (Black Warrior),Settings 2,2.0,5,0.292769
+210,regulated,Regulated (Black Warrior),Settings 2,2.0,5,0.261121
+211,regulated,Regulated (Black Warrior),Settings 2,2.0,5,0.25895
+212,regulated,Regulated (Black Warrior),Settings 2,2.0,5,0.189025
+213,regulated,Regulated (Black Warrior),Settings 2,2.0,5,0.323571
+214,regulated,Regulated (Black Warrior),Settings 2,2.0,5,0.270719
+215,regulated,Regulated (Black Warrior),Settings 2,2.0,5,0.265074
+216,regulated,Regulated (Black Warrior),Settings 2,2.0,5,0.450621
+217,regulated,Regulated (Black Warrior),Settings 2,2.0,5,0.291431
+218,regulated,Regulated (Black Warrior),Settings 2,2.0,5,0.233651
+219,regulated,Regulated (Black Warrior),Settings 2,2.0,5,0.25155
+220,regulated,Regulated (Black Warrior),Settings 2,2.0,5,0.338165
+221,regulated,Regulated (Black Warrior),Settings 2,2.0,5,0.28123
+222,regulated,Regulated (Black Warrior),Settings 2,2.0,5,0.195895
+223,regulated,Regulated (Black Warrior),Settings 2,2.0,5,0.325558
+224,regulated,Regulated (Black Warrior),Settings 2,2.0,5,0.238252
+225,regulated,Regulated (Black Warrior),Settings 2,2.0,5,0.378031
+226,regulated,Regulated (Black Warrior),Settings 2,2.0,5,0.334403
+227,regulated,Regulated (Black Warrior),Settings 2,2.0,5,0.250397
+228,regulated,Regulated (Black Warrior),Settings 2,2.0,5,0.345456
+229,regulated,Regulated (Black Warrior),Settings 2,2.0,5,0.278732
+230,regulated,Regulated (Black Warrior),Settings 2,2.0,5,0.321903
+231,regulated,Regulated (Black Warrior),Settings 2,2.0,5,0.30166
+232,regulated,Regulated (Black Warrior),Settings 2,2.0,5,0.22845
+233,regulated,Regulated (Black Warrior),Settings 2,2.0,5,0.239605
+234,regulated,Regulated (Black Warrior),Settings 2,2.0,5,0.331648
+235,regulated,Regulated (Black Warrior),Settings 2,2.0,5,0.256587
+236,regulated,Regulated (Black Warrior),Settings 2,2.0,5,0.252799
+237,regulated,Regulated (Black Warrior),Settings 2,2.0,5,0.222468
+238,regulated,Regulated (Black Warrior),Settings 2,2.0,5,0.298298
+239,regulated,Regulated (Black Warrior),Settings 2,2.0,5,0.388439
+240,regulated,Regulated (Black Warrior),Settings 2,2.0,5,0.216286
+241,regulated,Regulated (Black Warrior),Settings 2,2.0,5,0.276332
+242,regulated,Regulated (Black Warrior),Settings 2,2.0,5,0.352672
+243,regulated,Regulated (Black Warrior),Settings 2,2.0,5,0.27062
+244,regulated,Regulated (Black Warrior),Settings 2,2.0,5,0.29988
+245,regulated,Regulated (Black Warrior),Settings 2,2.0,5,0.216568
+246,regulated,Regulated (Black Warrior),Settings 2,2.0,5,0.298557
+247,regulated,Regulated (Black Warrior),Settings 2,2.0,5,0.264707
+248,regulated,Regulated (Black Warrior),Settings 2,2.0,5,0.329215
+249,regulated,Regulated (Black Warrior),Settings 2,2.0,5,0.340306
+250,regulated,Regulated (Black Warrior),Settings 2,2.0,5,0.417426
+251,regulated,Regulated (Black Warrior),Settings 2,2.0,5,0.30688
+252,regulated,Regulated (Black Warrior),Settings 2,2.0,5,0.292919
+253,regulated,Regulated (Black Warrior),Settings 2,2.0,5,0.285691
+254,regulated,Regulated (Black Warrior),Settings 2,2.0,5,0.255576
+255,regulated,Regulated (Black Warrior),Settings 2,2.0,5,0.293617
+256,regulated,Regulated (Black Warrior),Settings 2,2.0,5,0.258753
+257,regulated,Regulated (Black Warrior),Settings 2,2.0,5,0.284265
+258,regulated,Regulated (Black Warrior),Settings 2,2.0,5,0.347468
+259,regulated,Regulated (Black Warrior),Settings 2,2.0,5,0.21964
+260,regulated,Regulated (Black Warrior),Settings 2,2.0,5,0.337693
+261,regulated,Regulated (Black Warrior),Settings 2,2.0,5,0.347441
+262,regulated,Regulated (Black Warrior),Settings 2,2.0,5,0.268506
+263,regulated,Regulated (Black Warrior),Settings 2,2.0,5,0.158298
+264,regulated,Regulated (Black Warrior),Settings 2,2.0,5,0.24157
+265,regulated,Regulated (Black Warrior),Settings 2,2.0,5,0.346335
+266,regulated,Regulated (Black Warrior),Settings 2,2.0,5,0.273742
+267,regulated,Regulated (Black Warrior),Settings 2,2.0,5,0.220038
+268,regulated,Regulated (Black Warrior),Settings 2,2.0,5,0.247237
+269,regulated,Regulated (Black Warrior),Settings 2,2.0,5,0.321234
+270,regulated,Regulated (Black Warrior),Settings 2,2.0,5,0.30507
+271,regulated,Regulated (Black Warrior),Settings 2,2.0,5,0.261859
+272,regulated,Regulated (Black Warrior),Settings 2,2.0,5,0.254825
+273,regulated,Regulated (Black Warrior),Settings 2,2.0,5,0.253453
+274,regulated,Regulated (Black Warrior),Settings 2,2.0,5,0.224267
+275,regulated,Regulated (Black Warrior),Settings 2,2.0,5,0.363846
+276,regulated,Regulated (Black Warrior),Settings 2,2.0,5,0.257272
+277,regulated,Regulated (Black Warrior),Settings 2,2.0,5,0.341944
+278,regulated,Regulated (Black Warrior),Settings 2,2.0,5,0.358672
+279,regulated,Regulated (Black Warrior),Settings 2,2.0,5,0.329907
+280,regulated,Regulated (Black Warrior),Settings 2,2.0,5,0.251261
+281,regulated,Regulated (Black Warrior),Settings 2,2.0,5,0.297205
+282,regulated,Regulated (Black Warrior),Settings 2,2.0,5,0.273669
+283,regulated,Regulated (Black Warrior),Settings 2,2.0,5,0.225296
+284,regulated,Regulated (Black Warrior),Settings 2,2.0,5,0.29284
+285,regulated,Regulated (Black Warrior),Settings 2,2.0,5,0.210153
+286,regulated,Regulated (Black Warrior),Settings 2,2.0,5,0.340322
+287,regulated,Regulated (Black Warrior),Settings 2,2.0,5,0.249446
+288,regulated,Regulated (Black Warrior),Settings 2,2.0,5,0.286064
+289,regulated,Regulated (Black Warrior),Settings 2,2.0,5,0.290581
+290,regulated,Regulated (Black Warrior),Settings 2,2.0,5,0.26076
+291,regulated,Regulated (Black Warrior),Settings 2,2.0,5,0.307268
+292,regulated,Regulated (Black Warrior),Settings 2,2.0,5,0.24888
+293,regulated,Regulated (Black Warrior),Settings 2,2.0,5,0.322921
+294,regulated,Regulated (Black Warrior),Settings 2,2.0,5,0.200971
+295,regulated,Regulated (Black Warrior),Settings 2,2.0,5,0.281951
+296,regulated,Regulated (Black Warrior),Settings 2,2.0,5,0.381641
+297,regulated,Regulated (Black Warrior),Settings 2,2.0,5,0.219982
+298,regulated,Regulated (Black Warrior),Settings 2,2.0,5,0.237724
+299,regulated,Regulated (Black Warrior),Settings 2,2.0,5,0.303265
+300,regulated,Regulated (Black Warrior),Settings 2,2.0,5,0.284877
+301,regulated,Regulated (Black Warrior),Settings 2,2.0,5,0.294285
+302,regulated,Regulated (Black Warrior),Settings 2,2.0,5,0.301905
+303,regulated,Regulated (Black Warrior),Settings 2,2.0,5,0.30991
+304,regulated,Regulated (Black Warrior),Settings 2,2.0,5,0.336033
+305,regulated,Regulated (Black Warrior),Settings 2,2.0,5,0.29754
+306,regulated,Regulated (Black Warrior),Settings 2,2.0,5,0.261731
+307,regulated,Regulated (Black Warrior),Settings 2,2.0,5,0.311992
+308,regulated,Regulated (Black Warrior),Settings 2,2.0,5,0.379494
+309,regulated,Regulated (Black Warrior),Settings 2,2.0,5,0.267705
+310,regulated,Regulated (Black Warrior),Settings 2,2.0,5,0.221401
+311,regulated,Regulated (Black Warrior),Settings 2,2.0,5,0.335889
+312,regulated,Regulated (Black Warrior),Settings 2,2.0,5,0.268379
+313,regulated,Regulated (Black Warrior),Settings 2,2.0,5,0.155503
+314,regulated,Regulated (Black Warrior),Settings 2,2.0,5,0.321608
+315,regulated,Regulated (Black Warrior),Settings 2,2.0,5,0.245557
+316,regulated,Regulated (Black Warrior),Settings 2,2.0,5,0.270021
+317,regulated,Regulated (Black Warrior),Settings 2,2.0,5,0.293259
+318,regulated,Regulated (Black Warrior),Settings 2,2.0,5,0.285477
+319,regulated,Regulated (Black Warrior),Settings 2,2.0,5,0.31402
+320,regulated,Regulated (Black Warrior),Settings 2,2.0,5,0.251048
+321,regulated,Regulated (Black Warrior),Settings 2,2.0,5,0.303221
+322,regulated,Regulated (Black Warrior),Settings 2,2.0,5,0.260725
+323,regulated,Regulated (Black Warrior),Settings 2,2.0,5,0.315635
+324,regulated,Regulated (Black Warrior),Settings 2,2.0,5,0.308845
+325,regulated,Regulated (Black Warrior),Settings 2,2.0,5,0.223551
+326,regulated,Regulated (Black Warrior),Settings 2,2.0,5,0.334729
+327,regulated,Regulated (Black Warrior),Settings 2,2.0,5,0.245522
+328,regulated,Regulated (Black Warrior),Settings 2,2.0,5,0.319443
+329,regulated,Regulated (Black Warrior),Settings 2,2.0,5,0.295201
+330,regulated,Regulated (Black Warrior),Settings 2,2.0,5,0.3761
+331,regulated,Regulated (Black Warrior),Settings 2,2.0,5,0.262709
+332,regulated,Regulated (Black Warrior),Settings 2,2.0,5,0.255788
+333,regulated,Regulated (Black Warrior),Settings 2,2.0,5,0.273932
+334,regulated,Regulated (Black Warrior),Settings 2,2.0,5,0.258325
+335,regulated,Regulated (Black Warrior),Settings 2,2.0,5,0.318997
+336,regulated,Regulated (Black Warrior),Settings 2,2.0,5,0.186103
+337,regulated,Regulated (Black Warrior),Settings 2,2.0,5,0.217047
+338,regulated,Regulated (Black Warrior),Settings 2,2.0,5,0.216271
+339,regulated,Regulated (Black Warrior),Settings 2,2.0,5,0.327267
+340,regulated,Regulated (Black Warrior),Settings 2,2.0,5,0.369084
+341,regulated,Regulated (Black Warrior),Settings 2,2.0,5,0.269255
+342,regulated,Regulated (Black Warrior),Settings 2,2.0,5,0.265715
+343,regulated,Regulated (Black Warrior),Settings 2,2.0,5,0.278853
+344,regulated,Regulated (Black Warrior),Settings 2,2.0,5,0.338903
+345,regulated,Regulated (Black Warrior),Settings 2,2.0,5,0.223996
+346,regulated,Regulated (Black Warrior),Settings 2,2.0,5,0.28811
+347,regulated,Regulated (Black Warrior),Settings 2,2.0,5,0.328636
+348,regulated,Regulated (Black Warrior),Settings 2,2.0,5,0.30256
+349,regulated,Regulated (Black Warrior),Settings 2,2.0,5,0.285427
+350,regulated,Regulated (Black Warrior),Settings 2,2.0,5,0.330058
+351,regulated,Regulated (Black Warrior),Settings 2,2.0,5,0.126322
+352,regulated,Regulated (Black Warrior),Settings 2,2.0,5,0.312283
+353,regulated,Regulated (Black Warrior),Settings 2,2.0,5,0.239026
+354,regulated,Regulated (Black Warrior),Settings 2,2.0,5,0.174315
+355,regulated,Regulated (Black Warrior),Settings 2,2.0,5,0.303116
+356,regulated,Regulated (Black Warrior),Settings 2,2.0,5,0.350551
+357,regulated,Regulated (Black Warrior),Settings 2,2.0,5,0.26744
+358,regulated,Regulated (Black Warrior),Settings 2,2.0,5,0.327408
+359,regulated,Regulated (Black Warrior),Settings 2,2.0,5,0.363675
+360,regulated,Regulated (Black Warrior),Settings 2,2.0,5,0.34732
+361,regulated,Regulated (Black Warrior),Settings 2,2.0,5,0.365198
+362,regulated,Regulated (Black Warrior),Settings 2,2.0,5,0.315817
+363,regulated,Regulated (Black Warrior),Settings 2,2.0,5,0.279149
+364,regulated,Regulated (Black Warrior),Settings 2,2.0,5,0.186892
+365,regulated,Regulated (Black Warrior),Settings 2,2.0,5,0.261467
+366,regulated,Regulated (Black Warrior),Settings 2,2.0,5,0.228621
+367,regulated,Regulated (Black Warrior),Settings 2,2.0,5,0.394402
+368,regulated,Regulated (Black Warrior),Settings 2,2.0,5,0.265326
+369,regulated,Regulated (Black Warrior),Settings 2,2.0,5,0.281776
+370,regulated,Regulated (Black Warrior),Settings 2,2.0,5,0.305332
+371,regulated,Regulated (Black Warrior),Settings 2,2.0,5,0.277398
+372,regulated,Regulated (Black Warrior),Settings 2,2.0,5,0.368228
+373,regulated,Regulated (Black Warrior),Settings 2,2.0,5,0.240754
+374,regulated,Regulated (Black Warrior),Settings 2,2.0,5,0.285703
+375,regulated,Regulated (Black Warrior),Settings 2,2.0,5,0.234164
+376,regulated,Regulated (Black Warrior),Settings 2,2.0,5,0.202399
+377,regulated,Regulated (Black Warrior),Settings 2,2.0,5,0.241353
+378,regulated,Regulated (Black Warrior),Settings 2,2.0,5,0.272963
+379,regulated,Regulated (Black Warrior),Settings 2,2.0,5,0.251388
+380,regulated,Regulated (Black Warrior),Settings 2,2.0,5,0.236917
+381,regulated,Regulated (Black Warrior),Settings 2,2.0,5,0.197653
+382,regulated,Regulated (Black Warrior),Settings 2,2.0,5,0.270429
+383,regulated,Regulated (Black Warrior),Settings 2,2.0,5,0.19224
+384,regulated,Regulated (Black Warrior),Settings 2,2.0,5,0.316803
+385,regulated,Regulated (Black Warrior),Settings 2,2.0,5,0.279534
+386,regulated,Regulated (Black Warrior),Settings 2,2.0,5,0.194835
+387,regulated,Regulated (Black Warrior),Settings 2,2.0,5,0.257994
+388,regulated,Regulated (Black Warrior),Settings 2,2.0,5,0.233631
+389,regulated,Regulated (Black Warrior),Settings 2,2.0,5,0.292555
+390,regulated,Regulated (Black Warrior),Settings 2,2.0,5,0.348725
+391,regulated,Regulated (Black Warrior),Settings 2,2.0,5,0.171866
+392,regulated,Regulated (Black Warrior),Settings 2,2.0,5,0.281326
+393,regulated,Regulated (Black Warrior),Settings 2,2.0,5,0.266193
+394,regulated,Regulated (Black Warrior),Settings 2,2.0,5,0.311924
+395,regulated,Regulated (Black Warrior),Settings 2,2.0,5,0.286726
+396,regulated,Regulated (Black Warrior),Settings 2,2.0,5,0.233642
+397,regulated,Regulated (Black Warrior),Settings 2,2.0,5,0.257452
+398,regulated,Regulated (Black Warrior),Settings 2,2.0,5,0.231219
+399,regulated,Regulated (Black Warrior),Settings 2,2.0,5,0.33418
+400,regulated,Regulated (Black Warrior),Settings 2,2.0,5,0.276172
+401,regulated,Regulated (Black Warrior),Settings 2,2.0,5,0.379565
+402,regulated,Regulated (Black Warrior),Settings 2,2.0,5,0.271664
+403,regulated,Regulated (Black Warrior),Settings 2,2.0,5,0.236038
+404,regulated,Regulated (Black Warrior),Settings 2,2.0,5,0.191746
+405,regulated,Regulated (Black Warrior),Settings 2,2.0,5,0.175827
+406,regulated,Regulated (Black Warrior),Settings 2,2.0,5,0.187873
+407,regulated,Regulated (Black Warrior),Settings 2,2.0,5,0.289692
+408,regulated,Regulated (Black Warrior),Settings 2,2.0,5,0.30298
+409,regulated,Regulated (Black Warrior),Settings 2,2.0,5,0.188035
+410,regulated,Regulated (Black Warrior),Settings 2,2.0,5,0.324227
+411,regulated,Regulated (Black Warrior),Settings 2,2.0,5,0.248432
+412,regulated,Regulated (Black Warrior),Settings 2,2.0,5,0.283074
+413,regulated,Regulated (Black Warrior),Settings 2,2.0,5,0.363672
+414,regulated,Regulated (Black Warrior),Settings 2,2.0,5,0.324326
+415,regulated,Regulated (Black Warrior),Settings 2,2.0,5,0.260231
+416,regulated,Regulated (Black Warrior),Settings 2,2.0,5,0.225984
+417,regulated,Regulated (Black Warrior),Settings 2,2.0,5,0.15665
+418,regulated,Regulated (Black Warrior),Settings 2,2.0,5,0.235447
+419,regulated,Regulated (Black Warrior),Settings 2,2.0,5,0.263388
+420,regulated,Regulated (Black Warrior),Settings 2,2.0,5,0.220705
+421,regulated,Regulated (Black Warrior),Settings 2,2.0,5,0.267781
+422,regulated,Regulated (Black Warrior),Settings 2,2.0,5,0.279227
+423,regulated,Regulated (Black Warrior),Settings 2,2.0,5,0.262633
+424,regulated,Regulated (Black Warrior),Settings 2,2.0,5,0.23925
+425,regulated,Regulated (Black Warrior),Settings 2,2.0,5,0.284276
+426,regulated,Regulated (Black Warrior),Settings 2,2.0,5,0.299307
+427,regulated,Regulated (Black Warrior),Settings 2,2.0,5,0.215028
+428,regulated,Regulated (Black Warrior),Settings 2,2.0,5,0.352601
+429,regulated,Regulated (Black Warrior),Settings 2,2.0,5,0.269578
+430,regulated,Regulated (Black Warrior),Settings 2,2.0,5,0.276037
+431,regulated,Regulated (Black Warrior),Settings 2,2.0,5,0.313952
+432,regulated,Regulated (Black Warrior),Settings 2,2.0,5,0.287827
+433,regulated,Regulated (Black Warrior),Settings 2,2.0,5,0.327423
+434,regulated,Regulated (Black Warrior),Settings 2,2.0,5,0.290792
+435,regulated,Regulated (Black Warrior),Settings 2,2.0,5,0.241316
+436,regulated,Regulated (Black Warrior),Settings 2,2.0,5,0.294883
+437,regulated,Regulated (Black Warrior),Settings 2,2.0,5,0.212095
+438,regulated,Regulated (Black Warrior),Settings 2,2.0,5,0.280971
+439,regulated,Regulated (Black Warrior),Settings 2,2.0,5,0.273172
+440,regulated,Regulated (Black Warrior),Settings 2,2.0,5,0.263554
+441,regulated,Regulated (Black Warrior),Settings 2,2.0,5,0.26793
+442,regulated,Regulated (Black Warrior),Settings 2,2.0,5,0.171498
+443,regulated,Regulated (Black Warrior),Settings 2,2.0,5,0.24482
+444,regulated,Regulated (Black Warrior),Settings 2,2.0,5,0.280106
+445,regulated,Regulated (Black Warrior),Settings 2,2.0,5,0.283792
+446,regulated,Regulated (Black Warrior),Settings 2,2.0,5,0.218478
+447,regulated,Regulated (Black Warrior),Settings 2,2.0,5,0.344614
+448,regulated,Regulated (Black Warrior),Settings 2,2.0,5,0.22736
+449,regulated,Regulated (Black Warrior),Settings 2,2.0,5,0.32832
+450,regulated,Regulated (Black Warrior),Settings 2,2.0,5,0.298496
+451,regulated,Regulated (Black Warrior),Settings 2,2.0,5,0.239457
+452,regulated,Regulated (Black Warrior),Settings 2,2.0,5,0.372642
+453,regulated,Regulated (Black Warrior),Settings 2,2.0,5,0.20935
+454,regulated,Regulated (Black Warrior),Settings 2,2.0,5,0.325553
+455,regulated,Regulated (Black Warrior),Settings 2,2.0,5,0.330032
+456,regulated,Regulated (Black Warrior),Settings 2,2.0,5,0.238116
+457,regulated,Regulated (Black Warrior),Settings 2,2.0,5,0.351586
+458,regulated,Regulated (Black Warrior),Settings 2,2.0,5,0.261247
+459,regulated,Regulated (Black Warrior),Settings 2,2.0,5,0.290878
+460,regulated,Regulated (Black Warrior),Settings 2,2.0,5,0.289318
+461,regulated,Regulated (Black Warrior),Settings 2,2.0,5,0.267613
+462,regulated,Regulated (Black Warrior),Settings 2,2.0,5,0.319594
+463,regulated,Regulated (Black Warrior),Settings 2,2.0,5,0.318642
+464,regulated,Regulated (Black Warrior),Settings 2,2.0,5,0.178831
+465,regulated,Regulated (Black Warrior),Settings 2,2.0,5,0.346739
+466,regulated,Regulated (Black Warrior),Settings 2,2.0,5,0.183563
+467,regulated,Regulated (Black Warrior),Settings 2,2.0,5,0.33179
+468,regulated,Regulated (Black Warrior),Settings 2,2.0,5,0.336969
+469,regulated,Regulated (Black Warrior),Settings 2,2.0,5,0.214997
+470,regulated,Regulated (Black Warrior),Settings 2,2.0,5,0.252405
+471,regulated,Regulated (Black Warrior),Settings 2,2.0,5,0.214186
+472,regulated,Regulated (Black Warrior),Settings 2,2.0,5,0.263179
+473,regulated,Regulated (Black Warrior),Settings 2,2.0,5,0.258058
+474,regulated,Regulated (Black Warrior),Settings 2,2.0,5,0.317881
+475,regulated,Regulated (Black Warrior),Settings 2,2.0,5,0.347067
+476,regulated,Regulated (Black Warrior),Settings 2,2.0,5,0.351763
+477,regulated,Regulated (Black Warrior),Settings 2,2.0,5,0.244081
+478,regulated,Regulated (Black Warrior),Settings 2,2.0,5,0.263493
+479,regulated,Regulated (Black Warrior),Settings 2,2.0,5,0.182411
+480,regulated,Regulated (Black Warrior),Settings 2,2.0,5,0.230677
+481,regulated,Regulated (Black Warrior),Settings 2,2.0,5,0.328067
+482,regulated,Regulated (Black Warrior),Settings 2,2.0,5,0.363857
+483,regulated,Regulated (Black Warrior),Settings 2,2.0,5,0.207111
+484,regulated,Regulated (Black Warrior),Settings 2,2.0,5,0.242414
+485,regulated,Regulated (Black Warrior),Settings 2,2.0,5,0.273548
+486,regulated,Regulated (Black Warrior),Settings 2,2.0,5,0.290409
+487,regulated,Regulated (Black Warrior),Settings 2,2.0,5,0.230472
+488,regulated,Regulated (Black Warrior),Settings 2,2.0,5,0.298323
+489,regulated,Regulated (Black Warrior),Settings 2,2.0,5,0.248939
+490,regulated,Regulated (Black Warrior),Settings 2,2.0,5,0.274205
+491,regulated,Regulated (Black Warrior),Settings 2,2.0,5,0.305046
+492,regulated,Regulated (Black Warrior),Settings 2,2.0,5,0.275353
+493,regulated,Regulated (Black Warrior),Settings 2,2.0,5,0.250999
+494,regulated,Regulated (Black Warrior),Settings 2,2.0,5,0.268971
+495,regulated,Regulated (Black Warrior),Settings 2,2.0,5,0.27014
+496,regulated,Regulated (Black Warrior),Settings 2,2.0,5,0.254649
+497,regulated,Regulated (Black Warrior),Settings 2,2.0,5,0.260766
+498,regulated,Regulated (Black Warrior),Settings 2,2.0,5,0.362926
+499,regulated,Regulated (Black Warrior),Settings 2,2.0,5,0.305851
+500,regulated,Regulated (Black Warrior),Settings 2,2.0,5,0.258749
+501,regulated,Regulated (Black Warrior),Settings 2,2.0,5,0.313332
+502,regulated,Regulated (Black Warrior),Settings 2,2.0,5,0.25664
+503,regulated,Regulated (Black Warrior),Settings 2,2.0,5,0.339522
+504,regulated,Regulated (Black Warrior),Settings 2,2.0,5,0.29533
+505,regulated,Regulated (Black Warrior),Settings 2,2.0,5,0.269098
+506,regulated,Regulated (Black Warrior),Settings 2,2.0,5,0.299624
+507,regulated,Regulated (Black Warrior),Settings 2,2.0,5,0.188602
+508,regulated,Regulated (Black Warrior),Settings 2,2.0,5,0.213028
+509,regulated,Regulated (Black Warrior),Settings 2,2.0,5,0.209334
+510,regulated,Regulated (Black Warrior),Settings 2,2.0,5,0.282862
+511,regulated,Regulated (Black Warrior),Settings 2,2.0,5,0.370288
+512,regulated,Regulated (Black Warrior),Settings 2,2.0,5,0.397722
+513,regulated,Regulated (Black Warrior),Settings 2,2.0,5,0.310093
+514,regulated,Regulated (Black Warrior),Settings 2,2.0,5,0.302546
+515,regulated,Regulated (Black Warrior),Settings 2,2.0,5,0.175942
+516,regulated,Regulated (Black Warrior),Settings 2,2.0,5,0.245153
+517,regulated,Regulated (Black Warrior),Settings 2,2.0,5,0.231672
+518,regulated,Regulated (Black Warrior),Settings 2,2.0,5,0.240853
+519,regulated,Regulated (Black Warrior),Settings 2,2.0,5,0.265752
+520,regulated,Regulated (Black Warrior),Settings 2,2.0,5,0.249035
+521,regulated,Regulated (Black Warrior),Settings 2,2.0,5,0.166139
+522,regulated,Regulated (Black Warrior),Settings 2,2.0,5,0.316135
+523,regulated,Regulated (Black Warrior),Settings 2,2.0,5,0.215999
+524,regulated,Regulated (Black Warrior),Settings 2,2.0,5,0.288159
+525,regulated,Regulated (Black Warrior),Settings 2,2.0,5,0.389075
+526,regulated,Regulated (Black Warrior),Settings 2,2.0,5,0.224434
+527,regulated,Regulated (Black Warrior),Settings 2,2.0,5,0.135834
+528,regulated,Regulated (Black Warrior),Settings 2,2.0,5,0.25927
+529,regulated,Regulated (Black Warrior),Settings 2,2.0,5,0.335553
+530,regulated,Regulated (Black Warrior),Settings 2,2.0,5,0.382709
+531,regulated,Regulated (Black Warrior),Settings 2,2.0,5,0.207375
+532,regulated,Regulated (Black Warrior),Settings 2,2.0,5,0.302318
+533,regulated,Regulated (Black Warrior),Settings 2,2.0,5,0.249408
+534,regulated,Regulated (Black Warrior),Settings 2,2.0,5,0.269173
+535,regulated,Regulated (Black Warrior),Settings 2,2.0,5,0.420439
+536,regulated,Regulated (Black Warrior),Settings 2,2.0,5,0.192337
+537,regulated,Regulated (Black Warrior),Settings 2,2.0,5,0.288956
+538,regulated,Regulated (Black Warrior),Settings 2,2.0,5,0.300723
+539,regulated,Regulated (Black Warrior),Settings 2,2.0,5,0.334718
+540,regulated,Regulated (Black Warrior),Settings 2,2.0,5,0.280389
+541,regulated,Regulated (Black Warrior),Settings 2,2.0,5,0.291943
+542,regulated,Regulated (Black Warrior),Settings 2,2.0,5,0.253459
+543,regulated,Regulated (Black Warrior),Settings 2,2.0,5,0.289802
+544,regulated,Regulated (Black Warrior),Settings 2,2.0,5,0.256124
+545,regulated,Regulated (Black Warrior),Settings 2,2.0,5,0.309186
+546,regulated,Regulated (Black Warrior),Settings 2,2.0,5,0.254671
+547,regulated,Regulated (Black Warrior),Settings 2,2.0,5,0.295741
+548,regulated,Regulated (Black Warrior),Settings 2,2.0,5,0.273391
+549,regulated,Regulated (Black Warrior),Settings 2,2.0,5,0.336933
+550,regulated,Regulated (Black Warrior),Settings 2,2.0,5,0.272173
+551,regulated,Regulated (Black Warrior),Settings 2,2.0,5,0.177483
+552,regulated,Regulated (Black Warrior),Settings 2,2.0,5,0.344406
+553,regulated,Regulated (Black Warrior),Settings 2,2.0,5,0.225185
+554,regulated,Regulated (Black Warrior),Settings 2,2.0,5,0.239043
+555,regulated,Regulated (Black Warrior),Settings 2,2.0,5,0.242239
+556,regulated,Regulated (Black Warrior),Settings 2,2.0,5,0.350594
+557,regulated,Regulated (Black Warrior),Settings 2,2.0,5,0.157538
+558,regulated,Regulated (Black Warrior),Settings 2,2.0,5,0.447576
+559,regulated,Regulated (Black Warrior),Settings 2,2.0,5,0.333083
+560,regulated,Regulated (Black Warrior),Settings 2,2.0,5,0.287278
+561,regulated,Regulated (Black Warrior),Settings 2,2.0,5,0.271981
+562,regulated,Regulated (Black Warrior),Settings 2,2.0,5,0.290705
+563,regulated,Regulated (Black Warrior),Settings 2,2.0,5,0.303662
+564,regulated,Regulated (Black Warrior),Settings 2,2.0,5,0.310487
+565,regulated,Regulated (Black Warrior),Settings 2,2.0,5,0.305558
+566,regulated,Regulated (Black Warrior),Settings 2,2.0,5,0.279927
+567,regulated,Regulated (Black Warrior),Settings 2,2.0,5,0.264146
+568,regulated,Regulated (Black Warrior),Settings 2,2.0,5,0.26668
+569,regulated,Regulated (Black Warrior),Settings 2,2.0,5,0.26428
+570,regulated,Regulated (Black Warrior),Settings 2,2.0,5,0.337357
+571,regulated,Regulated (Black Warrior),Settings 2,2.0,5,0.307646
+572,regulated,Regulated (Black Warrior),Settings 2,2.0,5,0.113279
+573,regulated,Regulated (Black Warrior),Settings 2,2.0,5,0.311075
+574,regulated,Regulated (Black Warrior),Settings 2,2.0,5,0.28571
+575,regulated,Regulated (Black Warrior),Settings 2,2.0,5,0.273971
+576,regulated,Regulated (Black Warrior),Settings 2,2.0,5,0.253631
+577,regulated,Regulated (Black Warrior),Settings 2,2.0,5,0.336826
+578,regulated,Regulated (Black Warrior),Settings 2,2.0,5,0.327114
+579,regulated,Regulated (Black Warrior),Settings 2,2.0,5,0.232492
+580,regulated,Regulated (Black Warrior),Settings 2,2.0,5,0.297388
+581,regulated,Regulated (Black Warrior),Settings 2,2.0,5,0.221559
+582,regulated,Regulated (Black Warrior),Settings 2,2.0,5,0.199121
+583,regulated,Regulated (Black Warrior),Settings 2,2.0,5,0.240531
+584,regulated,Regulated (Black Warrior),Settings 2,2.0,5,0.322432
+585,regulated,Regulated (Black Warrior),Settings 2,2.0,5,0.327422
+586,regulated,Regulated (Black Warrior),Settings 2,2.0,5,0.30322
+587,regulated,Regulated (Black Warrior),Settings 2,2.0,5,0.31488
+588,regulated,Regulated (Black Warrior),Settings 2,2.0,5,0.30339
+589,regulated,Regulated (Black Warrior),Settings 2,2.0,5,0.239719
+590,regulated,Regulated (Black Warrior),Settings 2,2.0,5,0.298756
+591,regulated,Regulated (Black Warrior),Settings 2,2.0,5,0.319023
+592,regulated,Regulated (Black Warrior),Settings 2,2.0,5,0.316486
+593,regulated,Regulated (Black Warrior),Settings 2,2.0,5,0.34039
+594,regulated,Regulated (Black Warrior),Settings 2,2.0,5,0.313957
+595,regulated,Regulated (Black Warrior),Settings 2,2.0,5,0.29433
+596,regulated,Regulated (Black Warrior),Settings 2,2.0,5,0.333858
+597,regulated,Regulated (Black Warrior),Settings 2,2.0,5,0.273541
+598,regulated,Regulated (Black Warrior),Settings 2,2.0,5,0.226497
+599,regulated,Regulated (Black Warrior),Settings 2,2.0,5,0.266031
+600,regulated,Regulated (Black Warrior),Settings 2,2.0,5,0.23403
+601,regulated,Regulated (Black Warrior),Settings 2,2.0,5,0.237865
+602,regulated,Regulated (Black Warrior),Settings 2,2.0,5,0.267051
+603,regulated,Regulated (Black Warrior),Settings 2,2.0,5,0.231417
+604,regulated,Regulated (Black Warrior),Settings 2,2.0,5,0.258062
+605,regulated,Regulated (Black Warrior),Settings 2,2.0,5,0.170851
+606,regulated,Regulated (Black Warrior),Settings 2,2.0,5,0.286731
+607,regulated,Regulated (Black Warrior),Settings 2,2.0,5,0.275066
+608,regulated,Regulated (Black Warrior),Settings 2,2.0,5,0.23006
+609,regulated,Regulated (Black Warrior),Settings 2,2.0,5,0.311259
+610,regulated,Regulated (Black Warrior),Settings 2,2.0,5,0.326566
+611,regulated,Regulated (Black Warrior),Settings 2,2.0,5,0.186584
+612,regulated,Regulated (Black Warrior),Settings 2,2.0,5,0.23305
+613,regulated,Regulated (Black Warrior),Settings 2,2.0,5,0.232697
+614,regulated,Regulated (Black Warrior),Settings 2,2.0,5,0.223305
+615,regulated,Regulated (Black Warrior),Settings 2,2.0,5,0.320621
+616,regulated,Regulated (Black Warrior),Settings 2,2.0,5,0.26434
+617,regulated,Regulated (Black Warrior),Settings 2,2.0,5,0.260452
+618,regulated,Regulated (Black Warrior),Settings 2,2.0,5,0.164788
+619,regulated,Regulated (Black Warrior),Settings 2,2.0,5,0.309948
+620,regulated,Regulated (Black Warrior),Settings 2,2.0,5,0.206841
+621,regulated,Regulated (Black Warrior),Settings 2,2.0,5,0.278296
+622,regulated,Regulated (Black Warrior),Settings 2,2.0,5,0.290256
+623,regulated,Regulated (Black Warrior),Settings 2,2.0,5,0.349836
+624,regulated,Regulated (Black Warrior),Settings 2,2.0,5,0.203015
+625,regulated,Regulated (Black Warrior),Settings 2,2.0,5,0.108927
+626,regulated,Regulated (Black Warrior),Settings 2,2.0,5,0.285112
+627,regulated,Regulated (Black Warrior),Settings 2,2.0,5,0.374028
+628,regulated,Regulated (Black Warrior),Settings 2,2.0,5,0.343142
+629,regulated,Regulated (Black Warrior),Settings 2,2.0,5,0.286531
+630,regulated,Regulated (Black Warrior),Settings 2,2.0,5,0.24796
+631,regulated,Regulated (Black Warrior),Settings 2,2.0,5,0.319392
+632,regulated,Regulated (Black Warrior),Settings 2,2.0,5,0.221455
+633,regulated,Regulated (Black Warrior),Settings 2,2.0,5,0.3012
+634,regulated,Regulated (Black Warrior),Settings 2,2.0,5,0.302801
+635,regulated,Regulated (Black Warrior),Settings 2,2.0,5,0.333312
+636,regulated,Regulated (Black Warrior),Settings 2,2.0,5,0.426781
+637,regulated,Regulated (Black Warrior),Settings 2,2.0,5,0.296583
+638,regulated,Regulated (Black Warrior),Settings 2,2.0,5,0.247007
+639,regulated,Regulated (Black Warrior),Settings 2,2.0,5,0.273593
+640,regulated,Regulated (Black Warrior),Settings 2,2.0,5,0.177701
+641,regulated,Regulated (Black Warrior),Settings 2,2.0,5,0.236791
+642,regulated,Regulated (Black Warrior),Settings 2,2.0,5,0.252489
+643,regulated,Regulated (Black Warrior),Settings 2,2.0,5,0.246175
+644,regulated,Regulated (Black Warrior),Settings 2,2.0,5,0.28338
+645,regulated,Regulated (Black Warrior),Settings 2,2.0,5,0.229767
+646,regulated,Regulated (Black Warrior),Settings 2,2.0,5,0.336657
+647,regulated,Regulated (Black Warrior),Settings 2,2.0,5,0.275011
+648,regulated,Regulated (Black Warrior),Settings 2,2.0,5,0.274488
+649,regulated,Regulated (Black Warrior),Settings 2,2.0,5,0.256966
+650,regulated,Regulated (Black Warrior),Settings 2,2.0,5,0.283535
+651,regulated,Regulated (Black Warrior),Settings 2,2.0,5,0.32038
+652,regulated,Regulated (Black Warrior),Settings 2,2.0,5,0.227308
+653,regulated,Regulated (Black Warrior),Settings 2,2.0,5,0.238804
+654,regulated,Regulated (Black Warrior),Settings 2,2.0,5,0.258295
+655,regulated,Regulated (Black Warrior),Settings 2,2.0,5,0.200977
+656,regulated,Regulated (Black Warrior),Settings 2,2.0,5,0.229941
+657,regulated,Regulated (Black Warrior),Settings 2,2.0,5,0.248808
+658,regulated,Regulated (Black Warrior),Settings 2,2.0,5,0.323091
+659,regulated,Regulated (Black Warrior),Settings 2,2.0,5,0.289441
+660,regulated,Regulated (Black Warrior),Settings 2,2.0,5,0.285647
+661,regulated,Regulated (Black Warrior),Settings 2,2.0,5,0.321799
+662,regulated,Regulated (Black Warrior),Settings 2,2.0,5,0.267445
+663,regulated,Regulated (Black Warrior),Settings 2,2.0,5,0.296476
+664,regulated,Regulated (Black Warrior),Settings 2,2.0,5,0.269323
+665,regulated,Regulated (Black Warrior),Settings 2,2.0,5,0.289595
+666,regulated,Regulated (Black Warrior),Settings 2,2.0,5,0.242948
+667,regulated,Regulated (Black Warrior),Settings 2,2.0,5,0.140865
+668,regulated,Regulated (Black Warrior),Settings 2,2.0,5,0.267615
+669,regulated,Regulated (Black Warrior),Settings 2,2.0,5,0.353251
+670,regulated,Regulated (Black Warrior),Settings 2,2.0,5,0.325942
+671,regulated,Regulated (Black Warrior),Settings 2,2.0,5,0.328097
+672,regulated,Regulated (Black Warrior),Settings 2,2.0,5,0.342987
+673,regulated,Regulated (Black Warrior),Settings 2,2.0,5,0.279876
+674,regulated,Regulated (Black Warrior),Settings 2,2.0,5,0.285852
+675,regulated,Regulated (Black Warrior),Settings 2,2.0,5,0.241029
+676,regulated,Regulated (Black Warrior),Settings 2,2.0,5,0.257616
+677,regulated,Regulated (Black Warrior),Settings 2,2.0,5,0.308867
+678,regulated,Regulated (Black Warrior),Settings 2,2.0,5,0.341214
+679,regulated,Regulated (Black Warrior),Settings 2,2.0,5,0.26733
+680,regulated,Regulated (Black Warrior),Settings 2,2.0,5,0.25024
+681,regulated,Regulated (Black Warrior),Settings 2,2.0,5,0.275029
+682,regulated,Regulated (Black Warrior),Settings 2,2.0,5,0.308066
+683,regulated,Regulated (Black Warrior),Settings 2,2.0,5,0.195588
+684,regulated,Regulated (Black Warrior),Settings 2,2.0,5,0.14871
+685,regulated,Regulated (Black Warrior),Settings 2,2.0,5,0.24472
+686,regulated,Regulated (Black Warrior),Settings 2,2.0,5,0.207861
+687,regulated,Regulated (Black Warrior),Settings 2,2.0,5,0.247052
+688,regulated,Regulated (Black Warrior),Settings 2,2.0,5,0.266872
+689,regulated,Regulated (Black Warrior),Settings 2,2.0,5,0.250071
+690,regulated,Regulated (Black Warrior),Settings 2,2.0,5,0.354886
+691,regulated,Regulated (Black Warrior),Settings 2,2.0,5,0.292971
+692,regulated,Regulated (Black Warrior),Settings 2,2.0,5,0.291526
+693,regulated,Regulated (Black Warrior),Settings 2,2.0,5,0.309221
+694,regulated,Regulated (Black Warrior),Settings 2,2.0,5,0.212364
+695,regulated,Regulated (Black Warrior),Settings 2,2.0,5,0.332151
+696,regulated,Regulated (Black Warrior),Settings 2,2.0,5,0.270833
+697,regulated,Regulated (Black Warrior),Settings 2,2.0,5,0.311876
+698,regulated,Regulated (Black Warrior),Settings 2,2.0,5,0.216048
+699,regulated,Regulated (Black Warrior),Settings 2,2.0,5,0.189543
+700,regulated,Regulated (Black Warrior),Settings 2,2.0,5,0.319984
+1,unregulated,Unregulated (Cahaba),Settings 2,2.0,5,0.290703
+2,unregulated,Unregulated (Cahaba),Settings 2,2.0,5,0.220387
+3,unregulated,Unregulated (Cahaba),Settings 2,2.0,5,0.222169
+4,unregulated,Unregulated (Cahaba),Settings 2,2.0,5,0.331899
+5,unregulated,Unregulated (Cahaba),Settings 2,2.0,5,0.204582
+6,unregulated,Unregulated (Cahaba),Settings 2,2.0,5,0.360347
+7,unregulated,Unregulated (Cahaba),Settings 2,2.0,5,0.220466
+8,unregulated,Unregulated (Cahaba),Settings 2,2.0,5,0.305112
+9,unregulated,Unregulated (Cahaba),Settings 2,2.0,5,0.251926
+10,unregulated,Unregulated (Cahaba),Settings 2,2.0,5,0.303175
+11,unregulated,Unregulated (Cahaba),Settings 2,2.0,5,0.240074
+12,unregulated,Unregulated (Cahaba),Settings 2,2.0,5,0.261046
+13,unregulated,Unregulated (Cahaba),Settings 2,2.0,5,0.272251
+14,unregulated,Unregulated (Cahaba),Settings 2,2.0,5,0.21488
+15,unregulated,Unregulated (Cahaba),Settings 2,2.0,5,0.310745
+16,unregulated,Unregulated (Cahaba),Settings 2,2.0,5,0.241773
+17,unregulated,Unregulated (Cahaba),Settings 2,2.0,5,0.257427
+18,unregulated,Unregulated (Cahaba),Settings 2,2.0,5,0.215311
+19,unregulated,Unregulated (Cahaba),Settings 2,2.0,5,0.129072
+20,unregulated,Unregulated (Cahaba),Settings 2,2.0,5,0.259493
+21,unregulated,Unregulated (Cahaba),Settings 2,2.0,5,0.402694
+22,unregulated,Unregulated (Cahaba),Settings 2,2.0,5,0.313153
+23,unregulated,Unregulated (Cahaba),Settings 2,2.0,5,0.268941
+24,unregulated,Unregulated (Cahaba),Settings 2,2.0,5,0.255541
+25,unregulated,Unregulated (Cahaba),Settings 2,2.0,5,0.271236
+26,unregulated,Unregulated (Cahaba),Settings 2,2.0,5,0.300092
+27,unregulated,Unregulated (Cahaba),Settings 2,2.0,5,0.205055
+28,unregulated,Unregulated (Cahaba),Settings 2,2.0,5,0.331288
+29,unregulated,Unregulated (Cahaba),Settings 2,2.0,5,0.309346
+30,unregulated,Unregulated (Cahaba),Settings 2,2.0,5,0.3095
+31,unregulated,Unregulated (Cahaba),Settings 2,2.0,5,0.294116
+32,unregulated,Unregulated (Cahaba),Settings 2,2.0,5,0.271079
+33,unregulated,Unregulated (Cahaba),Settings 2,2.0,5,0.307007
+34,unregulated,Unregulated (Cahaba),Settings 2,2.0,5,0.30255
+35,unregulated,Unregulated (Cahaba),Settings 2,2.0,5,0.250528
+36,unregulated,Unregulated (Cahaba),Settings 2,2.0,5,0.238452
+37,unregulated,Unregulated (Cahaba),Settings 2,2.0,5,0.275602
+38,unregulated,Unregulated (Cahaba),Settings 2,2.0,5,0.355196
+39,unregulated,Unregulated (Cahaba),Settings 2,2.0,5,0.201849
+40,unregulated,Unregulated (Cahaba),Settings 2,2.0,5,0.189286
+41,unregulated,Unregulated (Cahaba),Settings 2,2.0,5,0.279062
+42,unregulated,Unregulated (Cahaba),Settings 2,2.0,5,0.272799
+43,unregulated,Unregulated (Cahaba),Settings 2,2.0,5,0.279534
+44,unregulated,Unregulated (Cahaba),Settings 2,2.0,5,0.283417
+45,unregulated,Unregulated (Cahaba),Settings 2,2.0,5,0.257724
+46,unregulated,Unregulated (Cahaba),Settings 2,2.0,5,0.351942
+47,unregulated,Unregulated (Cahaba),Settings 2,2.0,5,0.18195
+48,unregulated,Unregulated (Cahaba),Settings 2,2.0,5,0.224433
+49,unregulated,Unregulated (Cahaba),Settings 2,2.0,5,0.264321
+50,unregulated,Unregulated (Cahaba),Settings 2,2.0,5,0.179625
+51,unregulated,Unregulated (Cahaba),Settings 2,2.0,5,0.260328
+52,unregulated,Unregulated (Cahaba),Settings 2,2.0,5,0.361381
+53,unregulated,Unregulated (Cahaba),Settings 2,2.0,5,0.271149
+54,unregulated,Unregulated (Cahaba),Settings 2,2.0,5,0.282689
+55,unregulated,Unregulated (Cahaba),Settings 2,2.0,5,0.200691
+56,unregulated,Unregulated (Cahaba),Settings 2,2.0,5,0.2361
+57,unregulated,Unregulated (Cahaba),Settings 2,2.0,5,0.249364
+58,unregulated,Unregulated (Cahaba),Settings 2,2.0,5,0.252526
+59,unregulated,Unregulated (Cahaba),Settings 2,2.0,5,0.34049
+60,unregulated,Unregulated (Cahaba),Settings 2,2.0,5,0.300673
+61,unregulated,Unregulated (Cahaba),Settings 2,2.0,5,0.20887
+62,unregulated,Unregulated (Cahaba),Settings 2,2.0,5,0.283558
+63,unregulated,Unregulated (Cahaba),Settings 2,2.0,5,0.297402
+64,unregulated,Unregulated (Cahaba),Settings 2,2.0,5,0.332708
+65,unregulated,Unregulated (Cahaba),Settings 2,2.0,5,0.35693
+66,unregulated,Unregulated (Cahaba),Settings 2,2.0,5,0.21417
+67,unregulated,Unregulated (Cahaba),Settings 2,2.0,5,0.225403
+68,unregulated,Unregulated (Cahaba),Settings 2,2.0,5,0.200833
+69,unregulated,Unregulated (Cahaba),Settings 2,2.0,5,0.257129
+70,unregulated,Unregulated (Cahaba),Settings 2,2.0,5,0.29565
+71,unregulated,Unregulated (Cahaba),Settings 2,2.0,5,0.324303
+72,unregulated,Unregulated (Cahaba),Settings 2,2.0,5,0.265823
+73,unregulated,Unregulated (Cahaba),Settings 2,2.0,5,0.252408
+74,unregulated,Unregulated (Cahaba),Settings 2,2.0,5,0.278347
+75,unregulated,Unregulated (Cahaba),Settings 2,2.0,5,0.224067
+76,unregulated,Unregulated (Cahaba),Settings 2,2.0,5,0.384925
+77,unregulated,Unregulated (Cahaba),Settings 2,2.0,5,0.181579
+78,unregulated,Unregulated (Cahaba),Settings 2,2.0,5,0.280161
+79,unregulated,Unregulated (Cahaba),Settings 2,2.0,5,0.381298
+80,unregulated,Unregulated (Cahaba),Settings 2,2.0,5,0.270374
+81,unregulated,Unregulated (Cahaba),Settings 2,2.0,5,0.259548
+82,unregulated,Unregulated (Cahaba),Settings 2,2.0,5,0.250341
+83,unregulated,Unregulated (Cahaba),Settings 2,2.0,5,0.260078
+84,unregulated,Unregulated (Cahaba),Settings 2,2.0,5,0.345507
+85,unregulated,Unregulated (Cahaba),Settings 2,2.0,5,0.148348
+86,unregulated,Unregulated (Cahaba),Settings 2,2.0,5,0.354339
+87,unregulated,Unregulated (Cahaba),Settings 2,2.0,5,0.191682
+88,unregulated,Unregulated (Cahaba),Settings 2,2.0,5,0.255334
+89,unregulated,Unregulated (Cahaba),Settings 2,2.0,5,0.246392
+90,unregulated,Unregulated (Cahaba),Settings 2,2.0,5,0.30237
+91,unregulated,Unregulated (Cahaba),Settings 2,2.0,5,0.182103
+92,unregulated,Unregulated (Cahaba),Settings 2,2.0,5,0.295419
+93,unregulated,Unregulated (Cahaba),Settings 2,2.0,5,0.381337
+94,unregulated,Unregulated (Cahaba),Settings 2,2.0,5,0.195025
+95,unregulated,Unregulated (Cahaba),Settings 2,2.0,5,0.280434
+96,unregulated,Unregulated (Cahaba),Settings 2,2.0,5,0.233591
+97,unregulated,Unregulated (Cahaba),Settings 2,2.0,5,0.293424
+98,unregulated,Unregulated (Cahaba),Settings 2,2.0,5,0.271053
+99,unregulated,Unregulated (Cahaba),Settings 2,2.0,5,0.234718
+100,unregulated,Unregulated (Cahaba),Settings 2,2.0,5,0.296833
+101,unregulated,Unregulated (Cahaba),Settings 2,2.0,5,0.369239
+102,unregulated,Unregulated (Cahaba),Settings 2,2.0,5,0.2595
+103,unregulated,Unregulated (Cahaba),Settings 2,2.0,5,0.309587
+104,unregulated,Unregulated (Cahaba),Settings 2,2.0,5,0.19887
+105,unregulated,Unregulated (Cahaba),Settings 2,2.0,5,0.217396
+106,unregulated,Unregulated (Cahaba),Settings 2,2.0,5,0.295982
+107,unregulated,Unregulated (Cahaba),Settings 2,2.0,5,0.351626
+108,unregulated,Unregulated (Cahaba),Settings 2,2.0,5,0.289559
+109,unregulated,Unregulated (Cahaba),Settings 2,2.0,5,0.252782
+110,unregulated,Unregulated (Cahaba),Settings 2,2.0,5,0.269961
+111,unregulated,Unregulated (Cahaba),Settings 2,2.0,5,0.201228
+112,unregulated,Unregulated (Cahaba),Settings 2,2.0,5,0.303248
+113,unregulated,Unregulated (Cahaba),Settings 2,2.0,5,0.318528
+114,unregulated,Unregulated (Cahaba),Settings 2,2.0,5,0.245135
+115,unregulated,Unregulated (Cahaba),Settings 2,2.0,5,0.244148
+116,unregulated,Unregulated (Cahaba),Settings 2,2.0,5,0.284623
+117,unregulated,Unregulated (Cahaba),Settings 2,2.0,5,0.24598
+118,unregulated,Unregulated (Cahaba),Settings 2,2.0,5,0.266363
+119,unregulated,Unregulated (Cahaba),Settings 2,2.0,5,0.385485
+120,unregulated,Unregulated (Cahaba),Settings 2,2.0,5,0.256414
+121,unregulated,Unregulated (Cahaba),Settings 2,2.0,5,0.250291
+122,unregulated,Unregulated (Cahaba),Settings 2,2.0,5,0.234385
+123,unregulated,Unregulated (Cahaba),Settings 2,2.0,5,0.310931
+124,unregulated,Unregulated (Cahaba),Settings 2,2.0,5,0.260033
+125,unregulated,Unregulated (Cahaba),Settings 2,2.0,5,0.234284
+126,unregulated,Unregulated (Cahaba),Settings 2,2.0,5,0.342672
+127,unregulated,Unregulated (Cahaba),Settings 2,2.0,5,0.348078
+128,unregulated,Unregulated (Cahaba),Settings 2,2.0,5,0.236977
+129,unregulated,Unregulated (Cahaba),Settings 2,2.0,5,0.16734
+130,unregulated,Unregulated (Cahaba),Settings 2,2.0,5,0.325413
+131,unregulated,Unregulated (Cahaba),Settings 2,2.0,5,0.232345
+132,unregulated,Unregulated (Cahaba),Settings 2,2.0,5,0.313484
+133,unregulated,Unregulated (Cahaba),Settings 2,2.0,5,0.161644
+134,unregulated,Unregulated (Cahaba),Settings 2,2.0,5,0.319093
+135,unregulated,Unregulated (Cahaba),Settings 2,2.0,5,0.203386
+136,unregulated,Unregulated (Cahaba),Settings 2,2.0,5,0.310192
+137,unregulated,Unregulated (Cahaba),Settings 2,2.0,5,0.270785
+138,unregulated,Unregulated (Cahaba),Settings 2,2.0,5,0.217533
+139,unregulated,Unregulated (Cahaba),Settings 2,2.0,5,0.247613
+140,unregulated,Unregulated (Cahaba),Settings 2,2.0,5,0.307748
+141,unregulated,Unregulated (Cahaba),Settings 2,2.0,5,0.275824
+142,unregulated,Unregulated (Cahaba),Settings 2,2.0,5,0.302143
+143,unregulated,Unregulated (Cahaba),Settings 2,2.0,5,0.378704
+144,unregulated,Unregulated (Cahaba),Settings 2,2.0,5,0.183967
+145,unregulated,Unregulated (Cahaba),Settings 2,2.0,5,0.358947
+146,unregulated,Unregulated (Cahaba),Settings 2,2.0,5,0.27574
+147,unregulated,Unregulated (Cahaba),Settings 2,2.0,5,0.220567
+148,unregulated,Unregulated (Cahaba),Settings 2,2.0,5,0.196833
+149,unregulated,Unregulated (Cahaba),Settings 2,2.0,5,0.259598
+150,unregulated,Unregulated (Cahaba),Settings 2,2.0,5,0.320691
+151,unregulated,Unregulated (Cahaba),Settings 2,2.0,5,0.262985
+152,unregulated,Unregulated (Cahaba),Settings 2,2.0,5,0.353114
+153,unregulated,Unregulated (Cahaba),Settings 2,2.0,5,0.190185
+154,unregulated,Unregulated (Cahaba),Settings 2,2.0,5,0.269335
+155,unregulated,Unregulated (Cahaba),Settings 2,2.0,5,0.201118
+156,unregulated,Unregulated (Cahaba),Settings 2,2.0,5,0.29
+157,unregulated,Unregulated (Cahaba),Settings 2,2.0,5,0.318779
+158,unregulated,Unregulated (Cahaba),Settings 2,2.0,5,0.246858
+159,unregulated,Unregulated (Cahaba),Settings 2,2.0,5,0.126768
+160,unregulated,Unregulated (Cahaba),Settings 2,2.0,5,0.280942
+161,unregulated,Unregulated (Cahaba),Settings 2,2.0,5,0.294021
+162,unregulated,Unregulated (Cahaba),Settings 2,2.0,5,0.292236
+163,unregulated,Unregulated (Cahaba),Settings 2,2.0,5,0.337968
+164,unregulated,Unregulated (Cahaba),Settings 2,2.0,5,0.211092
+165,unregulated,Unregulated (Cahaba),Settings 2,2.0,5,0.307412
+166,unregulated,Unregulated (Cahaba),Settings 2,2.0,5,0.335588
+167,unregulated,Unregulated (Cahaba),Settings 2,2.0,5,0.172178
+168,unregulated,Unregulated (Cahaba),Settings 2,2.0,5,0.287581
+169,unregulated,Unregulated (Cahaba),Settings 2,2.0,5,0.24227
+170,unregulated,Unregulated (Cahaba),Settings 2,2.0,5,0.265516
+171,unregulated,Unregulated (Cahaba),Settings 2,2.0,5,0.289122
+172,unregulated,Unregulated (Cahaba),Settings 2,2.0,5,0.243202
+173,unregulated,Unregulated (Cahaba),Settings 2,2.0,5,0.232836
+174,unregulated,Unregulated (Cahaba),Settings 2,2.0,5,0.271878
+175,unregulated,Unregulated (Cahaba),Settings 2,2.0,5,0.210201
+176,unregulated,Unregulated (Cahaba),Settings 2,2.0,5,0.21028
+177,unregulated,Unregulated (Cahaba),Settings 2,2.0,5,0.307366
+178,unregulated,Unregulated (Cahaba),Settings 2,2.0,5,0.206816
+179,unregulated,Unregulated (Cahaba),Settings 2,2.0,5,0.306647
+180,unregulated,Unregulated (Cahaba),Settings 2,2.0,5,0.295443
+181,unregulated,Unregulated (Cahaba),Settings 2,2.0,5,0.175081
+182,unregulated,Unregulated (Cahaba),Settings 2,2.0,5,0.232734
+183,unregulated,Unregulated (Cahaba),Settings 2,2.0,5,0.335676
+184,unregulated,Unregulated (Cahaba),Settings 2,2.0,5,0.216036
+185,unregulated,Unregulated (Cahaba),Settings 2,2.0,5,0.244458
+186,unregulated,Unregulated (Cahaba),Settings 2,2.0,5,0.295413
+187,unregulated,Unregulated (Cahaba),Settings 2,2.0,5,0.313086
+188,unregulated,Unregulated (Cahaba),Settings 2,2.0,5,0.256165
+189,unregulated,Unregulated (Cahaba),Settings 2,2.0,5,0.237137
+190,unregulated,Unregulated (Cahaba),Settings 2,2.0,5,0.34823
+191,unregulated,Unregulated (Cahaba),Settings 2,2.0,5,0.365639
+192,unregulated,Unregulated (Cahaba),Settings 2,2.0,5,0.323837
+193,unregulated,Unregulated (Cahaba),Settings 2,2.0,5,0.274692
+194,unregulated,Unregulated (Cahaba),Settings 2,2.0,5,0.225545
+195,unregulated,Unregulated (Cahaba),Settings 2,2.0,5,0.224326
+196,unregulated,Unregulated (Cahaba),Settings 2,2.0,5,0.298738
+197,unregulated,Unregulated (Cahaba),Settings 2,2.0,5,0.293012
+198,unregulated,Unregulated (Cahaba),Settings 2,2.0,5,0.347088
+199,unregulated,Unregulated (Cahaba),Settings 2,2.0,5,0.305775
+200,unregulated,Unregulated (Cahaba),Settings 2,2.0,5,0.187331
+201,unregulated,Unregulated (Cahaba),Settings 2,2.0,5,0.327857
+202,unregulated,Unregulated (Cahaba),Settings 2,2.0,5,0.215107
+203,unregulated,Unregulated (Cahaba),Settings 2,2.0,5,0.248882
+204,unregulated,Unregulated (Cahaba),Settings 2,2.0,5,0.283761
+205,unregulated,Unregulated (Cahaba),Settings 2,2.0,5,0.379762
+206,unregulated,Unregulated (Cahaba),Settings 2,2.0,5,0.441046
+207,unregulated,Unregulated (Cahaba),Settings 2,2.0,5,0.30337
+208,unregulated,Unregulated (Cahaba),Settings 2,2.0,5,0.259924
+209,unregulated,Unregulated (Cahaba),Settings 2,2.0,5,0.299398
+210,unregulated,Unregulated (Cahaba),Settings 2,2.0,5,0.318821
+211,unregulated,Unregulated (Cahaba),Settings 2,2.0,5,0.252363
+212,unregulated,Unregulated (Cahaba),Settings 2,2.0,5,0.368737
+213,unregulated,Unregulated (Cahaba),Settings 2,2.0,5,0.282654
+214,unregulated,Unregulated (Cahaba),Settings 2,2.0,5,0.297376
+215,unregulated,Unregulated (Cahaba),Settings 2,2.0,5,0.306626
+216,unregulated,Unregulated (Cahaba),Settings 2,2.0,5,0.293187
+217,unregulated,Unregulated (Cahaba),Settings 2,2.0,5,0.316142
+218,unregulated,Unregulated (Cahaba),Settings 2,2.0,5,0.236051
+219,unregulated,Unregulated (Cahaba),Settings 2,2.0,5,0.239293
+220,unregulated,Unregulated (Cahaba),Settings 2,2.0,5,0.209492
+221,unregulated,Unregulated (Cahaba),Settings 2,2.0,5,0.294173
+222,unregulated,Unregulated (Cahaba),Settings 2,2.0,5,0.312842
+223,unregulated,Unregulated (Cahaba),Settings 2,2.0,5,0.295178
+224,unregulated,Unregulated (Cahaba),Settings 2,2.0,5,0.362097
+225,unregulated,Unregulated (Cahaba),Settings 2,2.0,5,0.269692
+226,unregulated,Unregulated (Cahaba),Settings 2,2.0,5,0.306781
+227,unregulated,Unregulated (Cahaba),Settings 2,2.0,5,0.209956
+228,unregulated,Unregulated (Cahaba),Settings 2,2.0,5,0.24871
+229,unregulated,Unregulated (Cahaba),Settings 2,2.0,5,0.308255
+230,unregulated,Unregulated (Cahaba),Settings 2,2.0,5,0.316701
+231,unregulated,Unregulated (Cahaba),Settings 2,2.0,5,0.253832
+232,unregulated,Unregulated (Cahaba),Settings 2,2.0,5,0.266062
+233,unregulated,Unregulated (Cahaba),Settings 2,2.0,5,0.186517
+234,unregulated,Unregulated (Cahaba),Settings 2,2.0,5,0.250363
+235,unregulated,Unregulated (Cahaba),Settings 2,2.0,5,0.318971
+236,unregulated,Unregulated (Cahaba),Settings 2,2.0,5,0.301636
+237,unregulated,Unregulated (Cahaba),Settings 2,2.0,5,0.297537
+238,unregulated,Unregulated (Cahaba),Settings 2,2.0,5,0.272738
+239,unregulated,Unregulated (Cahaba),Settings 2,2.0,5,0.270388
+240,unregulated,Unregulated (Cahaba),Settings 2,2.0,5,0.233682
+241,unregulated,Unregulated (Cahaba),Settings 2,2.0,5,0.308436
+242,unregulated,Unregulated (Cahaba),Settings 2,2.0,5,0.293154
+243,unregulated,Unregulated (Cahaba),Settings 2,2.0,5,0.297061
+244,unregulated,Unregulated (Cahaba),Settings 2,2.0,5,0.241068
+245,unregulated,Unregulated (Cahaba),Settings 2,2.0,5,0.151566
+246,unregulated,Unregulated (Cahaba),Settings 2,2.0,5,0.330343
+247,unregulated,Unregulated (Cahaba),Settings 2,2.0,5,0.243664
+248,unregulated,Unregulated (Cahaba),Settings 2,2.0,5,0.222547
+249,unregulated,Unregulated (Cahaba),Settings 2,2.0,5,0.308141
+250,unregulated,Unregulated (Cahaba),Settings 2,2.0,5,0.248439
+251,unregulated,Unregulated (Cahaba),Settings 2,2.0,5,0.328297
+252,unregulated,Unregulated (Cahaba),Settings 2,2.0,5,0.303935
+253,unregulated,Unregulated (Cahaba),Settings 2,2.0,5,0.307596
+254,unregulated,Unregulated (Cahaba),Settings 2,2.0,5,0.194872
+255,unregulated,Unregulated (Cahaba),Settings 2,2.0,5,0.336657
+256,unregulated,Unregulated (Cahaba),Settings 2,2.0,5,0.284369
+257,unregulated,Unregulated (Cahaba),Settings 2,2.0,5,0.24969
+258,unregulated,Unregulated (Cahaba),Settings 2,2.0,5,0.277886
+259,unregulated,Unregulated (Cahaba),Settings 2,2.0,5,0.172307
+260,unregulated,Unregulated (Cahaba),Settings 2,2.0,5,0.292476
+261,unregulated,Unregulated (Cahaba),Settings 2,2.0,5,0.213385
+262,unregulated,Unregulated (Cahaba),Settings 2,2.0,5,0.195603
+263,unregulated,Unregulated (Cahaba),Settings 2,2.0,5,0.18627
+264,unregulated,Unregulated (Cahaba),Settings 2,2.0,5,0.331198
+265,unregulated,Unregulated (Cahaba),Settings 2,2.0,5,0.235391
+266,unregulated,Unregulated (Cahaba),Settings 2,2.0,5,0.354355
+267,unregulated,Unregulated (Cahaba),Settings 2,2.0,5,0.240531
+268,unregulated,Unregulated (Cahaba),Settings 2,2.0,5,0.176095
+269,unregulated,Unregulated (Cahaba),Settings 2,2.0,5,0.208591
+270,unregulated,Unregulated (Cahaba),Settings 2,2.0,5,0.33797
+271,unregulated,Unregulated (Cahaba),Settings 2,2.0,5,0.261426
+272,unregulated,Unregulated (Cahaba),Settings 2,2.0,5,0.239844
+273,unregulated,Unregulated (Cahaba),Settings 2,2.0,5,0.278801
+274,unregulated,Unregulated (Cahaba),Settings 2,2.0,5,0.297598
+275,unregulated,Unregulated (Cahaba),Settings 2,2.0,5,0.331457
+276,unregulated,Unregulated (Cahaba),Settings 2,2.0,5,0.349667
+277,unregulated,Unregulated (Cahaba),Settings 2,2.0,5,0.250213
+278,unregulated,Unregulated (Cahaba),Settings 2,2.0,5,0.197067
+279,unregulated,Unregulated (Cahaba),Settings 2,2.0,5,0.247259
+280,unregulated,Unregulated (Cahaba),Settings 2,2.0,5,0.284315
+281,unregulated,Unregulated (Cahaba),Settings 2,2.0,5,0.216993
+282,unregulated,Unregulated (Cahaba),Settings 2,2.0,5,0.217357
+283,unregulated,Unregulated (Cahaba),Settings 2,2.0,5,0.288908
+284,unregulated,Unregulated (Cahaba),Settings 2,2.0,5,0.267324
+285,unregulated,Unregulated (Cahaba),Settings 2,2.0,5,0.271804
+286,unregulated,Unregulated (Cahaba),Settings 2,2.0,5,0.228283
+287,unregulated,Unregulated (Cahaba),Settings 2,2.0,5,0.257328
+288,unregulated,Unregulated (Cahaba),Settings 2,2.0,5,0.219167
+289,unregulated,Unregulated (Cahaba),Settings 2,2.0,5,0.318961
+290,unregulated,Unregulated (Cahaba),Settings 2,2.0,5,0.326939
+291,unregulated,Unregulated (Cahaba),Settings 2,2.0,5,0.16846
+292,unregulated,Unregulated (Cahaba),Settings 2,2.0,5,0.218877
+293,unregulated,Unregulated (Cahaba),Settings 2,2.0,5,0.187691
+294,unregulated,Unregulated (Cahaba),Settings 2,2.0,5,0.234249
+295,unregulated,Unregulated (Cahaba),Settings 2,2.0,5,0.265411
+296,unregulated,Unregulated (Cahaba),Settings 2,2.0,5,0.19027
+297,unregulated,Unregulated (Cahaba),Settings 2,2.0,5,0.219298
+298,unregulated,Unregulated (Cahaba),Settings 2,2.0,5,0.214782
+299,unregulated,Unregulated (Cahaba),Settings 2,2.0,5,0.2814
+300,unregulated,Unregulated (Cahaba),Settings 2,2.0,5,0.273814
+301,unregulated,Unregulated (Cahaba),Settings 2,2.0,5,0.230304
+302,unregulated,Unregulated (Cahaba),Settings 2,2.0,5,0.279725
+303,unregulated,Unregulated (Cahaba),Settings 2,2.0,5,0.239933
+304,unregulated,Unregulated (Cahaba),Settings 2,2.0,5,0.255059
+305,unregulated,Unregulated (Cahaba),Settings 2,2.0,5,0.36204
+306,unregulated,Unregulated (Cahaba),Settings 2,2.0,5,0.343725
+307,unregulated,Unregulated (Cahaba),Settings 2,2.0,5,0.198523
+308,unregulated,Unregulated (Cahaba),Settings 2,2.0,5,0.315635
+309,unregulated,Unregulated (Cahaba),Settings 2,2.0,5,0.314627
+310,unregulated,Unregulated (Cahaba),Settings 2,2.0,5,0.206846
+311,unregulated,Unregulated (Cahaba),Settings 2,2.0,5,0.315033
+312,unregulated,Unregulated (Cahaba),Settings 2,2.0,5,0.354586
+313,unregulated,Unregulated (Cahaba),Settings 2,2.0,5,0.20826
+314,unregulated,Unregulated (Cahaba),Settings 2,2.0,5,0.219537
+315,unregulated,Unregulated (Cahaba),Settings 2,2.0,5,0.325971
+316,unregulated,Unregulated (Cahaba),Settings 2,2.0,5,0.284932
+317,unregulated,Unregulated (Cahaba),Settings 2,2.0,5,0.300331
+318,unregulated,Unregulated (Cahaba),Settings 2,2.0,5,0.288732
+319,unregulated,Unregulated (Cahaba),Settings 2,2.0,5,0.291488
+320,unregulated,Unregulated (Cahaba),Settings 2,2.0,5,0.197044
+321,unregulated,Unregulated (Cahaba),Settings 2,2.0,5,0.327602
+322,unregulated,Unregulated (Cahaba),Settings 2,2.0,5,0.334327
+323,unregulated,Unregulated (Cahaba),Settings 2,2.0,5,0.257384
+324,unregulated,Unregulated (Cahaba),Settings 2,2.0,5,0.267609
+325,unregulated,Unregulated (Cahaba),Settings 2,2.0,5,0.185789
+326,unregulated,Unregulated (Cahaba),Settings 2,2.0,5,0.298284
+327,unregulated,Unregulated (Cahaba),Settings 2,2.0,5,0.301463
+328,unregulated,Unregulated (Cahaba),Settings 2,2.0,5,0.266579
+329,unregulated,Unregulated (Cahaba),Settings 2,2.0,5,0.331839
+330,unregulated,Unregulated (Cahaba),Settings 2,2.0,5,0.251626
+331,unregulated,Unregulated (Cahaba),Settings 2,2.0,5,0.301053
+332,unregulated,Unregulated (Cahaba),Settings 2,2.0,5,0.213918
+333,unregulated,Unregulated (Cahaba),Settings 2,2.0,5,0.268705
+334,unregulated,Unregulated (Cahaba),Settings 2,2.0,5,0.260411
+335,unregulated,Unregulated (Cahaba),Settings 2,2.0,5,0.282392
+336,unregulated,Unregulated (Cahaba),Settings 2,2.0,5,0.249676
+337,unregulated,Unregulated (Cahaba),Settings 2,2.0,5,0.262769
+338,unregulated,Unregulated (Cahaba),Settings 2,2.0,5,0.315433
+339,unregulated,Unregulated (Cahaba),Settings 2,2.0,5,0.245978
+340,unregulated,Unregulated (Cahaba),Settings 2,2.0,5,0.181638
+341,unregulated,Unregulated (Cahaba),Settings 2,2.0,5,0.366227
+342,unregulated,Unregulated (Cahaba),Settings 2,2.0,5,0.34598
+343,unregulated,Unregulated (Cahaba),Settings 2,2.0,5,0.198926
+344,unregulated,Unregulated (Cahaba),Settings 2,2.0,5,0.307934
+345,unregulated,Unregulated (Cahaba),Settings 2,2.0,5,0.242336
+346,unregulated,Unregulated (Cahaba),Settings 2,2.0,5,0.284492
+347,unregulated,Unregulated (Cahaba),Settings 2,2.0,5,0.286182
+348,unregulated,Unregulated (Cahaba),Settings 2,2.0,5,0.257108
+349,unregulated,Unregulated (Cahaba),Settings 2,2.0,5,0.226893
+350,unregulated,Unregulated (Cahaba),Settings 2,2.0,5,0.23202
+351,unregulated,Unregulated (Cahaba),Settings 2,2.0,5,0.219609
+352,unregulated,Unregulated (Cahaba),Settings 2,2.0,5,0.22425
+353,unregulated,Unregulated (Cahaba),Settings 2,2.0,5,0.266305
+354,unregulated,Unregulated (Cahaba),Settings 2,2.0,5,0.230633
+355,unregulated,Unregulated (Cahaba),Settings 2,2.0,5,0.307513
+356,unregulated,Unregulated (Cahaba),Settings 2,2.0,5,0.351799
+357,unregulated,Unregulated (Cahaba),Settings 2,2.0,5,0.238097
+358,unregulated,Unregulated (Cahaba),Settings 2,2.0,5,0.283167
+359,unregulated,Unregulated (Cahaba),Settings 2,2.0,5,0.297483
+360,unregulated,Unregulated (Cahaba),Settings 2,2.0,5,0.29596
+361,unregulated,Unregulated (Cahaba),Settings 2,2.0,5,0.274178
+362,unregulated,Unregulated (Cahaba),Settings 2,2.0,5,0.310848
+363,unregulated,Unregulated (Cahaba),Settings 2,2.0,5,0.296524
+364,unregulated,Unregulated (Cahaba),Settings 2,2.0,5,0.201929
+365,unregulated,Unregulated (Cahaba),Settings 2,2.0,5,0.317804
+366,unregulated,Unregulated (Cahaba),Settings 2,2.0,5,0.318801
+367,unregulated,Unregulated (Cahaba),Settings 2,2.0,5,0.228019
+368,unregulated,Unregulated (Cahaba),Settings 2,2.0,5,0.272087
+369,unregulated,Unregulated (Cahaba),Settings 2,2.0,5,0.307583
+370,unregulated,Unregulated (Cahaba),Settings 2,2.0,5,0.258488
+371,unregulated,Unregulated (Cahaba),Settings 2,2.0,5,0.329014
+372,unregulated,Unregulated (Cahaba),Settings 2,2.0,5,0.400013
+373,unregulated,Unregulated (Cahaba),Settings 2,2.0,5,0.226771
+374,unregulated,Unregulated (Cahaba),Settings 2,2.0,5,0.194043
+375,unregulated,Unregulated (Cahaba),Settings 2,2.0,5,0.28671
+376,unregulated,Unregulated (Cahaba),Settings 2,2.0,5,0.309686
+377,unregulated,Unregulated (Cahaba),Settings 2,2.0,5,0.257302
+378,unregulated,Unregulated (Cahaba),Settings 2,2.0,5,0.349929
+379,unregulated,Unregulated (Cahaba),Settings 2,2.0,5,0.196377
+380,unregulated,Unregulated (Cahaba),Settings 2,2.0,5,0.308111
+381,unregulated,Unregulated (Cahaba),Settings 2,2.0,5,0.236678
+382,unregulated,Unregulated (Cahaba),Settings 2,2.0,5,0.364566
+383,unregulated,Unregulated (Cahaba),Settings 2,2.0,5,0.379588
+384,unregulated,Unregulated (Cahaba),Settings 2,2.0,5,0.227834
+385,unregulated,Unregulated (Cahaba),Settings 2,2.0,5,0.239774
+386,unregulated,Unregulated (Cahaba),Settings 2,2.0,5,0.317277
+387,unregulated,Unregulated (Cahaba),Settings 2,2.0,5,0.248708
+388,unregulated,Unregulated (Cahaba),Settings 2,2.0,5,0.267502
+389,unregulated,Unregulated (Cahaba),Settings 2,2.0,5,0.271396
+390,unregulated,Unregulated (Cahaba),Settings 2,2.0,5,0.164418
+391,unregulated,Unregulated (Cahaba),Settings 2,2.0,5,0.269239
+392,unregulated,Unregulated (Cahaba),Settings 2,2.0,5,0.232065
+393,unregulated,Unregulated (Cahaba),Settings 2,2.0,5,0.242878
+394,unregulated,Unregulated (Cahaba),Settings 2,2.0,5,0.3494
+395,unregulated,Unregulated (Cahaba),Settings 2,2.0,5,0.200892
+396,unregulated,Unregulated (Cahaba),Settings 2,2.0,5,0.314726
+397,unregulated,Unregulated (Cahaba),Settings 2,2.0,5,0.254657
+398,unregulated,Unregulated (Cahaba),Settings 2,2.0,5,0.254613
+399,unregulated,Unregulated (Cahaba),Settings 2,2.0,5,0.31347
+400,unregulated,Unregulated (Cahaba),Settings 2,2.0,5,0.288703
+401,unregulated,Unregulated (Cahaba),Settings 2,2.0,5,0.301384
+402,unregulated,Unregulated (Cahaba),Settings 2,2.0,5,0.32325
+403,unregulated,Unregulated (Cahaba),Settings 2,2.0,5,0.251778
+404,unregulated,Unregulated (Cahaba),Settings 2,2.0,5,0.236327
+405,unregulated,Unregulated (Cahaba),Settings 2,2.0,5,0.210317
+406,unregulated,Unregulated (Cahaba),Settings 2,2.0,5,0.224602
+407,unregulated,Unregulated (Cahaba),Settings 2,2.0,5,0.4322
+408,unregulated,Unregulated (Cahaba),Settings 2,2.0,5,0.338457
+409,unregulated,Unregulated (Cahaba),Settings 2,2.0,5,0.195691
+410,unregulated,Unregulated (Cahaba),Settings 2,2.0,5,0.197265
+411,unregulated,Unregulated (Cahaba),Settings 2,2.0,5,0.296503
+412,unregulated,Unregulated (Cahaba),Settings 2,2.0,5,0.3001
+413,unregulated,Unregulated (Cahaba),Settings 2,2.0,5,0.300189
+414,unregulated,Unregulated (Cahaba),Settings 2,2.0,5,0.255977
+415,unregulated,Unregulated (Cahaba),Settings 2,2.0,5,0.2631
+416,unregulated,Unregulated (Cahaba),Settings 2,2.0,5,0.288033
+417,unregulated,Unregulated (Cahaba),Settings 2,2.0,5,0.274724
+418,unregulated,Unregulated (Cahaba),Settings 2,2.0,5,0.147938
+419,unregulated,Unregulated (Cahaba),Settings 2,2.0,5,0.257361
+420,unregulated,Unregulated (Cahaba),Settings 2,2.0,5,0.223173
+421,unregulated,Unregulated (Cahaba),Settings 2,2.0,5,0.279637
+422,unregulated,Unregulated (Cahaba),Settings 2,2.0,5,0.434189
+423,unregulated,Unregulated (Cahaba),Settings 2,2.0,5,0.290211
+424,unregulated,Unregulated (Cahaba),Settings 2,2.0,5,0.252756
+425,unregulated,Unregulated (Cahaba),Settings 2,2.0,5,0.320699
+426,unregulated,Unregulated (Cahaba),Settings 2,2.0,5,0.296548
+427,unregulated,Unregulated (Cahaba),Settings 2,2.0,5,0.293105
+428,unregulated,Unregulated (Cahaba),Settings 2,2.0,5,0.303377
+429,unregulated,Unregulated (Cahaba),Settings 2,2.0,5,0.38311
+430,unregulated,Unregulated (Cahaba),Settings 2,2.0,5,0.207801
+431,unregulated,Unregulated (Cahaba),Settings 2,2.0,5,0.29605
+432,unregulated,Unregulated (Cahaba),Settings 2,2.0,5,0.219049
+433,unregulated,Unregulated (Cahaba),Settings 2,2.0,5,0.300553
+434,unregulated,Unregulated (Cahaba),Settings 2,2.0,5,0.219472
+435,unregulated,Unregulated (Cahaba),Settings 2,2.0,5,0.247045
+436,unregulated,Unregulated (Cahaba),Settings 2,2.0,5,0.25377
+437,unregulated,Unregulated (Cahaba),Settings 2,2.0,5,0.32367
+438,unregulated,Unregulated (Cahaba),Settings 2,2.0,5,0.320515
+439,unregulated,Unregulated (Cahaba),Settings 2,2.0,5,0.201486
+440,unregulated,Unregulated (Cahaba),Settings 2,2.0,5,0.273021
+441,unregulated,Unregulated (Cahaba),Settings 2,2.0,5,0.230973
+442,unregulated,Unregulated (Cahaba),Settings 2,2.0,5,0.200782
+443,unregulated,Unregulated (Cahaba),Settings 2,2.0,5,0.258064
+444,unregulated,Unregulated (Cahaba),Settings 2,2.0,5,0.253033
+445,unregulated,Unregulated (Cahaba),Settings 2,2.0,5,0.403469
+446,unregulated,Unregulated (Cahaba),Settings 2,2.0,5,0.293813
+447,unregulated,Unregulated (Cahaba),Settings 2,2.0,5,0.194231
+448,unregulated,Unregulated (Cahaba),Settings 2,2.0,5,0.238937
+449,unregulated,Unregulated (Cahaba),Settings 2,2.0,5,0.326176
+450,unregulated,Unregulated (Cahaba),Settings 2,2.0,5,0.384864
+451,unregulated,Unregulated (Cahaba),Settings 2,2.0,5,0.182771
+452,unregulated,Unregulated (Cahaba),Settings 2,2.0,5,0.166604
+453,unregulated,Unregulated (Cahaba),Settings 2,2.0,5,0.372903
+454,unregulated,Unregulated (Cahaba),Settings 2,2.0,5,0.291429
+455,unregulated,Unregulated (Cahaba),Settings 2,2.0,5,0.222244
+456,unregulated,Unregulated (Cahaba),Settings 2,2.0,5,0.299405
+457,unregulated,Unregulated (Cahaba),Settings 2,2.0,5,0.125034
+458,unregulated,Unregulated (Cahaba),Settings 2,2.0,5,0.270186
+459,unregulated,Unregulated (Cahaba),Settings 2,2.0,5,0.28803
+460,unregulated,Unregulated (Cahaba),Settings 2,2.0,5,0.320835
+461,unregulated,Unregulated (Cahaba),Settings 2,2.0,5,0.214236
+462,unregulated,Unregulated (Cahaba),Settings 2,2.0,5,0.274713
+463,unregulated,Unregulated (Cahaba),Settings 2,2.0,5,0.219102
+464,unregulated,Unregulated (Cahaba),Settings 2,2.0,5,0.284046
+465,unregulated,Unregulated (Cahaba),Settings 2,2.0,5,0.220756
+466,unregulated,Unregulated (Cahaba),Settings 2,2.0,5,0.247554
+467,unregulated,Unregulated (Cahaba),Settings 2,2.0,5,0.21523
+468,unregulated,Unregulated (Cahaba),Settings 2,2.0,5,0.305812
+469,unregulated,Unregulated (Cahaba),Settings 2,2.0,5,0.317215
+470,unregulated,Unregulated (Cahaba),Settings 2,2.0,5,0.257096
+471,unregulated,Unregulated (Cahaba),Settings 2,2.0,5,0.272103
+472,unregulated,Unregulated (Cahaba),Settings 2,2.0,5,0.190327
+473,unregulated,Unregulated (Cahaba),Settings 2,2.0,5,0.253518
+474,unregulated,Unregulated (Cahaba),Settings 2,2.0,5,0.267239
+475,unregulated,Unregulated (Cahaba),Settings 2,2.0,5,0.414144
+476,unregulated,Unregulated (Cahaba),Settings 2,2.0,5,0.208842
+477,unregulated,Unregulated (Cahaba),Settings 2,2.0,5,0.35053
+478,unregulated,Unregulated (Cahaba),Settings 2,2.0,5,0.324827
+479,unregulated,Unregulated (Cahaba),Settings 2,2.0,5,0.285435
+480,unregulated,Unregulated (Cahaba),Settings 2,2.0,5,0.366724
+481,unregulated,Unregulated (Cahaba),Settings 2,2.0,5,0.290466
+482,unregulated,Unregulated (Cahaba),Settings 2,2.0,5,0.291404
+483,unregulated,Unregulated (Cahaba),Settings 2,2.0,5,0.267078
+484,unregulated,Unregulated (Cahaba),Settings 2,2.0,5,0.337296
+485,unregulated,Unregulated (Cahaba),Settings 2,2.0,5,0.330306
+486,unregulated,Unregulated (Cahaba),Settings 2,2.0,5,0.235588
+487,unregulated,Unregulated (Cahaba),Settings 2,2.0,5,0.197441
+488,unregulated,Unregulated (Cahaba),Settings 2,2.0,5,0.258836
+489,unregulated,Unregulated (Cahaba),Settings 2,2.0,5,0.225998
+490,unregulated,Unregulated (Cahaba),Settings 2,2.0,5,0.266506
+491,unregulated,Unregulated (Cahaba),Settings 2,2.0,5,0.338059
+492,unregulated,Unregulated (Cahaba),Settings 2,2.0,5,0.244848
+493,unregulated,Unregulated (Cahaba),Settings 2,2.0,5,0.267645
+494,unregulated,Unregulated (Cahaba),Settings 2,2.0,5,0.273191
+495,unregulated,Unregulated (Cahaba),Settings 2,2.0,5,0.316664
+496,unregulated,Unregulated (Cahaba),Settings 2,2.0,5,0.146421
+497,unregulated,Unregulated (Cahaba),Settings 2,2.0,5,0.236631
+498,unregulated,Unregulated (Cahaba),Settings 2,2.0,5,0.281621
+499,unregulated,Unregulated (Cahaba),Settings 2,2.0,5,0.336004
+500,unregulated,Unregulated (Cahaba),Settings 2,2.0,5,0.242945
+501,unregulated,Unregulated (Cahaba),Settings 2,2.0,5,0.16679
+502,unregulated,Unregulated (Cahaba),Settings 2,2.0,5,0.304084
+503,unregulated,Unregulated (Cahaba),Settings 2,2.0,5,0.235055
+504,unregulated,Unregulated (Cahaba),Settings 2,2.0,5,0.204568
+505,unregulated,Unregulated (Cahaba),Settings 2,2.0,5,0.235661
+506,unregulated,Unregulated (Cahaba),Settings 2,2.0,5,0.259851
+507,unregulated,Unregulated (Cahaba),Settings 2,2.0,5,0.236739
+508,unregulated,Unregulated (Cahaba),Settings 2,2.0,5,0.148694
+509,unregulated,Unregulated (Cahaba),Settings 2,2.0,5,0.319339
+510,unregulated,Unregulated (Cahaba),Settings 2,2.0,5,0.340118
+511,unregulated,Unregulated (Cahaba),Settings 2,2.0,5,0.305834
+512,unregulated,Unregulated (Cahaba),Settings 2,2.0,5,0.207427
+513,unregulated,Unregulated (Cahaba),Settings 2,2.0,5,0.258918
+514,unregulated,Unregulated (Cahaba),Settings 2,2.0,5,0.269641
+515,unregulated,Unregulated (Cahaba),Settings 2,2.0,5,0.302934
+516,unregulated,Unregulated (Cahaba),Settings 2,2.0,5,0.306759
+517,unregulated,Unregulated (Cahaba),Settings 2,2.0,5,0.22962
+518,unregulated,Unregulated (Cahaba),Settings 2,2.0,5,0.27451
+519,unregulated,Unregulated (Cahaba),Settings 2,2.0,5,0.29515
+520,unregulated,Unregulated (Cahaba),Settings 2,2.0,5,0.35007
+521,unregulated,Unregulated (Cahaba),Settings 2,2.0,5,0.308748
+522,unregulated,Unregulated (Cahaba),Settings 2,2.0,5,0.313398
+523,unregulated,Unregulated (Cahaba),Settings 2,2.0,5,0.27461
+524,unregulated,Unregulated (Cahaba),Settings 2,2.0,5,0.347575
+525,unregulated,Unregulated (Cahaba),Settings 2,2.0,5,0.292537
+526,unregulated,Unregulated (Cahaba),Settings 2,2.0,5,0.22264
+527,unregulated,Unregulated (Cahaba),Settings 2,2.0,5,0.347185
+528,unregulated,Unregulated (Cahaba),Settings 2,2.0,5,0.308385
+529,unregulated,Unregulated (Cahaba),Settings 2,2.0,5,0.245633
+530,unregulated,Unregulated (Cahaba),Settings 2,2.0,5,0.243628
+531,unregulated,Unregulated (Cahaba),Settings 2,2.0,5,0.286312
+532,unregulated,Unregulated (Cahaba),Settings 2,2.0,5,0.295475
+533,unregulated,Unregulated (Cahaba),Settings 2,2.0,5,0.280851
+534,unregulated,Unregulated (Cahaba),Settings 2,2.0,5,0.287122
+535,unregulated,Unregulated (Cahaba),Settings 2,2.0,5,0.363498
+536,unregulated,Unregulated (Cahaba),Settings 2,2.0,5,0.328935
+537,unregulated,Unregulated (Cahaba),Settings 2,2.0,5,0.280485
+538,unregulated,Unregulated (Cahaba),Settings 2,2.0,5,0.321772
+539,unregulated,Unregulated (Cahaba),Settings 2,2.0,5,0.213211
+540,unregulated,Unregulated (Cahaba),Settings 2,2.0,5,0.291886
+541,unregulated,Unregulated (Cahaba),Settings 2,2.0,5,0.369512
+542,unregulated,Unregulated (Cahaba),Settings 2,2.0,5,0.258007
+543,unregulated,Unregulated (Cahaba),Settings 2,2.0,5,0.22338
+544,unregulated,Unregulated (Cahaba),Settings 2,2.0,5,0.234135
+545,unregulated,Unregulated (Cahaba),Settings 2,2.0,5,0.21007
+546,unregulated,Unregulated (Cahaba),Settings 2,2.0,5,0.226838
+547,unregulated,Unregulated (Cahaba),Settings 2,2.0,5,0.249622
+548,unregulated,Unregulated (Cahaba),Settings 2,2.0,5,0.192694
+549,unregulated,Unregulated (Cahaba),Settings 2,2.0,5,0.270859
+550,unregulated,Unregulated (Cahaba),Settings 2,2.0,5,0.319625
+551,unregulated,Unregulated (Cahaba),Settings 2,2.0,5,0.220073
+552,unregulated,Unregulated (Cahaba),Settings 2,2.0,5,0.353561
+553,unregulated,Unregulated (Cahaba),Settings 2,2.0,5,0.298094
+554,unregulated,Unregulated (Cahaba),Settings 2,2.0,5,0.326682
+555,unregulated,Unregulated (Cahaba),Settings 2,2.0,5,0.233819
+556,unregulated,Unregulated (Cahaba),Settings 2,2.0,5,0.316999
+557,unregulated,Unregulated (Cahaba),Settings 2,2.0,5,0.209944
+558,unregulated,Unregulated (Cahaba),Settings 2,2.0,5,0.318964
+559,unregulated,Unregulated (Cahaba),Settings 2,2.0,5,0.279451
+560,unregulated,Unregulated (Cahaba),Settings 2,2.0,5,0.300429
+561,unregulated,Unregulated (Cahaba),Settings 2,2.0,5,0.205342
+562,unregulated,Unregulated (Cahaba),Settings 2,2.0,5,0.220771
+563,unregulated,Unregulated (Cahaba),Settings 2,2.0,5,0.302848
+564,unregulated,Unregulated (Cahaba),Settings 2,2.0,5,0.217841
+565,unregulated,Unregulated (Cahaba),Settings 2,2.0,5,0.295476
+566,unregulated,Unregulated (Cahaba),Settings 2,2.0,5,0.194807
+567,unregulated,Unregulated (Cahaba),Settings 2,2.0,5,0.31665
+568,unregulated,Unregulated (Cahaba),Settings 2,2.0,5,0.202211
+569,unregulated,Unregulated (Cahaba),Settings 2,2.0,5,0.300376
+570,unregulated,Unregulated (Cahaba),Settings 2,2.0,5,0.30441
+571,unregulated,Unregulated (Cahaba),Settings 2,2.0,5,0.231678
+572,unregulated,Unregulated (Cahaba),Settings 2,2.0,5,0.302011
+573,unregulated,Unregulated (Cahaba),Settings 2,2.0,5,0.284324
+574,unregulated,Unregulated (Cahaba),Settings 2,2.0,5,0.240364
+575,unregulated,Unregulated (Cahaba),Settings 2,2.0,5,0.214529
+576,unregulated,Unregulated (Cahaba),Settings 2,2.0,5,0.162056
+577,unregulated,Unregulated (Cahaba),Settings 2,2.0,5,0.289231
+578,unregulated,Unregulated (Cahaba),Settings 2,2.0,5,0.183936
+579,unregulated,Unregulated (Cahaba),Settings 2,2.0,5,0.275244
+580,unregulated,Unregulated (Cahaba),Settings 2,2.0,5,0.25551
+581,unregulated,Unregulated (Cahaba),Settings 2,2.0,5,0.307353
+582,unregulated,Unregulated (Cahaba),Settings 2,2.0,5,0.253387
+583,unregulated,Unregulated (Cahaba),Settings 2,2.0,5,0.25188
+584,unregulated,Unregulated (Cahaba),Settings 2,2.0,5,0.310253
+585,unregulated,Unregulated (Cahaba),Settings 2,2.0,5,0.288428
+586,unregulated,Unregulated (Cahaba),Settings 2,2.0,5,0.287389
+587,unregulated,Unregulated (Cahaba),Settings 2,2.0,5,0.29581
+588,unregulated,Unregulated (Cahaba),Settings 2,2.0,5,0.185544
+589,unregulated,Unregulated (Cahaba),Settings 2,2.0,5,0.311623
+590,unregulated,Unregulated (Cahaba),Settings 2,2.0,5,0.303686
+591,unregulated,Unregulated (Cahaba),Settings 2,2.0,5,0.214082
+592,unregulated,Unregulated (Cahaba),Settings 2,2.0,5,0.256576
+593,unregulated,Unregulated (Cahaba),Settings 2,2.0,5,0.267838
+594,unregulated,Unregulated (Cahaba),Settings 2,2.0,5,0.262603
+595,unregulated,Unregulated (Cahaba),Settings 2,2.0,5,0.288362
+596,unregulated,Unregulated (Cahaba),Settings 2,2.0,5,0.348725
+597,unregulated,Unregulated (Cahaba),Settings 2,2.0,5,0.329497
+598,unregulated,Unregulated (Cahaba),Settings 2,2.0,5,0.197828
+599,unregulated,Unregulated (Cahaba),Settings 2,2.0,5,0.304214
+600,unregulated,Unregulated (Cahaba),Settings 2,2.0,5,0.343091
+601,unregulated,Unregulated (Cahaba),Settings 2,2.0,5,0.291274
+602,unregulated,Unregulated (Cahaba),Settings 2,2.0,5,0.330004
+603,unregulated,Unregulated (Cahaba),Settings 2,2.0,5,0.380675
+604,unregulated,Unregulated (Cahaba),Settings 2,2.0,5,0.326304
+605,unregulated,Unregulated (Cahaba),Settings 2,2.0,5,0.283712
+606,unregulated,Unregulated (Cahaba),Settings 2,2.0,5,0.32748
+607,unregulated,Unregulated (Cahaba),Settings 2,2.0,5,0.277969
+608,unregulated,Unregulated (Cahaba),Settings 2,2.0,5,0.271315
+609,unregulated,Unregulated (Cahaba),Settings 2,2.0,5,0.250672
+610,unregulated,Unregulated (Cahaba),Settings 2,2.0,5,0.355988
+611,unregulated,Unregulated (Cahaba),Settings 2,2.0,5,0.224986
+612,unregulated,Unregulated (Cahaba),Settings 2,2.0,5,0.35428
+613,unregulated,Unregulated (Cahaba),Settings 2,2.0,5,0.297493
+614,unregulated,Unregulated (Cahaba),Settings 2,2.0,5,0.193038
+615,unregulated,Unregulated (Cahaba),Settings 2,2.0,5,0.290221
+616,unregulated,Unregulated (Cahaba),Settings 2,2.0,5,0.154499
+617,unregulated,Unregulated (Cahaba),Settings 2,2.0,5,0.304403
+618,unregulated,Unregulated (Cahaba),Settings 2,2.0,5,0.318688
+619,unregulated,Unregulated (Cahaba),Settings 2,2.0,5,0.23742
+620,unregulated,Unregulated (Cahaba),Settings 2,2.0,5,0.276795
+621,unregulated,Unregulated (Cahaba),Settings 2,2.0,5,0.377479
+622,unregulated,Unregulated (Cahaba),Settings 2,2.0,5,0.242184
+623,unregulated,Unregulated (Cahaba),Settings 2,2.0,5,0.21176
+624,unregulated,Unregulated (Cahaba),Settings 2,2.0,5,0.351491
+625,unregulated,Unregulated (Cahaba),Settings 2,2.0,5,0.377942
+626,unregulated,Unregulated (Cahaba),Settings 2,2.0,5,0.270203
+627,unregulated,Unregulated (Cahaba),Settings 2,2.0,5,0.32563
+628,unregulated,Unregulated (Cahaba),Settings 2,2.0,5,0.343781
+629,unregulated,Unregulated (Cahaba),Settings 2,2.0,5,0.229163
+630,unregulated,Unregulated (Cahaba),Settings 2,2.0,5,0.243308
+631,unregulated,Unregulated (Cahaba),Settings 2,2.0,5,0.337698
+632,unregulated,Unregulated (Cahaba),Settings 2,2.0,5,0.362676
+633,unregulated,Unregulated (Cahaba),Settings 2,2.0,5,0.300958
+634,unregulated,Unregulated (Cahaba),Settings 2,2.0,5,0.22161
+635,unregulated,Unregulated (Cahaba),Settings 2,2.0,5,0.379288
+636,unregulated,Unregulated (Cahaba),Settings 2,2.0,5,0.240797
+637,unregulated,Unregulated (Cahaba),Settings 2,2.0,5,0.251567
+638,unregulated,Unregulated (Cahaba),Settings 2,2.0,5,0.288829
+639,unregulated,Unregulated (Cahaba),Settings 2,2.0,5,0.355479
+640,unregulated,Unregulated (Cahaba),Settings 2,2.0,5,0.316969
+641,unregulated,Unregulated (Cahaba),Settings 2,2.0,5,0.292818
+642,unregulated,Unregulated (Cahaba),Settings 2,2.0,5,0.295481
+643,unregulated,Unregulated (Cahaba),Settings 2,2.0,5,0.272393
+644,unregulated,Unregulated (Cahaba),Settings 2,2.0,5,0.300698
+645,unregulated,Unregulated (Cahaba),Settings 2,2.0,5,0.130874
+646,unregulated,Unregulated (Cahaba),Settings 2,2.0,5,0.253687
+647,unregulated,Unregulated (Cahaba),Settings 2,2.0,5,0.283273
+648,unregulated,Unregulated (Cahaba),Settings 2,2.0,5,0.206694
+649,unregulated,Unregulated (Cahaba),Settings 2,2.0,5,0.291248
+650,unregulated,Unregulated (Cahaba),Settings 2,2.0,5,0.258754
+651,unregulated,Unregulated (Cahaba),Settings 2,2.0,5,0.366551
+652,unregulated,Unregulated (Cahaba),Settings 2,2.0,5,0.356516
+653,unregulated,Unregulated (Cahaba),Settings 2,2.0,5,0.244381
+654,unregulated,Unregulated (Cahaba),Settings 2,2.0,5,0.261704
+655,unregulated,Unregulated (Cahaba),Settings 2,2.0,5,0.265933
+656,unregulated,Unregulated (Cahaba),Settings 2,2.0,5,0.245159
+657,unregulated,Unregulated (Cahaba),Settings 2,2.0,5,0.280726
+658,unregulated,Unregulated (Cahaba),Settings 2,2.0,5,0.228294
+659,unregulated,Unregulated (Cahaba),Settings 2,2.0,5,0.207816
+660,unregulated,Unregulated (Cahaba),Settings 2,2.0,5,0.304249
+661,unregulated,Unregulated (Cahaba),Settings 2,2.0,5,0.304624
+662,unregulated,Unregulated (Cahaba),Settings 2,2.0,5,0.225763
+663,unregulated,Unregulated (Cahaba),Settings 2,2.0,5,0.319245
+664,unregulated,Unregulated (Cahaba),Settings 2,2.0,5,0.235263
+665,unregulated,Unregulated (Cahaba),Settings 2,2.0,5,0.283924
+666,unregulated,Unregulated (Cahaba),Settings 2,2.0,5,0.315119
+667,unregulated,Unregulated (Cahaba),Settings 2,2.0,5,0.268151
+668,unregulated,Unregulated (Cahaba),Settings 2,2.0,5,0.295011
+669,unregulated,Unregulated (Cahaba),Settings 2,2.0,5,0.241596
+670,unregulated,Unregulated (Cahaba),Settings 2,2.0,5,0.259194
+671,unregulated,Unregulated (Cahaba),Settings 2,2.0,5,0.258678
+672,unregulated,Unregulated (Cahaba),Settings 2,2.0,5,0.228938
+673,unregulated,Unregulated (Cahaba),Settings 2,2.0,5,0.260277
+674,unregulated,Unregulated (Cahaba),Settings 2,2.0,5,0.184826
+675,unregulated,Unregulated (Cahaba),Settings 2,2.0,5,0.242987
+676,unregulated,Unregulated (Cahaba),Settings 2,2.0,5,0.254332
+677,unregulated,Unregulated (Cahaba),Settings 2,2.0,5,0.25591
+678,unregulated,Unregulated (Cahaba),Settings 2,2.0,5,0.256718
+679,unregulated,Unregulated (Cahaba),Settings 2,2.0,5,0.266603
+680,unregulated,Unregulated (Cahaba),Settings 2,2.0,5,0.296369
+681,unregulated,Unregulated (Cahaba),Settings 2,2.0,5,0.318098
+682,unregulated,Unregulated (Cahaba),Settings 2,2.0,5,0.234263
+683,unregulated,Unregulated (Cahaba),Settings 2,2.0,5,0.203824
+684,unregulated,Unregulated (Cahaba),Settings 2,2.0,5,0.212688
+685,unregulated,Unregulated (Cahaba),Settings 2,2.0,5,0.243204
+686,unregulated,Unregulated (Cahaba),Settings 2,2.0,5,0.250644
+687,unregulated,Unregulated (Cahaba),Settings 2,2.0,5,0.22765
+688,unregulated,Unregulated (Cahaba),Settings 2,2.0,5,0.198714
+689,unregulated,Unregulated (Cahaba),Settings 2,2.0,5,0.244913
+690,unregulated,Unregulated (Cahaba),Settings 2,2.0,5,0.279978
+691,unregulated,Unregulated (Cahaba),Settings 2,2.0,5,0.302727
+692,unregulated,Unregulated (Cahaba),Settings 2,2.0,5,0.239342
+693,unregulated,Unregulated (Cahaba),Settings 2,2.0,5,0.247285
+694,unregulated,Unregulated (Cahaba),Settings 2,2.0,5,0.219032
+695,unregulated,Unregulated (Cahaba),Settings 2,2.0,5,0.268271
+696,unregulated,Unregulated (Cahaba),Settings 2,2.0,5,0.223336
+697,unregulated,Unregulated (Cahaba),Settings 2,2.0,5,0.301522
+698,unregulated,Unregulated (Cahaba),Settings 2,2.0,5,0.171777
+699,unregulated,Unregulated (Cahaba),Settings 2,2.0,5,0.25022
+700,unregulated,Unregulated (Cahaba),Settings 2,2.0,5,0.286561
