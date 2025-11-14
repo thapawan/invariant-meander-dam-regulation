@@ -1,5 +1,0 @@
-  Multiple Comparison of Means - Tukey HSD, FWER=0.05  
- group1 , group2 ,meandiff,p-adj, lower , upper ,reject
-0–10 km ,10–30 km,-0.118  ,0.0  ,-0.1266,-0.1094,True  
-0–10 km ,No Dam  ,-0.0832 ,0.0  ,-0.091 ,-0.0754,True  
-10–30 km,No Dam  ,0.0348  ,0.0  ,0.0283 ,0.0413 ,True  
