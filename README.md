@@ -6,7 +6,7 @@ This repository contains the complete data and code to reproduce the analysis an
 
 This study demonstrates a fundamental decoupling in meander migration: the **spatial pattern of erosion (phase lag)** is an intrinsic geometric property invariant to dam regulation, while the **rate of migration (erodibility coefficient)** is extrinsically suppressed. We combine multi-sensor remote sensing, hydrologic analysis, and statistical modeling to show that dam regulation induces a state of **geomorphic dormancy**, where the river's meandering blueprint remains intact but its execution is halted by dampened hydraulics and enhanced biotic stabilization.
 
-![Abstract Graphic](Results/StudyArea_Final.jpg) *[Optional: Include a key figure from the paper]*
+![Workflow](https://github.com/thapawan/invariant-meander-dam-regulation/blob/main/Results/Figure2.jpeg)
 
 ## **Key Findings**
 
