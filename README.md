@@ -1,4 +1,4 @@
-# **The Invariant Meander: Dam Regulation Suppresses Migration Rates but Conserves the Geometric Template of Erosion**
+## **The Invariant Meander: Dam Regulation Suppresses Migration Rates but Conserves the Geometric Template of Erosion**
 
 ## **Overview**
 
@@ -10,7 +10,7 @@ This study demonstrates a fundamental decoupling in meander migration: the **spa
 
 ## **Key Findings**
 
-1.  **Geometric Invariance:** The dimensionless curvature-migration phase lag (Δs/~W~) is statistically indistinguishable between regulated and unregulated rivers (~2.0 channel widths), confirming it as an intrinsic property.
+1.  **Geometric Invariance:** The dimensionless curvature-migration phase lag (Δs/W) is statistically indistinguishable between regulated and unregulated rivers (~2.0 channel widths), confirming it as an intrinsic property.
 2.  **Process Suppression:** Median migration rates and the erodibility coefficient (E) are suppressed by more than 50% in the regulated river.
 3.  **Shift in Process Dominance:** Linear Mixed-Effects modeling reveals that riparian vegetation becomes the key constraint on channel migration under regulation, a signature of a dam-induced biogeomorphic feedback loop.
 
