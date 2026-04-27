@@ -30,30 +30,21 @@ invariant-meander-dam-regulation/
 │
 ├── Data/                              # All input data
 │   ├── raw/                           # Original satellite & hydrologic data
-│   │   ├── landsat_centerlines/
+│   │   ├── centerlines/
+│   │   ├── meander_cutoff/
 │   │   ├── usgs_discharge/
 │   │   └── ssurgo_clay/
+│   │   └── water_masks/
 │   ├── processed/                     # Analysis‑ready datasets
 │   │   ├── ikeda_ready_points_fixed.csv
 │   │   ├── ikeda_ready_bends_enhanced.csv
 │   │   ├── ikeda_ready_fields_dictionary.csv
 │   │   ├── comprehensive_migration_phase_lag_analysis.xlsx
 │   │   └── figure3_clay_vs_evi.csv
-│   └── spatial/                       # Watershed boundaries, study reach shapefiles
-│
-├── Scripts/                           # All analysis code
-│   ├── 01_load_data.py                # Load & validate datasets
-│   ├── 02_centerline_extraction.py    # Medial Axis Transform, cubic splines
-│   ├── 03_migration_curvature.py      # Migration rates & curvature computation
-│   ├── 04_phase_lag_analysis.py       # Cross‑correlation, bootstrap CIs
-│   ├── 05_lme_model.py                # Linear Mixed‑Effects model (REML)
-│   ├── 06_statistical_tests.py        # Mann‑Whitney U, KS tests, χ² (removed)
-│   ├── 07_sensitivity_analysis.py     # Width multiplier, curvature tolerance
-│   ├── 08_figures.py                  # Generate all manuscript figures
-│   ├── 09_supplementary_results.py    # Additional analyses & tables
-│   ├── run_all.py                     # Master script to run entire pipeline
-│   └── utils.py                       # Shared helper functions
-│
+├── Examples/                          # Tutorials & reproducible examples
+│   ├── Readme
+│   ├── plot_usgs_discharge.ipynb
+│   ├── tutorial_notebook.ipynb
 ├── Results/                           # All generated outputs
 │   ├── figures/                       # Manuscript figures (PNG, PDF, SVG)
 │   │   ├── Figure_1_map.png
@@ -62,26 +53,20 @@ invariant-meander-dam-regulation/
 │   │   ├── Figure_4_erodibility.png
 │   │   ├── Figure_5_sensitivity.png
 │   │   └── supplementary_figures/
-│   ├── tables/                        # Manuscript tables
-│   │   ├── Table_1_datasets.csv
-│   │   ├── Table_2_lme_results.csv
-│   │   ├── Table_3_qcv.csv
-│   │   └── supplementary_tables/
-│   └── statistics/                    # Model outputs & test results
-│       ├── lme_summary.txt
-│       ├── mann_whitney_results.csv
-│       ├── bootstrap_results.csv
-│       └── icc_summary.csv
-│
-├── Examples/                          # Tutorials & reproducible examples
-│   ├── tutorial_centerline_extraction.ipynb
-│   ├── tutorial_phase_lag_calculation.ipynb
-│   ├── tutorial_lme_model.ipynb
-│   └── example_output/
-│
-├── Docs/                              # Documentation
-│   ├── methodology_supplement.pdf
-│   └── code_annotation_guide.md
+│       ├── centerline_with_EVI_CV_DamDistance_with_CVdiff.csv
+│       ├── validation_dambin_stats.csv
+├── Scripts/
+│   ├── Python/                              # All analysis code
+│   ├── 01_load_data.py               
+│   ├── 02_Phase Lag Invariance.py    
+│   ├── 03_Migration Rate Suppression.py      
+│   ├── 04_Erodibility Coefficient and LME Model.py       
+│   ├── 05_Flood-Migration Coupling.py             
+│   ├── 06_Sensitivity Analysis.py        
+│   ├── 07_Summary Statistics.py     
+│   ├── 08_Qcv.py                  
+│   ├── 09_verification.py
+│   ├── 10_Epoch Stability Test.py    
 │
 ├── environment.yml                    # Conda environment (Python 3.9+)
 ├── requirements.txt                   # Pip dependencies
