@@ -1,0 +1,15 @@
+# For Cahaba River only
+cahaba_df = df_valid[df_valid['river'] == 'Cahaba'].copy()
+
+# Define flood years (based on your data)
+# 2010: flood, 2020: flood
+cahaba_df['flood_present'] = cahaba_df['year'].apply(lambda x: 1 if x in [2000, 2018] else 0)  # Adjust based on actual flood years
+
+# Split into high and low migration intervals
+median_migration = cahaba_df['median_migration_rate'].median()
+cahaba_df['high_migration'] = (cahaba_df['median_migration_rate'] > median_migration).astype(int)
+
+# Create contingency table
+contingency = pd.crosstab(cahaba_df['high_migration'], cahaba_df['flood_present'])
+print("\n=== Flood-Migration Contingency Table ===")
+print(contingency)
