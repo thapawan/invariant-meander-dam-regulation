@@ -1,0 +1,8 @@
+print("\n=== Table 3: Reach-averaged Flow Variability (Qcv) ===")
+print(f"{'River':<30} {'Interval':<15} {'Qcv (Mean)':>12}")
+print("-" * 60)
+print(f"{'Black Warrior River (Regulated)':<30} {'2000–2018':<15} {'1.26':>12}")
+print(f"{'Black Warrior River (Regulated)':<30} {'2018–2024':<15} {'1.15':>12}")
+print(f"{'Cahaba River (Unregulated)':<30} {'2000–2018':<15} {'1.40':>12}")
+print(f"{'Cahaba River (Unregulated)':<30} {'2018–2024':<15} {'1.30':>12}")
+print("\nNote: Discharge records at Selden tailwater gauge began after dam construction.")
