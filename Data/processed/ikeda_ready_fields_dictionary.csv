@@ -1,0 +1,46 @@
+column,description
+river,River name
+year,Year of the centerline used for this bend/point
+bend_id,Unique bend identifier (river_year_index)
+row_id,Sequential point index within a bend
+x,Point X coordinate (projected meters)
+y,Point Y coordinate (projected meters)
+s_m,Cumulative along-centerline distance within the bend (m)
+ds_m,Segment length to next point along the bend (m)
+curvature_1_per_m,Signed planform curvature at this point (1/m)
+curvature_abs_1_per_m,Absolute curvature (1/m)
+migration_rate_m_per_yr,Signed lateral migration rate (m/year)
+migration_abs_m_per_yr,Absolute migration rate (m/year)
+apex_s_m,Along-bend distance of the apex point (m)
+dist_from_apex_m,Distance from current point to bend apex along the bend (m)
+normalized_s_0_1,Relative position along the bend from 0 (start) to 1 (end)
+curvature_lag_best_1_per_m,Curvature sampled L meters downstream (best L maximizing |corr| with migration)
+phase_lag_min_m,Minimum lag distance tested (m)
+phase_lag_max_m,Maximum lag distance tested (m)
+phase_lag_step_m,Lag step size used (m)
+best_lag_m,Lag distance (m) that best matches curvature-to-migration correlation for this bend
+best_lag_abs_corr,Absolute Pearson correlation at best lag
+best_lag_corr_signed,Signed Pearson correlation at best lag
+n_points,Number of points in the bend
+s_length_m,Along-centerline length of the bend (m)
+chord_len_m,Straight-line distance from bend start to end (m)
+sinuosity_unitless,Bend sinuosity = along-length / chord-length (unitless)
+curvature_abs_max,Maximum absolute curvature within the bend (1/m)
+curvature_abs_mean,Mean absolute curvature within the bend (1/m)
+mean_migration_rate,Mean signed migration rate across bend (m/year)
+median_migration_rate,Median signed migration rate across bend (m/year)
+std_migration_rate,Standard deviation of migration rate (m/year)
+mean_migration_abs,Mean absolute migration rate (m/year)
+max_migration_abs,Maximum absolute migration rate (m/year)
+mean_curvature,Mean signed curvature across bend (1/m)
+std_curvature,Standard deviation of curvature (1/m)
+mean_curvature_abs,Mean of absolute curvature (1/m)
+frac_pos_curv,Fraction of points with positive curvature
+frac_pos_migration,Fraction of points with positive (rightward) migration
+DamDistance_km,Distance from point to nearest main dam along the river (km)
+DamDistance_km_mean,Bend-mean distance to dam (km)
+Regulated_binary,"1 if reach is regulated by dams, else 0"
+CV_runoff_selected,Coefficient of variation of runoff (selected period)
+CV_runoff_selected_mean,Bend-mean coefficient of variation of runoff
+Delta_EVI_change_unitless,Change in vegetation (EVI) between periods (unitless)
+Delta_EVI_change_unitless_mean,Bend-mean vegetation change (unitless)
