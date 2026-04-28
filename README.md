@@ -86,30 +86,8 @@ git clone https://github.com/thapawan/invariant-meander-dam-regulation.git
 cd invariant-meander-dam-regulation
 ```
 
-### 2. Set Up the Environment
 
-**Option A: Conda (Recommended)**
-
-```bash
-conda env create -f environment.yml
-conda activate invariant_meander
-```
-
-**Option B: Pip**
-
-```bash
-pip install -r requirements.txt
-```
-
-### 3. Run the Full Analysis Pipeline
-
-```bash
-python Scripts/run_all.py
-```
-
-This will execute all scripts in order and regenerate all figures, tables, and statistical outputs in the `Results/` directory.
-
-### 4. Explore Step‑by‑Step (Jupyter Notebooks)
+### 2. Explore Step‑by‑Step (Jupyter Notebooks)
 
 ```bash
 jupyter notebook Examples/
@@ -168,11 +146,7 @@ Each manuscript figure can be regenerated independently:
 
 ```bash
 # Generate all figures
-python Scripts/08_figures.py
-
-# Generate specific figure
-python Scripts/08_figures.py --figure 2
-```
+python Scripts/R Scripts
 
 | Figure | Description | Script Reference |
 |:-------|:------------|:-----------------|
@@ -213,8 +187,7 @@ python Scripts/08_figures.py --figure 2
 
 Run the following to verify your environment and data:
 
-```python
-python Scripts/00_verify_setup.py
+python Scripts/R Scripts
 ```
 
 Expected output:
@@ -265,7 +238,7 @@ If you use this code or data in your research, please cite:
 ```bibtex
 @article{Thapa2024_InvariantMeander,
   title = {Decoupled Adjustment of Meander Planform Geometry and Migration Rate Under Dam Regulation},
-  author = {Thapa, Pawan and Davis, Lisa and Frame, Jonathan and Amanambu, Amobichukwu},
+  author = {},
   journal = {[Journal Name]},
   volume = {[Volume]},
   pages = {[Pages]},
@@ -311,12 +284,11 @@ This project is licensed under the **MIT License** – see the [LICENSE](LICENSE
 |:------------|:-------|
 | Raw data included or referenced | ✅ (USGS, ECMWF, USGS – public) |
 | Processed data provided | ✅ (CSV, Excel in Data/processed) |
-| All scripts numbered and ordered | ✅ (01–09 + run_all.py) |
-| Environment file provided | ✅ (environment.yml, requirements.txt) |
+| All scripts numbered and ordered | ✅ (01–10y) |
 | README with instructions | ✅ |
 | License included | ✅ (MIT) |
 | Tutorial notebooks | ✅ (Examples/) |
-| Figure generation code | ✅ (08_figures.py) |
+| Figure generation code | ✅ (Scripts) |
 
 ---
 
