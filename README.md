@@ -55,6 +55,7 @@ invariant-meander-dam-regulation/
 │   │   └── supplementary_figures/
 │       ├── centerline_with_EVI_CV_DamDistance_with_CVdiff.csv
 │       ├── validation_dambin_stats.csv
+│       ├── features_model_ready_cleaned.csv
 ├── Scripts/
 │   ├── Python/                              # All analysis code
 │   ├── 01_load_data.py               
