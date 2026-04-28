@@ -70,7 +70,6 @@ invariant-meander-dam-regulation/
 │
 ├── environment.yml                    # Conda environment (Python 3.9+)
 ├── requirements.txt                   # Pip dependencies
-├── .gitignore
 ├── LICENSE                            # MIT License
 └── README.md                          # This file
 ```
