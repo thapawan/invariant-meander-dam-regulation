@@ -7,7 +7,7 @@ This repository contains the complete, reproducible data and code for the manusc
 
 > **"Decoupled Adjustment of Meander Planform Geometry and Migration Rate Under Dam Regulation"**
 
-The study demonstrates a fundamental decoupling in meander response to anthropogenic flow regulation: the **spatial template of erosion (curvature–migration phase lag)** remains invariant under dam regulation, while the **process rate (migration and erodibility)** is substantially suppressed. Using a paired‑watershed design, multi‑temporal satellite imagery (2000–2024), and a Linear Mixed‑Effects framework, we show that regulation shifts process dominance from hydraulic to biotic control—a state we term *geomorphic dormancy*.
+The study demonstrates a fundamental decoupling in meander response to anthropogenic flow regulation: the **spatial template of erosion (curvature–migration phase lag)** remains invariant under dam regulation, while the **process rate (migration and erodibility)** is substantially suppressed. Using a paired‑watershed design, multi‑temporal satellite imagery (2000–2018, and 2018-2024), and a Linear Mixed‑Effects framework, we show that regulation shifts process dominance from hydraulic to biotic control, a state we term *geomorphic dormancy*.
 
 ---
 
