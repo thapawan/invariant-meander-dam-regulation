@@ -235,7 +235,7 @@ print(result.summary())
 If you use this code or data in your research, please cite:
 
 ```bibtex
-@article{Thapa2024_InvariantMeander,
+@article{InvariantMeander,
   title = {Decoupled Adjustment of Meander Planform Geometry and Migration Rate Under Dam Regulation},
   author = {},
   journal = {[Journal Name]},
