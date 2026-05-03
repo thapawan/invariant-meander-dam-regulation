@@ -283,7 +283,7 @@ This project is licensed under the **MIT License** – see the [LICENSE](LICENSE
 |:------------|:-------|
 | Raw data included or referenced | ✅ (USGS, ECMWF, USGS – public) |
 | Processed data provided | ✅ (CSV, Excel in Data/processed) |
-| All scripts numbered and ordered | ✅ (01–10y) |
+| All scripts numbered and ordered | ✅ (01–10) |
 | README with instructions | ✅ |
 | License included | ✅ (MIT) |
 | Tutorial notebooks | ✅ (Examples/) |
